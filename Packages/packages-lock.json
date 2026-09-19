@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.unity.2d.animation": {
-      "version": "16.0.0",
+      "version": "16.0.1",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -37,6 +37,15 @@
         "com.unity.mathematics": "1.1.0",
         "com.unity.modules.animation": "1.0.0",
         "com.unity.modules.imageconversion": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.2d.pixel-perfect": {
+      "version": "6.0.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.imgui": "1.0.0"
       },
       "url": "https://packages.unity.com"
     },
@@ -78,7 +87,7 @@
       }
     },
     "com.unity.2d.tilemap.extras": {
-      "version": "9.0.0",
+      "version": "9.0.1",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -129,6 +138,15 @@
       "depth": 1,
       "source": "builtin",
       "dependencies": {}
+    },
+    "com.unity.cinemachine": {
+      "version": "6.6.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.splines": "2.8.4",
+        "com.unity.modules.imgui": "1.0.0"
+      }
     },
     "com.unity.collab-proxy": {
       "version": "2.13.6",
@@ -294,6 +312,17 @@
         "com.unity.searcher": "4.9.3",
         "com.unity.graph-authoring": "1.0.0"
       }
+    },
+    "com.unity.splines": {
+      "version": "2.9.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.mathematics": "1.2.1",
+        "com.unity.modules.imgui": "1.0.0",
+        "com.unity.settings-manager": "1.0.3"
+      },
+      "url": "https://packages.unity.com"
     },
     "com.unity.test-framework": {
       "version": "1.8.0",
