@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: 9a64215188254104eba7ec6a8348743f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4447239801471025222
+    second: LuciernagaCorrupta_Sheet_0
+  - first:
+      213: -3842092116407904259
+    second: LuciernagaCorrupta_Sheet_1
+  - first:
+      213: -3950422585373355481
+    second: LuciernagaCorrupta_Sheet_2
+  - first:
+      213: -9200794079499169478
+    second: LuciernagaCorrupta_Sheet_3
+  - first:
+      213: 6678514192419946399
+    second: LuciernagaCorrupta_Sheet_4
+  - first:
+      213: -267590188224263232
+    second: LuciernagaCorrupta_Sheet_5
+  - first:
+      213: 108384026917252054
+    second: LuciernagaCorrupta_Sheet_6
+  - first:
+      213: 3672550658345587263
+    second: LuciernagaCorrupta_Sheet_7
+  - first:
+      213: -9077578042246742452
+    second: LuciernagaCorrupta_Sheet_8
+  - first:
+      213: -3047791631829478730
+    second: LuciernagaCorrupta_Sheet_9
+  - first:
+      213: -7063703308641213610
+    second: LuciernagaCorrupta_Sheet_10
+  - first:
+      213: 631668028847901382
+    second: LuciernagaCorrupta_Sheet_11
+  - first:
+      213: -1329903780360495718
+    second: LuciernagaCorrupta_Sheet_12
+  - first:
+      213: -5389393331489191850
+    second: LuciernagaCorrupta_Sheet_13
+  - first:
+      213: -3294895764407865066
+    second: LuciernagaCorrupta_Sheet_14
+  - first:
+      213: -4167753765685535972
+    second: LuciernagaCorrupta_Sheet_15
+  - first:
+      213: 9002042255717822772
+    second: LuciernagaCorrupta_Sheet_16
+  - first:
+      213: 6108318895368164051
+    second: LuciernagaCorrupta_Sheet_17
+  - first:
+      213: -2752922756131877692
+    second: LuciernagaCorrupta_Sheet_18
+  - first:
+      213: -7990177972880235463
+    second: LuciernagaCorrupta_Sheet_19
+  - first:
+      213: 507118816746362713
+    second: LuciernagaCorrupta_Sheet_20
+  - first:
+      213: -910194318202077129
+    second: LuciernagaCorrupta_Sheet_21
+  - first:
+      213: 5915111355549608703
+    second: LuciernagaCorrupta_Sheet_22
+  - first:
+      213: -7822268383659661024
+    second: LuciernagaCorrupta_Sheet_23
+  - first:
+      213: 893990103389808193
+    second: LuciernagaCorrupta_Sheet_24
+  - first:
+      213: -2032791681475113268
+    second: LuciernagaCorrupta_Sheet_25
+  - first:
+      213: -4648114100061949370
+    second: LuciernagaCorrupta_Sheet_26
+  - first:
+      213: -1348668856199726547
+    second: LuciernagaCorrupta_Sheet_27
+  - first:
+      213: 1570293821143387947
+    second: LuciernagaCorrupta_Sheet_28
+  - first:
+      213: 1113882686886486614
+    second: LuciernagaCorrupta_Sheet_29
+  - first:
+      213: 2434439034050868592
+    second: LuciernagaCorrupta_Sheet_30
+  - first:
+      213: -1389499467811194417
+    second: LuciernagaCorrupta_Sheet_31
+  - first:
+      213: -538903920358995967
+    second: LuciernagaCorrupta_Sheet_32
+  - first:
+      213: -4293639916219257224
+    second: LuciernagaCorrupta_Sheet_33
+  - first:
+      213: 7183286818552281802
+    second: LuciernagaCorrupta_Sheet_34
+  - first:
+      213: -1756104028144330613
+    second: LuciernagaCorrupta_Sheet_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1006
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640c8a57905c7bd30800000000000000
+      internalID: 4447239801471025222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1008
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df79d2f83952eaac0800000000000000
+      internalID: -3842092116407904259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1011
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722142eb6974d29c0800000000000000
+      internalID: -3950422585373355481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1002
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a315fe75886305080800000000000000
+      internalID: -9200794079499169478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1007
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f78921649deac50800000000000000
+      internalID: 6678514192419946399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1007
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb438d3424594cf0800000000000000
+      internalID: -267590188224263232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1019
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbaabfb2be018100800000000000000
+      internalID: 108384026917252054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1009
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32d052ad5587f230800000000000000
+      internalID: 3672550658345587263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 837
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e3ffa9dd6f50280800000000000000
+      internalID: -9077578042246742452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 837
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b25563a8a114b5d0800000000000000
+      internalID: -3047791631829478730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 793
+        width: 139
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65360b1144fa8fd90800000000000000
+      internalID: -7063703308641213610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 838
+        width: 214
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca437bb9b224c800800000000000000
+      internalID: 631668028847901382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 816
+        width: 173
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9dd922de8b3b8de0800000000000000
+      internalID: -1329903780360495718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 25
+        width: 240
+        height: 916
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6584ab9b1570535b0800000000000000
+      internalID: -5389393331489191850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 811
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611b78662cd2642d0800000000000000
+      internalID: -3294895764407865066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 756
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b5405280a2926c0800000000000000
+      internalID: -4167753765685535972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 772
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431fd199cbdadec70800000000000000
+      internalID: 9002042255717822772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 548
+        width: 169
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2d93d0cab15c450800000000000000
+      internalID: 6108318895368164051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 723
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc8ba2c657abc9d0800000000000000
+      internalID: -2752922756131877692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 731
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934a25aa77f2d1190800000000000000
+      internalID: -7990177972880235463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 722
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957551380e5a90700800000000000000
+      internalID: 507118816746362713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 556
+        width: 192
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7308cfa07175e53f0800000000000000
+      internalID: -910194318202077129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 645
+        width: 34
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffae9623072b61250800000000000000
+      internalID: 5915111355549608703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 693
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02962366958b17390800000000000000
+      internalID: -7822268383659661024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 682
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146a3413347186c00800000000000000
+      internalID: 893990103389808193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 659
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce8e436cb21ac3e0800000000000000
+      internalID: -2032791681475113268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 657
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642b25e4ad49e7fb0800000000000000
+      internalID: -4648114100061949370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 613
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a359222d0984de0800000000000000
+      internalID: -1348668856199726547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 650
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f0e3a19edcac510800000000000000
+      internalID: 1570293821143387947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 629
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652a351f66e457f00800000000000000
+      internalID: 1113882686886486614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 560
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07572fb376dd8c120800000000000000
+      internalID: 2434439034050868592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 562
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9f48d889187bce0800000000000000
+      internalID: -1389499467811194417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 587
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108cfea5dbd6588f0800000000000000
+      internalID: -538903920358995967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 544
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e2050be3de964c0800000000000000
+      internalID: -4293639916219257224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 544
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acafd838d4920b360800000000000000
+      internalID: 7183286818552281802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuciernagaCorrupta_Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 523
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8813ddc0b011a7e0800000000000000
+      internalID: -1756104028144330613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LuciernagaCorrupta_Sheet_0: 4447239801471025222
+      LuciernagaCorrupta_Sheet_1: -3842092116407904259
+      LuciernagaCorrupta_Sheet_10: -7063703308641213610
+      LuciernagaCorrupta_Sheet_11: 631668028847901382
+      LuciernagaCorrupta_Sheet_12: -1329903780360495718
+      LuciernagaCorrupta_Sheet_13: -5389393331489191850
+      LuciernagaCorrupta_Sheet_14: -3294895764407865066
+      LuciernagaCorrupta_Sheet_15: -4167753765685535972
+      LuciernagaCorrupta_Sheet_16: 9002042255717822772
+      LuciernagaCorrupta_Sheet_17: 6108318895368164051
+      LuciernagaCorrupta_Sheet_18: -2752922756131877692
+      LuciernagaCorrupta_Sheet_19: -7990177972880235463
+      LuciernagaCorrupta_Sheet_2: -3950422585373355481
+      LuciernagaCorrupta_Sheet_20: 507118816746362713
+      LuciernagaCorrupta_Sheet_21: -910194318202077129
+      LuciernagaCorrupta_Sheet_22: 5915111355549608703
+      LuciernagaCorrupta_Sheet_23: -7822268383659661024
+      LuciernagaCorrupta_Sheet_24: 893990103389808193
+      LuciernagaCorrupta_Sheet_25: -2032791681475113268
+      LuciernagaCorrupta_Sheet_26: -4648114100061949370
+      LuciernagaCorrupta_Sheet_27: -1348668856199726547
+      LuciernagaCorrupta_Sheet_28: 1570293821143387947
+      LuciernagaCorrupta_Sheet_29: 1113882686886486614
+      LuciernagaCorrupta_Sheet_3: -9200794079499169478
+      LuciernagaCorrupta_Sheet_30: 2434439034050868592
+      LuciernagaCorrupta_Sheet_31: -1389499467811194417
+      LuciernagaCorrupta_Sheet_32: -538903920358995967
+      LuciernagaCorrupta_Sheet_33: -4293639916219257224
+      LuciernagaCorrupta_Sheet_34: 7183286818552281802
+      LuciernagaCorrupta_Sheet_35: -1756104028144330613
+      LuciernagaCorrupta_Sheet_4: 6678514192419946399
+      LuciernagaCorrupta_Sheet_5: -267590188224263232
+      LuciernagaCorrupta_Sheet_6: 108384026917252054
+      LuciernagaCorrupta_Sheet_7: 3672550658345587263
+      LuciernagaCorrupta_Sheet_8: -9077578042246742452
+      LuciernagaCorrupta_Sheet_9: -3047791631829478730
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

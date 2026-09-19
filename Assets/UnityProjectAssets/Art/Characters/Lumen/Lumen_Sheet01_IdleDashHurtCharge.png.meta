@@ -1,0 +1,1276 @@
+fileFormatVersion: 2
+guid: 46a852e16cfd1a043ac62935cc42ecbc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -72443876809638488
+    second: Lumen_Sheet01_IdleDashHurtCharge_0
+  - first:
+      213: 3775865610949873007
+    second: Lumen_Sheet01_IdleDashHurtCharge_1
+  - first:
+      213: -6125290626800707329
+    second: Lumen_Sheet01_IdleDashHurtCharge_2
+  - first:
+      213: -3465096286436248923
+    second: Lumen_Sheet01_IdleDashHurtCharge_3
+  - first:
+      213: -8276514401733199203
+    second: Lumen_Sheet01_IdleDashHurtCharge_4
+  - first:
+      213: 365902074656384470
+    second: Lumen_Sheet01_IdleDashHurtCharge_5
+  - first:
+      213: 6773116158986555141
+    second: Lumen_Sheet01_IdleDashHurtCharge_6
+  - first:
+      213: 944404550218893083
+    second: Lumen_Sheet01_IdleDashHurtCharge_7
+  - first:
+      213: -9208049063256297247
+    second: Lumen_Sheet01_IdleDashHurtCharge_8
+  - first:
+      213: -2271901944573366228
+    second: Lumen_Sheet01_IdleDashHurtCharge_9
+  - first:
+      213: -2759605565774310881
+    second: Lumen_Sheet01_IdleDashHurtCharge_10
+  - first:
+      213: -3605724434019701141
+    second: Lumen_Sheet01_IdleDashHurtCharge_11
+  - first:
+      213: 6988461082524880549
+    second: Lumen_Sheet01_IdleDashHurtCharge_12
+  - first:
+      213: -1903035493241776699
+    second: Lumen_Sheet01_IdleDashHurtCharge_13
+  - first:
+      213: -8459728444131967834
+    second: Lumen_Sheet01_IdleDashHurtCharge_14
+  - first:
+      213: -4911528194921845147
+    second: Lumen_Sheet01_IdleDashHurtCharge_15
+  - first:
+      213: 2375974660424834279
+    second: Lumen_Sheet01_IdleDashHurtCharge_16
+  - first:
+      213: -1888373212304893231
+    second: Lumen_Sheet01_IdleDashHurtCharge_17
+  - first:
+      213: 3014431288893032520
+    second: Lumen_Sheet01_IdleDashHurtCharge_18
+  - first:
+      213: -1372682520972372419
+    second: Lumen_Sheet01_IdleDashHurtCharge_19
+  - first:
+      213: 8944155710653351137
+    second: Lumen_Sheet01_IdleDashHurtCharge_20
+  - first:
+      213: -6837022960853011871
+    second: Lumen_Sheet01_IdleDashHurtCharge_21
+  - first:
+      213: -9201282392869351691
+    second: Lumen_Sheet01_IdleDashHurtCharge_22
+  - first:
+      213: 2523245276860717634
+    second: Lumen_Sheet01_IdleDashHurtCharge_23
+  - first:
+      213: 8483201771045605470
+    second: Lumen_Sheet01_IdleDashHurtCharge_24
+  - first:
+      213: -3928824496530620803
+    second: Lumen_Sheet01_IdleDashHurtCharge_25
+  - first:
+      213: -7945647651762164361
+    second: Lumen_Sheet01_IdleDashHurtCharge_26
+  - first:
+      213: 8039220743859533435
+    second: Lumen_Sheet01_IdleDashHurtCharge_27
+  - first:
+      213: -2121951787315494606
+    second: Lumen_Sheet01_IdleDashHurtCharge_28
+  - first:
+      213: -7047267324040759749
+    second: Lumen_Sheet01_IdleDashHurtCharge_29
+  - first:
+      213: -2483598009279176666
+    second: Lumen_Sheet01_IdleDashHurtCharge_30
+  - first:
+      213: -8217103278443694826
+    second: Lumen_Sheet01_IdleDashHurtCharge_31
+  - first:
+      213: 3515291543725393034
+    second: Lumen_Sheet01_IdleDashHurtCharge_32
+  - first:
+      213: 1614397559819343685
+    second: Lumen_Sheet01_IdleDashHurtCharge_33
+  - first:
+      213: 8400691582199115426
+    second: Lumen_Sheet01_IdleDashHurtCharge_34
+  - first:
+      213: -2440180810790088815
+    second: Lumen_Sheet01_IdleDashHurtCharge_35
+  - first:
+      213: -5873834204259412639
+    second: Lumen_Sheet01_IdleDashHurtCharge_36
+  - first:
+      213: -7889195076159099992
+    second: Lumen_Sheet01_IdleDashHurtCharge_37
+  - first:
+      213: 8950828927900847894
+    second: Lumen_Sheet01_IdleDashHurtCharge_38
+  - first:
+      213: -3377301376204966453
+    second: Lumen_Sheet01_IdleDashHurtCharge_39
+  - first:
+      213: 3782369429795736854
+    second: Lumen_Sheet01_IdleDashHurtCharge_40
+  - first:
+      213: 3115788442430376204
+    second: Lumen_Sheet01_IdleDashHurtCharge_41
+  - first:
+      213: -8656445776712380046
+    second: Lumen_Sheet01_IdleDashHurtCharge_42
+  - first:
+      213: -5840316992021128491
+    second: Lumen_Sheet01_IdleDashHurtCharge_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 797
+        width: 133
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adfb988da0aefef0800000000000000
+      internalID: -72443876809638488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_1
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 933
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6dc74c84c1966430800000000000000
+      internalID: 3775865610949873007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_2
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 796
+        width: 114
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8938bc0a89efaa0800000000000000
+      internalID: -6125290626800707329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 926
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2317e494189efc0800000000000000
+      internalID: -3465096286436248923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_4
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 940
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ab942a00ae32d80800000000000000
+      internalID: -8276514401733199203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_5
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 796
+        width: 114
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5e87e8ff1f31500800000000000000
+      internalID: 365902074656384470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_6
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 939
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f0ad6d241fefd50800000000000000
+      internalID: 6773116158986555141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_7
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 796
+        width: 120
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b174f0c4fe23b1d00800000000000000
+      internalID: 944404550218893083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_8
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 930
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e07d3ec920763080800000000000000
+      internalID: -9208049063256297247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 861
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c207f2de7359870e0800000000000000
+      internalID: -2271901944573366228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_10
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 845
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12d4d3eb59e3b9d0800000000000000
+      internalID: -2759605565774310881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 583
+        width: 172
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e2f403bb4e5fdc0800000000000000
+      internalID: -3605724434019701141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_12
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 685
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae898ef3500cf060800000000000000
+      internalID: 6988461082524880549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_13
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 583
+        width: 173
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c51d563d4f0795e0800000000000000
+      internalID: -1903035493241776699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_14
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 585
+        width: 212
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acfe373dc1099a80800000000000000
+      internalID: -8459728444131967834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_15
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 583
+        width: 221
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e2e5d012fb6dbb0800000000000000
+      internalID: -4911528194921845147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 637
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec93fd7d5829f020800000000000000
+      internalID: 2375974660424834279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_17
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 664
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da143581962bc5e0800000000000000
+      internalID: -1888373212304893231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_18
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 637
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848ca4e394965d920800000000000000
+      internalID: 3014431288893032520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_19
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 626
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36dd0c158043fce0800000000000000
+      internalID: -1372682520972372419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_20
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 639
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4464d0b36002c70800000000000000
+      internalID: 8944155710653351137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_21
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 637
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162ba2957d30e11a0800000000000000
+      internalID: -6837022960853011871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 599
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe47f60a6a7e4080800000000000000
+      internalID: -9201282392869351691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_23
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 600
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a1778e53e540320800000000000000
+      internalID: 2523245276860717634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_24
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 598
+        width: 55
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50532990136ab570800000000000000
+      internalID: 8483201771045605470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_25
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 567
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e707bafe20a79c0800000000000000
+      internalID: -3928824496530620803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_26
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 580
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77dac4efe836bb190800000000000000
+      internalID: -7945647651762164361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_27
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 578
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76f2b44cac019f60800000000000000
+      internalID: 8039220743859533435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_28
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 572
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2310e8e87105d82e0800000000000000
+      internalID: -2121951787315494606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_29
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 257
+        width: 249
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b363551f4b3133e90800000000000000
+      internalID: -7047267324040759749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_30
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 277
+        width: 115
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6202c0ce4cc788dd0800000000000000
+      internalID: -2483598009279176666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_31
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 276
+        width: 117
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6157aa5ba1cf6fd80800000000000000
+      internalID: -8217103278443694826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_32
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 276
+        width: 117
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84cfa1c803d8c030800000000000000
+      internalID: 3515291543725393034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_33
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 340
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5471a47f60e776610800000000000000
+      internalID: 1614397559819343685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_34
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 166
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aea7983c70459470800000000000000
+      internalID: 8400691582199115426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 128
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fc1213b7cb22ed0800000000000000
+      internalID: -2440180810790088815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_36
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 34
+        width: 119
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165149189e2fb7ea0800000000000000
+      internalID: -5873834204259412639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_37
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 23
+        width: 165
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aba6c180e2f38290800000000000000
+      internalID: -7889195076159099992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_38
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 0
+        width: 503
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f02d48c7bb73c70800000000000000
+      internalID: 8950828927900847894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_39
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 151
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc57dd3ca4a6121d0800000000000000
+      internalID: -3377301376204966453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 109
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d8540e4fcad7430800000000000000
+      internalID: 3782369429795736854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 70
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09845a84118d3b20800000000000000
+      internalID: 3115788442430376204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_42
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 65
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271d0ad0e602ed780800000000000000
+      internalID: -8656445776712380046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lumen_Sheet01_IdleDashHurtCharge_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 77
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da17ea93a603fea0800000000000000
+      internalID: -5840316992021128491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lumen_Sheet01_IdleDashHurtCharge_0: -72443876809638488
+      Lumen_Sheet01_IdleDashHurtCharge_1: 3775865610949873007
+      Lumen_Sheet01_IdleDashHurtCharge_10: -2759605565774310881
+      Lumen_Sheet01_IdleDashHurtCharge_11: -3605724434019701141
+      Lumen_Sheet01_IdleDashHurtCharge_12: 6988461082524880549
+      Lumen_Sheet01_IdleDashHurtCharge_13: -1903035493241776699
+      Lumen_Sheet01_IdleDashHurtCharge_14: -8459728444131967834
+      Lumen_Sheet01_IdleDashHurtCharge_15: -4911528194921845147
+      Lumen_Sheet01_IdleDashHurtCharge_16: 2375974660424834279
+      Lumen_Sheet01_IdleDashHurtCharge_17: -1888373212304893231
+      Lumen_Sheet01_IdleDashHurtCharge_18: 3014431288893032520
+      Lumen_Sheet01_IdleDashHurtCharge_19: -1372682520972372419
+      Lumen_Sheet01_IdleDashHurtCharge_2: -6125290626800707329
+      Lumen_Sheet01_IdleDashHurtCharge_20: 8944155710653351137
+      Lumen_Sheet01_IdleDashHurtCharge_21: -6837022960853011871
+      Lumen_Sheet01_IdleDashHurtCharge_22: -9201282392869351691
+      Lumen_Sheet01_IdleDashHurtCharge_23: 2523245276860717634
+      Lumen_Sheet01_IdleDashHurtCharge_24: 8483201771045605470
+      Lumen_Sheet01_IdleDashHurtCharge_25: -3928824496530620803
+      Lumen_Sheet01_IdleDashHurtCharge_26: -7945647651762164361
+      Lumen_Sheet01_IdleDashHurtCharge_27: 8039220743859533435
+      Lumen_Sheet01_IdleDashHurtCharge_28: -2121951787315494606
+      Lumen_Sheet01_IdleDashHurtCharge_29: -7047267324040759749
+      Lumen_Sheet01_IdleDashHurtCharge_3: -3465096286436248923
+      Lumen_Sheet01_IdleDashHurtCharge_30: -2483598009279176666
+      Lumen_Sheet01_IdleDashHurtCharge_31: -8217103278443694826
+      Lumen_Sheet01_IdleDashHurtCharge_32: 3515291543725393034
+      Lumen_Sheet01_IdleDashHurtCharge_33: 1614397559819343685
+      Lumen_Sheet01_IdleDashHurtCharge_34: 8400691582199115426
+      Lumen_Sheet01_IdleDashHurtCharge_35: -2440180810790088815
+      Lumen_Sheet01_IdleDashHurtCharge_36: -5873834204259412639
+      Lumen_Sheet01_IdleDashHurtCharge_37: -7889195076159099992
+      Lumen_Sheet01_IdleDashHurtCharge_38: 8950828927900847894
+      Lumen_Sheet01_IdleDashHurtCharge_39: -3377301376204966453
+      Lumen_Sheet01_IdleDashHurtCharge_4: -8276514401733199203
+      Lumen_Sheet01_IdleDashHurtCharge_40: 3782369429795736854
+      Lumen_Sheet01_IdleDashHurtCharge_41: 3115788442430376204
+      Lumen_Sheet01_IdleDashHurtCharge_42: -8656445776712380046
+      Lumen_Sheet01_IdleDashHurtCharge_43: -5840316992021128491
+      Lumen_Sheet01_IdleDashHurtCharge_5: 365902074656384470
+      Lumen_Sheet01_IdleDashHurtCharge_6: 6773116158986555141
+      Lumen_Sheet01_IdleDashHurtCharge_7: 944404550218893083
+      Lumen_Sheet01_IdleDashHurtCharge_8: -9208049063256297247
+      Lumen_Sheet01_IdleDashHurtCharge_9: -2271901944573366228
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

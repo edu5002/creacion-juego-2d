@@ -1,0 +1,1 @@
+Aqui van los .anim y el Animator Controller de Lumen (se crean al recortar las spritesheets en Unity).

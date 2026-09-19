@@ -1,0 +1,1 @@
+Pendiente: arte del menu principal (prompt ya generado, falta pedirlo a Gemini).

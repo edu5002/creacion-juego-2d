@@ -1,0 +1,1 @@
+Aqui van los .anim y Animator Controller de cada enemigo.
