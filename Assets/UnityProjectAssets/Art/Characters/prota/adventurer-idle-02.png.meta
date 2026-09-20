@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 62348340eaa0c354c9a70d10308b527d
+guid: 2e481cf183c64c74fa055a1123684311
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4555154980520098778
-    second: bosque_02_capamedia_0
+      213: -7896876554639040152
+    second: adventurer-idle-02_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -115,13 +115,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bosque_02_capamedia_0
+      name: adventurer-idle-02_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 14
         y: 0
-        width: 1376
-        height: 713
+        width: 21
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,8 +130,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: adb70ce0259273f30800000000000000
-      internalID: 4555154980520098778
+      spriteID: 86121adec98a86290800000000000000
+      internalID: -7896876554639040152
       vertices: []
       indices: 
       edges: []
@@ -150,7 +150,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      bosque_02_capamedia_0: 4555154980520098778
+      adventurer-idle-02_0: -7896876554639040152
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
