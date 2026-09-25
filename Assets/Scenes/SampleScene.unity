@@ -513,6 +513,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1455196463}
   - component: {fileID: 1455196462}
+  - component: {fileID: 1455196468}
   - component: {fileID: 1455196464}
   - component: {fileID: 1455196466}
   - component: {fileID: 1455196465}
@@ -714,6 +715,24 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &1455196468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1455196461}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cea89158621edf24aa7f16d4d49c56d0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerCombat
+  maxComboUnlocked: 1
+  comboBufferTime: 0.6
+  dashSpeed: 14
+  dashDuration: 0.25
+  dashCooldown: 0.5
+  aerialDashUnlocked: 0
 --- !u!1 &1879800469
 GameObject:
   m_ObjectHideFlags: 0
