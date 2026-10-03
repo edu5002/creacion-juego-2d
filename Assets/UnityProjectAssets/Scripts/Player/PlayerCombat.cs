@@ -122,6 +122,12 @@ public class PlayerCombat : MonoBehaviour
     public void OnAttackAnimationEnd()
     {
         isAttacking = false;
+
+        if (comboStep >= maxComboUnlocked)
+        {
+            comboStep = 0;
+            animator.SetInteger("ComboStep", 0);
+        }
     }
 
     private void HandleComboTimeout()
