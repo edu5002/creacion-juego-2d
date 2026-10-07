@@ -810,7 +810,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 30
+  spritePixelsToUnits: 432
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -881,8 +881,8 @@ TextureImporter:
         y: 463
         width: 408
         height: 463
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.48602116, y: 0.34971654}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -903,8 +903,8 @@ TextureImporter:
         y: 463
         width: 408
         height: 463
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.50838727, y: 0.332471}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -921,12 +921,12 @@ TextureImporter:
       name: espinas_corrompidas_2
       rect:
         serializedVersion: 2
-        x: 816
+        x: 815
         y: 463
         width: 408
         height: 463
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.49161276, y: 0.34232563}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -947,8 +947,8 @@ TextureImporter:
         y: 463
         width: 408
         height: 463
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5055913, y: 0.33986193}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []

@@ -1,200 +1,72 @@
 using UnityEngine;
 
-/// <summary>
-/// Controla el combo de espada (Attack1 -> Attack2 -> Attack3) y el Dash (animación Slide).
-/// Requiere: Animator con los parámetros "Attack" (Trigger), "ComboStep" (Int),
-/// "Dash" (Trigger), "IsDashing" (Bool). Ver guía de configuración del Animator Controller.
-///
-/// Requiere en el mismo GameObject un PlayerController (para saber hacia dónde mira
-/// el personaje y si está en el suelo) y un Rigidbody2D.
-/// </summary>
-[RequireComponent(typeof(Animator))]
 [RequireComponent(typeof(Rigidbody2D))]
-[RequireComponent(typeof(PlayerController))]
-public class PlayerCombat : MonoBehaviour
+public class PlayerController : MonoBehaviour
 {
-    [Header("Combo de ataque")]
-    [Tooltip("Nivel de combo máximo desbloqueado. Súbelo a 2 o 3 según el nivel actual (Nivel 1 = 1, Nivel 2 = 2, Nivel 3 = 3).")]
-    public int maxComboUnlocked = 1;
+    [Header("Movimiento")]
+    public float velocidad = 5f;
 
-    [Tooltip("Tiempo máximo (segundos) entre golpes para que el combo siga encadenando. Si se pasa este tiempo, el combo se reinicia.")]
-    public float comboBufferTime = 0.6f;
+    [Header("Estado")]
+    public bool EnSuelo = true;
 
-    [Header("Dash")]
-    [Tooltip("Velocidad del dash en unidades/segundo.")]
-    public float dashSpeed = 14f;
+    public bool MirandoDerecha { get; private set; } = true;
 
-    [Tooltip("Duración del dash en segundos. Debe coincidir aproximadamente con la duración del clip Slide.")]
-    public float dashDuration = 0.25f;
-
-    [Tooltip("Tiempo de reutilización (cooldown) del dash en segundos.")]
-    public float dashCooldown = 0.5f;
-
-    [Tooltip("¿El dash aéreo (segundo dash en el aire) ya está desbloqueado? Actívalo en Nivel 3.")]
-    public bool aerialDashUnlocked = false;
-
-    private Animator animator;
     private Rigidbody2D rb;
-    private PlayerController playerController;
-
-    // --- Estado interno del combo ---
-    private int comboStep = 0;
-    private float lastAttackTime = -999f;
-    private bool isAttacking = false;
-
-    // --- Estado interno del dash ---
-    private bool isDashing = false;
-    private bool canDash = true;
-    private bool hasUsedAerialDash = false;
-    private float dashTimer = 0f;
-    private float dashCooldownTimer = 0f;
-    private float dashDirection = 1f;
+    private float movimientoX;
 
     private void Awake()
     {
-        animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
-        playerController = GetComponent<PlayerController>();
     }
 
     private void Update()
     {
-        HandleComboTimeout();
-        HandleDashInput();
-        HandleDashCooldown();
+        movimientoX = Input.GetAxisRaw("Horizontal");
 
-        if (Input.GetButtonDown("Fire1")) // Cambia "Fire1" por el input que uses para atacar
+        if (movimientoX > 0f)
         {
-            TryAttack();
+            MirandoDerecha = true;
+        }
+        else if (movimientoX < 0f)
+        {
+            MirandoDerecha = false;
         }
 
-        // PlayerController se desactiva durante el dash (ver StartDash/EndDash),
-        // así que aprovechamos para resetear el dash aéreo apenas se vuelve a tocar el suelo.
-        if (playerController.EnSuelo)
+        if (movimientoX != 0f)
         {
-            hasUsedAerialDash = false;
+            Vector3 escala = transform.localScale;
+
+            escala.x = Mathf.Abs(escala.x);
+
+            if (!MirandoDerecha)
+            {
+                escala.x *= -1f;
+            }
+
+            transform.localScale = escala;
         }
     }
 
     private void FixedUpdate()
     {
-        if (isDashing)
-        {
-            rb.linearVelocity = new Vector2(dashDirection * dashSpeed, rb.linearVelocity.y);
-
-            dashTimer -= Time.fixedDeltaTime;
-            if (dashTimer <= 0f)
-            {
-                EndDash();
-            }
-        }
+        rb.linearVelocity = new Vector2(
+            movimientoX * velocidad,
+            rb.linearVelocity.y
+        );
     }
 
-    // ---------------- COMBO DE ATAQUE ----------------
-
-    private void TryAttack()
+    private void OnCollisionEnter2D(Collision2D collision)
     {
-        // No permitir atacar mientras se hace dash
-        if (isDashing) return;
-
-        // Si pasó demasiado tiempo desde el último golpe, reinicia el combo
-        if (Time.time - lastAttackTime > comboBufferTime)
-        {
-            comboStep = 0;
-        }
-
-        // Avanza al siguiente golpe del combo, respetando el máximo desbloqueado
-        if (comboStep < maxComboUnlocked)
-        {
-            comboStep++;
-            lastAttackTime = Time.time;
-            isAttacking = true;
-
-            animator.SetInteger("ComboStep", comboStep);
-            animator.SetTrigger("Attack");
-        }
+        EnSuelo = true;
     }
 
-    /// <summary>
-    /// Llama a este método desde un Animation Event al final de cada clip Attack
-    /// (Attack1, Attack2, Attack3) para permitir que el combo se reinicie correctamente.
-    /// </summary>
-    public void OnAttackAnimationEnd()
+    private void OnCollisionStay2D(Collision2D collision)
     {
-        isAttacking = false;
-
-        if (comboStep >= maxComboUnlocked)
-        {
-            comboStep = 0;
-            animator.SetInteger("ComboStep", 0);
-        }
+        EnSuelo = true;
     }
 
-    private void HandleComboTimeout()
+    private void OnCollisionExit2D(Collision2D collision)
     {
-        if (!isAttacking && comboStep > 0 && Time.time - lastAttackTime > comboBufferTime)
-        {
-            comboStep = 0;
-            animator.SetInteger("ComboStep", 0);
-        }
-    }
-
-    // ---------------- DASH ----------------
-
-    private void HandleDashInput()
-    {
-        if (Input.GetButtonDown("Dash")) // Configura este input en Project Settings > Input Manager
-        {
-            if (isDashing) return;
-
-            bool onGround = playerController.EnSuelo;
-
-            if (onGround && canDash)
-            {
-                StartDash();
-            }
-            else if (!onGround && aerialDashUnlocked && !hasUsedAerialDash && canDash)
-            {
-                StartDash();
-                hasUsedAerialDash = true;
-            }
-        }
-    }
-
-    private void StartDash()
-    {
-        isDashing = true;
-        canDash = false;
-        dashTimer = dashDuration;
-        dashCooldownTimer = dashCooldown;
-
-        dashDirection = playerController.MirandoDerecha ? 1f : -1f;
-
-        // Desactiva el control de movimiento normal mientras dura el dash
-        playerController.enabled = false;
-
-        animator.SetBool("IsDashing", true);
-        animator.SetTrigger("Dash");
-    }
-
-    private void EndDash()
-    {
-        isDashing = false;
-
-        playerController.enabled = true;
-
-        animator.SetBool("IsDashing", false);
-    }
-
-    private void HandleDashCooldown()
-    {
-        if (!canDash)
-        {
-            dashCooldownTimer -= Time.deltaTime;
-            if (dashCooldownTimer <= 0f)
-            {
-                canDash = true;
-            }
-        }
+        EnSuelo = false;
     }
 }
