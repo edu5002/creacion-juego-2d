@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: b34cf0da70e34fa41afbade14d2d0a04
+guid: 56f9b251f59320c4fbd2e9c09500ce06
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5384798880858435457
-    second: adventurer-air-attack1-03_0
+      213: 8808545954069617921
+    second: atk_0
+  - first:
+      213: 4236558876878595492
+    second: atk_1
+  - first:
+      213: -6455499275749386258
+    second: atk_2
+  - first:
+      213: 8592989053154250271
+    second: atk_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,12 +55,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 30
+  spritePixelsToUnits: 432
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -115,23 +124,89 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: adventurer-air-attack1-03_0
+      name: atk_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 3
-        width: 29
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0
+        width: 543
+        height: 724
+      alignment: 9
+      pivot: {x: 0.4531671, y: 0.5052688}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 18fec706d06aaba40800000000000000
-      internalID: 5384798880858435457
+      spriteID: 10d160420ed3e3a70800000000000000
+      internalID: 8808545954069617921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk_1
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 543
+        height: 724
+      alignment: 9
+      pivot: {x: 0.26115212, y: 0.49297518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5606e2ad74bca30800000000000000
+      internalID: 4236558876878595492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk_2
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 543
+        height: 724
+      alignment: 9
+      pivot: {x: 0.23773609, y: 0.4877065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee79a258c957966a0800000000000000
+      internalID: -6455499275749386258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atk_3
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 0
+        width: 543
+        height: 724
+      alignment: 9
+      pivot: {x: 0.31032678, y: 0.45258176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e4418240e604770800000000000000
+      internalID: 8592989053154250271
       vertices: []
       indices: 
       edges: []
@@ -140,7 +215,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 4bb447b2101f17e4c9c35c33e2baad92
     internalID: 0
     vertices: []
     indices: 
@@ -148,9 +223,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":1.0},"gridSpriteSize":{"x":543.0,"y":724.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      adventurer-air-attack1-03_0: 5384798880858435457
+      atk_0: 8808545954069617921
+      atk_1: 4236558876878595492
+      atk_2: -6455499275749386258
+      atk_3: 8592989053154250271
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

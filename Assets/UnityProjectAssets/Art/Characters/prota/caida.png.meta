@@ -1,10 +1,31 @@
 fileFormatVersion: 2
-guid: e798bad4693d3804dad7a508aed6ce62
+guid: f86cb9051f72b6e478eb43e0413f1fd7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8351373778988233088
-    second: adventurer-attack2-05_0
+      213: 2816150607136814670
+    second: caida_0
+  - first:
+      213: 3578141793374193568
+    second: caida_1
+  - first:
+      213: 3702531818914506594
+    second: caida_2
+  - first:
+      213: 5822694437005838523
+    second: caida_3
+  - first:
+      213: -4543725835471654543
+    second: caida_4
+  - first:
+      213: 3359770265998362785
+    second: caida_5
+  - first:
+      213: -8732105063747315237
+    second: caida_6
+  - first:
+      213: 7225331668888448585
+    second: caida_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,12 +67,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 30
+  spritePixelsToUnits: 432
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -115,23 +136,89 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: adventurer-attack2-05_0
+      name: caida_0
       rect:
         serializedVersion: 2
-        x: 1
+        x: 0
         y: 0
-        width: 33
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 543
+        height: 724
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.5526871}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 08e05e4abc5f91c80800000000000000
-      internalID: -8351373778988233088
+      spriteID: e46f36c7e0af41720800000000000000
+      internalID: 2816150607136814670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caida_1
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 543
+        height: 724
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52458733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a74c06d00d18a130800000000000000
+      internalID: 3578141793374193568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caida_2
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 543
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267eafb8219026330800000000000000
+      internalID: 3702531818914506594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caida_3
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 0
+        width: 543
+        height: 724
+      alignment: 9
+      pivot: {x: 0.48360887, y: 0.4912189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb840619dbd5ec050800000000000000
+      internalID: 5822694437005838523
       vertices: []
       indices: 
       edges: []
@@ -140,7 +227,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 5b845de0c7a0556449b8b14e8278ac68
     internalID: 0
     vertices: []
     indices: 
@@ -148,9 +235,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":1.0},"gridSpriteSize":{"x":543.0,"y":724.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      adventurer-attack2-05_0: -8351373778988233088
+      caida_0: 2816150607136814670
+      caida_1: 3578141793374193568
+      caida_2: 3702531818914506594
+      caida_3: 5822694437005838523
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
