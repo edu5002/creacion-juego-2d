@@ -1,10 +1,34 @@
 fileFormatVersion: 2
-guid: 35595b272e11c9143ba7f0ec77a88d84
+guid: 625b0e18b1bb53c47a81c6dc8ed7252a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -623266487404921774
-    second: adventurer-attack1-03_0
+      213: 6327578175764539422
+    second: "da\xF1o_0"
+  - first:
+      213: -4407979361025910873
+    second: "da\xF1o_1"
+  - first:
+      213: 5986740560975377063
+    second: "da\xF1o_2"
+  - first:
+      213: -6262424229456928617
+    second: "da\xF1o_3"
+  - first:
+      213: 3691147706034676591
+    second: "da\xF1o_4"
+  - first:
+      213: -8603470679556058083
+    second: "da\xF1o_5"
+  - first:
+      213: -7152766214784501732
+    second: "da\xF1o_6"
+  - first:
+      213: -4922265318290728506
+    second: "da\xF1o_7"
+  - first:
+      213: -4119370241522334329
+    second: "da\xF1o_8"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,12 +70,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 30
+  spritePixelsToUnits: 436
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -115,23 +139,89 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: adventurer-attack1-03_0
+      name: "da\xF1o_0"
       rect:
         serializedVersion: 2
-        x: 14
+        x: 0
         y: 0
-        width: 29
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 543
+        height: 724
+      alignment: 9
+      pivot: {x: 0.49531677, y: 0.5316123}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 25cf2d19e66b957f0800000000000000
-      internalID: -623266487404921774
+      spriteID: e18a5fe63d210d750800000000000000
+      internalID: 6327578175764539422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "da\xF1o_1"
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 543
+        height: 724
+      alignment: 9
+      pivot: {x: 0.5070249, y: 0.5474184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a71cc82026b3d2c0800000000000000
+      internalID: -4407979361025910873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "da\xF1o_2"
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 543
+        height: 724
+      alignment: 9
+      pivot: {x: 0.49297523, y: 0.52809983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a23c5332dc251350800000000000000
+      internalID: 5986740560975377063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "da\xF1o_3"
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 0
+        width: 543
+        height: 724
+      alignment: 9
+      pivot: {x: 0.50702524, y: 0.5052688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790ab62d7566719a0800000000000000
+      internalID: -6262424229456928617
       vertices: []
       indices: 
       edges: []
@@ -140,7 +230,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: e5f208a16762ca643abad96d08a2cb53
     internalID: 0
     vertices: []
     indices: 
@@ -148,9 +238,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":1.0},"gridSpriteSize":{"x":543.0,"y":724.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      adventurer-attack1-03_0: -623266487404921774
+      "da\xF1o_0": 6327578175764539422
+      "da\xF1o_1": -4407979361025910873
+      "da\xF1o_2": 5986740560975377063
+      "da\xF1o_3": -6262424229456928617
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
