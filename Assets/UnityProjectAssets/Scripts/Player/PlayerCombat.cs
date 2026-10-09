@@ -1,72 +1,54 @@
 using UnityEngine;
 
-[RequireComponent(typeof(Rigidbody2D))]
-public class PlayerController : MonoBehaviour
+/// <summary>
+/// Controla el ataque cuerpo a cuerpo de Elián con el Bastón de Chispa (un solo golpe,
+/// sin combo). Requiere: Animator con los parámetros "Attack" (Trigger).
+/// </summary>
+[RequireComponent(typeof(Animator))]
+public class PlayerCombat : MonoBehaviour
 {
-    [Header("Movimiento")]
-    public float velocidad = 5f;
+    [Header("Ataque")]
+    [Tooltip("Tiempo mínimo (segundos) entre un golpe y el siguiente. Evita que se pueda re-disparar la animación a medio golpe.")]
+    public float attackCooldown = 0.3f;
 
-    [Header("Estado")]
-    public bool EnSuelo = true;
+    private Animator animator;
 
-    public bool MirandoDerecha { get; private set; } = true;
-
-    private Rigidbody2D rb;
-    private float movimientoX;
+    private bool isAttacking = false;
+    private float cooldownTimer = 0f;
 
     private void Awake()
     {
-        rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
     }
 
     private void Update()
     {
-        movimientoX = Input.GetAxisRaw("Horizontal");
-
-        if (movimientoX > 0f)
+        if (cooldownTimer > 0f)
         {
-            MirandoDerecha = true;
-        }
-        else if (movimientoX < 0f)
-        {
-            MirandoDerecha = false;
+            cooldownTimer -= Time.deltaTime;
         }
 
-        if (movimientoX != 0f)
+        if (Input.GetButtonDown("Fire1")) // Cambia "Fire1" por el input que prefieras usar para atacar
         {
-            Vector3 escala = transform.localScale;
-
-            escala.x = Mathf.Abs(escala.x);
-
-            if (!MirandoDerecha)
-            {
-                escala.x *= -1f;
-            }
-
-            transform.localScale = escala;
+            TryAttack();
         }
     }
 
-    private void FixedUpdate()
+    private void TryAttack()
     {
-        rb.linearVelocity = new Vector2(
-            movimientoX * velocidad,
-            rb.linearVelocity.y
-        );
+        if (isAttacking || cooldownTimer > 0f) return;
+
+        isAttacking = true;
+        animator.SetTrigger("Attack");
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    /// <summary>
+    /// Llama a este método desde un Animation Event al final del clip de ataque,
+    /// para permitir que se pueda volver a atacar.
+    /// </summary>
+    public void OnAttackAnimationEnd()
     {
-        EnSuelo = true;
-    }
-
-    private void OnCollisionStay2D(Collision2D collision)
-    {
-        EnSuelo = true;
-    }
-
-    private void OnCollisionExit2D(Collision2D collision)
-    {
-        EnSuelo = false;
+        isAttacking = false;
+        cooldownTimer = attackCooldown;
     }
 }
