@@ -1,184 +1,120 @@
 using UnityEngine;
-
-[RequireComponent(typeof(Animator))]
+using System.Collections.Generic;
+/// <summary>
+/// Movimiento del protagonista: correr, saltar, detección de suelo por colisión física,
+/// flip del sprite y parámetros para el Animator (Speed, IsGrounded, VerticalVelocity).
+/// </summary>
 [RequireComponent(typeof(Rigidbody2D))]
-[RequireComponent(typeof(PlayerController))]
-public class PlayerCombat : MonoBehaviour
+public class PlayerController : MonoBehaviour
 {
-    [Header("Combo de ataque")]
-    public int maxComboUnlocked = 1;
-    public float comboBufferTime = 0.6f;
+    [Header("Movimiento")]
+    public float velocidad = 5f;
 
-    [Header("Dash")]
-    public float dashSpeed = 14f;
-    public float dashDuration = 0.25f;
-    public float dashCooldown = 0.5f;
-    public bool aerialDashUnlocked = false;
+    [Header("Salto")]
+    public float fuerzaSalto = 12f;
 
-    private Animator animator;
+    [Header("Estado (solo lectura)")]
+    public bool EnSuelo { get; private set; } = false;
+    public bool MirandoDerecha { get; private set; } = true;
+
     private Rigidbody2D rb;
-    private PlayerController playerController;
+    private Animator animator;
+    private float movimientoX;
+    private PlayerCombat combate;
 
-    private int comboStep = 0;
-    private float lastAttackTime = -999f;
-    private bool isAttacking = false;
-
-    private bool isDashing = false;
-    private bool canDash = true;
-    private bool hasUsedAerialDash = false;
-
-    private float dashTimer = 0f;
-    private float dashCooldownTimer = 0f;
-    private float dashDirection = 1f;
+    private readonly HashSet<Collider2D> contactosSuelo =
+    new HashSet<Collider2D>();
 
     private void Awake()
     {
-        animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
-        playerController = GetComponent<PlayerController>();
+        animator = GetComponent<Animator>(); // puede ser null si aún no agregas el Animator
+        combate = GetComponent<PlayerCombat>();
     }
 
     private void Update()
     {
-        HandleComboTimeout();
-        HandleDashInput();
-        HandleDashCooldown();
 
-        if (Input.GetButtonDown("Fire1"))
+        if (combate != null && combate.EstaAtacando)
         {
-            TryAttack();
+            movimientoX = 0f;
+            ActualizarAnimator();
+            return;
+        }
+        movimientoX = Input.GetAxisRaw("Horizontal");
+
+        if (movimientoX > 0f) MirandoDerecha = true;
+        else if (movimientoX < 0f) MirandoDerecha = false;
+
+        if (movimientoX != 0f)
+        {
+            Vector3 escala = transform.localScale;
+            escala.x = Mathf.Abs(escala.x) * (MirandoDerecha ? 1f : -1f);
+            transform.localScale = escala;
         }
 
-        if (playerController.EnSuelo)
+        if (Input.GetButtonDown("Jump") && EnSuelo)
         {
-            hasUsedAerialDash = false;
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, fuerzaSalto);
         }
+
+        ActualizarAnimator();
     }
 
     private void FixedUpdate()
     {
-        if (isDashing)
-        {
-            rb.linearVelocity = new Vector2(
-                dashDirection * dashSpeed,
-                rb.linearVelocity.y
-            );
-
-            dashTimer -= Time.fixedDeltaTime;
-
-            if (dashTimer <= 0f)
-            {
-                EndDash();
-            }
-        }
+        rb.linearVelocity = new Vector2(movimientoX * velocidad, rb.linearVelocity.y);
     }
 
-    private void TryAttack()
+    private void ActualizarAnimator()
     {
-        if (isDashing)
-        {
-            return;
-        }
+        if (animator == null) return;
 
-        if (Time.time - lastAttackTime > comboBufferTime)
-        {
-            comboStep = 0;
-        }
-
-        if (comboStep < maxComboUnlocked)
-        {
-            comboStep++;
-            lastAttackTime = Time.time;
-            isAttacking = true;
-
-            animator.SetInteger("ComboStep", comboStep);
-            animator.SetTrigger("Attack");
-        }
+        animator.SetFloat("Speed", Mathf.Abs(movimientoX));
+        animator.SetBool("IsGrounded", EnSuelo);
+        animator.SetFloat("VerticalVelocity", rb.linearVelocity.y);
     }
 
-    public void OnAttackAnimationEnd()
+private void OnCollisionEnter2D(Collision2D collision)
+{
+    ActualizarSuelo(collision);
+}
+
+private void OnCollisionStay2D(Collision2D collision)
+{
+    ActualizarSuelo(collision);
+}
+
+private void OnCollisionExit2D(Collision2D collision)
+{
+    contactosSuelo.Remove(collision.collider);
+    EnSuelo = contactosSuelo.Count > 0;
+}
+
+private void ActualizarSuelo(Collision2D collision)
+{
+    bool sostieneAlPersonaje = false;
+
+    foreach (ContactPoint2D contacto in collision.contacts)
     {
-        isAttacking = false;
-
-        if (comboStep >= maxComboUnlocked)
+        if (contacto.normal.y > 0.5f)
         {
-            comboStep = 0;
-            animator.SetInteger("ComboStep", 0);
+            sostieneAlPersonaje = true;
+            break;
         }
     }
 
-    private void HandleComboTimeout()
-    {
-        if (!isAttacking &&
-            comboStep > 0 &&
-            Time.time - lastAttackTime > comboBufferTime)
-        {
-            comboStep = 0;
-            animator.SetInteger("ComboStep", 0);
-        }
-    }
+    if (sostieneAlPersonaje)
+        contactosSuelo.Add(collision.collider);
+    else
+        contactosSuelo.Remove(collision.collider);
 
-    private void HandleDashInput()
-    {
-        if (Input.GetButtonDown("Dash"))
-        {
-            if (isDashing)
-            {
-                return;
-            }
+    EnSuelo = contactosSuelo.Count > 0;
+}
 
-            bool onGround = playerController.EnSuelo;
-
-            if (onGround && canDash)
-            {
-                StartDash();
-            }
-            else if (!onGround &&
-                     aerialDashUnlocked &&
-                     !hasUsedAerialDash &&
-                     canDash)
-            {
-                StartDash();
-                hasUsedAerialDash = true;
-            }
-        }
-    }
-
-    private void StartDash()
-    {
-        isDashing = true;
-        canDash = false;
-
-        dashTimer = dashDuration;
-        dashCooldownTimer = dashCooldown;
-
-        dashDirection = playerController.MirandoDerecha ? 1f : -1f;
-
-        playerController.enabled = false;
-
-        animator.SetBool("IsDashing", true);
-        animator.SetTrigger("Dash");
-    }
-
-    private void EndDash()
-    {
-        isDashing = false;
-
-        playerController.enabled = true;
-
-        animator.SetBool("IsDashing", false);
-    }
-
-    private void HandleDashCooldown()
-    {
-        if (!canDash)
-        {
-            dashCooldownTimer -= Time.deltaTime;
-
-            if (dashCooldownTimer <= 0f)
-            {
-                canDash = true;
-            }
-        }
-    }
+private void OnDisable()
+{
+    contactosSuelo.Clear();
+    EnSuelo = false;
+}
 }

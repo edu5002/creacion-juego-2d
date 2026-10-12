@@ -1,72 +1,125 @@
+using System.Collections.Generic;
 using UnityEngine;
 
-[RequireComponent(typeof(Rigidbody2D))]
-public class PlayerController : MonoBehaviour
+[RequireComponent(typeof(Animator))]
+[RequireComponent(typeof(PlayerController))]
+public class PlayerCombat : MonoBehaviour
 {
-    [Header("Movimiento")]
-    public float velocidad = 5f;
+    [Header("Ataque")]
+    public float attackCooldown = 0.3f;
+    public int danio = 1;
 
-    [Header("Estado")]
-    public bool EnSuelo = true;
+    [Header("Zona del golpe")]
+    public Transform puntoAtaque;
+    public float radioAtaque = 0.6f;
+    public LayerMask capasEnemigos;
+    public bool EstaAtacando => isAttacking;
 
-    public bool MirandoDerecha { get; private set; } = true;
+    private Animator animator;
+    private PlayerController movimiento;
 
-    private Rigidbody2D rb;
-    private float movimientoX;
+
+    private bool isAttacking;
+    private bool golpeAplicado;
+    private float siguienteAtaque;
 
     private void Awake()
     {
-        rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
+        movimiento = GetComponent<PlayerController>();
     }
 
     private void Update()
     {
-        movimientoX = Input.GetAxisRaw("Horizontal");
-
-        if (movimientoX > 0f)
-        {
-            MirandoDerecha = true;
-        }
-        else if (movimientoX < 0f)
-        {
-            MirandoDerecha = false;
-        }
-
-        if (movimientoX != 0f)
-        {
-            Vector3 escala = transform.localScale;
-
-            escala.x = Mathf.Abs(escala.x);
-
-            if (!MirandoDerecha)
-            {
-                escala.x *= -1f;
-            }
-
-            transform.localScale = escala;
-        }
+        if (Input.GetButtonDown("Fire1"))
+            TryAttack();
     }
 
-    private void FixedUpdate()
+    private void TryAttack()
     {
-        rb.linearVelocity = new Vector2(
-            movimientoX * velocidad,
-            rb.linearVelocity.y
+        if (isAttacking || Time.time < siguienteAtaque)
+            return;
+
+        if (Mathf.Abs(Input.GetAxisRaw("Horizontal")) > 0.01f)
+            return;
+
+        if (!movimiento.EnSuelo ||
+            animator.GetBool("muerto") ||
+            animator.GetBool("recibeDanio"))
+            return;
+
+        if (puntoAtaque == null)
+        {
+            Debug.LogWarning("Asigna Punto Ataque en PlayerCombat.", this);
+            return;
+        }
+
+        isAttacking = true;
+        golpeAplicado = false;
+
+        animator.SetBool("Atacando", true);
+        animator.ResetTrigger("Attack");
+        animator.SetTrigger("Attack");
+    }
+
+    // Evento en el cuadro donde el bastón golpea.
+    public void AplicarGolpe()
+    {
+        if (!enabled || !isAttacking || golpeAplicado)
+            return;
+
+        if (animator.GetBool("muerto") ||
+            animator.GetBool("recibeDanio"))
+            return;
+
+        golpeAplicado = true;
+
+        Collider2D[] impactos = Physics2D.OverlapCircleAll(
+            puntoAtaque.position,
+            radioAtaque,
+            capasEnemigos
         );
+
+        HashSet<EnemyVida> enemigosGolpeados =
+            new HashSet<EnemyVida>();
+
+        foreach (Collider2D impacto in impactos)
+        {
+            EnemyVida vida = impacto.GetComponentInParent<EnemyVida>();
+
+            if (vida != null && enemigosGolpeados.Add(vida))
+                vida.RecibirDanio(danio, transform.position);
+        }
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    // Evento cerca del final de la animación.
+    public void OnAttackAnimationEnd()
     {
-        EnSuelo = true;
+        isAttacking = false;
+        siguienteAtaque = Time.time + attackCooldown;
+
+        animator.SetBool("Atacando", false);
+        animator.ResetTrigger("Attack");
     }
 
-    private void OnCollisionStay2D(Collision2D collision)
+    private void OnDisable()
     {
-        EnSuelo = true;
+        isAttacking = false;
+        golpeAplicado = true;
+
+        if (animator != null)
+        {
+            animator.SetBool("Atacando", false);
+            animator.ResetTrigger("Attack");
+        }
     }
 
-    private void OnCollisionExit2D(Collision2D collision)
+    private void OnDrawGizmosSelected()
     {
-        EnSuelo = false;
+        if (puntoAtaque == null)
+            return;
+
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(puntoAtaque.position, radioAtaque);
     }
 }

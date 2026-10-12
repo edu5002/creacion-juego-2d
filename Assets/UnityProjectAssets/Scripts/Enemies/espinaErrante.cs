@@ -1,39 +1,61 @@
 using UnityEngine;
 
+[RequireComponent(typeof(Rigidbody2D))]
 public class espinaErrante : MonoBehaviour
 {
-   public Transform player;
-   public float detectionRange = 5.0f;
-   public float speed = 2.0f;
+    [Header("Límites de la patrulla")]
+    public Transform limiteIzquierdo;
+    public Transform limiteDerecho;
 
-   private Rigidbody2D rb;
-   private Vector2 movement;
+    [Header("Movimiento")]
+    public float velocidad = 2f;
 
+    [Header("Orientación del dibujo")]
+    public bool spriteMiraDerecha = true;
 
-    void Start()
+    private Rigidbody2D rb;
+    private SpriteRenderer sprite;
+    private int direccion = 1;
+
+    private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        sprite = GetComponentInChildren<SpriteRenderer>();
     }
 
-    // Update is called once per frame
-    void Update()
+    private void FixedUpdate()
     {
-        // Calculate the distance between the enemy and the player
-        float distanceToPlayer = Vector2.Distance(transform.position, player.position);
-
-        // Check if the player is within detection range
-        if (distanceToPlayer <= detectionRange)
+        if (limiteIzquierdo == null || limiteDerecho == null)
         {
-            // Move towards the player
-            Vector2 direction = (player.position - transform.position).normalized;
-            movement = new Vector2(direction.x, 0);
-        }
-        else
-        {
-            // Stop moving if the player is out of range
-            movement = Vector2.zero;
+            rb.linearVelocity = new Vector2(0f, rb.linearVelocity.y);
+            return;
         }
 
-        rb.MovePosition(rb.position + movement * speed * Time.deltaTime);
+        float izquierda = Mathf.Min(
+            limiteIzquierdo.position.x,
+            limiteDerecho.position.x
+        );
+
+        float derecha = Mathf.Max(
+            limiteIzquierdo.position.x,
+            limiteDerecho.position.x
+        );
+
+        if (rb.position.x >= derecha)
+            direccion = -1;
+        else if (rb.position.x <= izquierda)
+            direccion = 1;
+
+        rb.linearVelocity = new Vector2(
+            direccion * velocidad,
+            rb.linearVelocity.y
+        );
+
+        if (sprite != null)
+        {
+            sprite.flipX = spriteMiraDerecha
+                ? direccion < 0
+                : direccion > 0;
+        }
     }
 }

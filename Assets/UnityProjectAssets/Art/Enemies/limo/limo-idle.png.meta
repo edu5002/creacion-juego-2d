@@ -1,0 +1,415 @@
+fileFormatVersion: 2
+guid: 9b06a25b0706f714d900f85679d59c86
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7641755160474252533
+    second: limo-idle_0
+  - first:
+      213: -4674309118909882547
+    second: limo-idle_1
+  - first:
+      213: -6533323491454239169
+    second: limo-idle_2
+  - first:
+      213: 2935266918309944493
+    second: limo-idle_3
+  - first:
+      213: -8967502803811397393
+    second: limo-idle_4
+  - first:
+      213: -8160512073960910613
+    second: limo-idle_5
+  - first:
+      213: 5803833048670207151
+    second: limo-idle_6
+  - first:
+      213: -2692285103111482262
+    second: limo-idle_7
+  - first:
+      213: 4178713388926070627
+    second: limo-idle_8
+  - first:
+      213: 1429395517049613399
+    second: limo-idle_9
+  - first:
+      213: 6803370743120389222
+    second: limo-idle_10
+  - first:
+      213: -5622457111179864461
+    second: limo-idle_11
+  - first:
+      213: -7378876608739313022
+    second: limo-idle_12
+  - first:
+      213: 2387559264301706554
+    second: limo-idle_13
+  - first:
+      213: -2927017415109620166
+    second: limo-idle_14
+  - first:
+      213: -765758315029692388
+    second: limo-idle_15
+  - first:
+      213: -5361505366021791642
+    second: limo-idle_16
+  - first:
+      213: -7551542795399199773
+    second: limo-idle_17
+  - first:
+      213: 2988381707522011724
+    second: limo-idle_18
+  - first:
+      213: 2154737000801224876
+    second: limo-idle_19
+  - first:
+      213: 5175538367893499234
+    second: limo-idle_20
+  - first:
+      213: 7795672354596863611
+    second: limo-idle_21
+  - first:
+      213: -7094268471452957703
+    second: limo-idle_22
+  - first:
+      213: -2927307720136244472
+    second: limo-idle_23
+  - first:
+      213: 2163654405453820140
+    second: limo-idle_24
+  - first:
+      213: -7411626523546114151
+    second: limo-idle_25
+  - first:
+      213: -4953095349219667379
+    second: limo-idle_26
+  - first:
+      213: -7999352409446211149
+    second: limo-idle_27
+  - first:
+      213: 3942839735374717154
+    second: limo-idle_28
+  - first:
+      213: -669989660492877788
+    second: limo-idle_29
+  - first:
+      213: -2892516919544737883
+    second: limo-idle_30
+  - first:
+      213: -101843590684644635
+    second: limo-idle_31
+  - first:
+      213: 2731983079439284146
+    second: limo-idle_32
+  - first:
+      213: 7993469605098281568
+    second: limo-idle_33
+  - first:
+      213: 7605392900603129190
+    second: limo-idle_34
+  - first:
+      213: -6159647120195708613
+    second: limo-idle_35
+  - first:
+      213: 3001527718719310546
+    second: limo-idle_36
+  - first:
+      213: -8708275738334025726
+    second: limo-idle_37
+  - first:
+      213: 2735143623350321111
+    second: limo-idle_38
+  - first:
+      213: -8912896643461452610
+    second: limo-idle_39
+  - first:
+      213: -616170377560467510
+    second: limo-idle_40
+  - first:
+      213: 922135656763785278
+    second: limo-idle_41
+  - first:
+      213: -4156710190877273679
+    second: limo-idle_42
+  - first:
+      213: -7519633948659265621
+    second: limo-idle_43
+  - first:
+      213: 4386283880079467252
+    second: limo-idle_44
+  - first:
+      213: 8601640394086047047
+    second: limo-idle_45
+  - first:
+      213: 1422097352792937719
+    second: limo-idle_46
+  - first:
+      213: -4813368410471748014
+    second: limo-idle_47
+  - first:
+      213: -7205543895749119481
+    second: limo-idle_48
+  - first:
+      213: 7871737180011609004
+    second: limo-idle_49
+  - first:
+      213: -7342775391487018958
+    second: limo-idle_50
+  - first:
+      213: -1256167379498220620
+    second: limo-idle_51
+  - first:
+      213: -7920792479257910931
+    second: limo-idle_52
+  - first:
+      213: 1110805057667538099
+    second: limo-idle_53
+  - first:
+      213: -8396457095616157909
+    second: limo-idle_54
+  - first:
+      213: -2088368133569396741
+    second: limo-idle_55
+  - first:
+      213: 6212189379525806124
+    second: limo-idle_56
+  - first:
+      213: 5952047124483146727
+    second: limo-idle_57
+  - first:
+      213: 8800699751985039751
+    second: limo-idle_58
+  - first:
+      213: 1938802535500755955
+    second: limo-idle_59
+  - first:
+      213: 8963155981972487697
+    second: limo-idle_60
+  - first:
+      213: -8395162262524796166
+    second: limo-idle_61
+  - first:
+      213: -2764751050019882181
+    second: limo-idle_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: limo-idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 543
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f47398a4d7fc0a60800000000000000
+      internalID: 7641755160474252533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: limo-idle_1
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 543
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fd1053f94812fb0800000000000000
+      internalID: -4674309118909882547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: limo-idle_2
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 543
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3eb72946e8f455a0800000000000000
+      internalID: -6533323491454239169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: limo-idle_3
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 0
+        width: 543
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacd1d2e5b92cb820800000000000000
+      internalID: 2935266918309944493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4c3564495dc2faa42bf4b667bdbdc5b8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":1.0},"gridSpriteSize":{"x":543.0,"y":724.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      limo-idle_0: 7641755160474252533
+      limo-idle_1: -4674309118909882547
+      limo-idle_2: -6533323491454239169
+      limo-idle_3: 2935266918309944493
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
