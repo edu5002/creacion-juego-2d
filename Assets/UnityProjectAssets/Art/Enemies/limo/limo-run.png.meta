@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 2d5eb1fa62b0ae044ba4ce254af1a856
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 602691438184185276
+    second: limo-run_0
+  - first:
+      213: -7797307172862163226
+    second: limo-run_1
+  - first:
+      213: 7869792232248844374
+    second: limo-run_2
+  - first:
+      213: 7027473170199460569
+    second: limo-run_3
+  - first:
+      213: -2555286297110060122
+    second: limo-run_4
+  - first:
+      213: -7113501783328548553
+    second: limo-run_5
+  - first:
+      213: 5075136406428684965
+    second: limo-run_6
+  - first:
+      213: -7831750852539754284
+    second: limo-run_7
+  - first:
+      213: 1000054511613695907
+    second: limo-run_8
+  - first:
+      213: -3733568801568087435
+    second: limo-run_9
+  - first:
+      213: -1941444602590644319
+    second: limo-run_10
+  - first:
+      213: 738158524214628040
+    second: limo-run_11
+  - first:
+      213: -2302062981294034692
+    second: limo-run_12
+  - first:
+      213: -7275850197967074933
+    second: limo-run_13
+  - first:
+      213: 3590367838544175013
+    second: limo-run_14
+  - first:
+      213: 4464719948908838583
+    second: limo-run_15
+  - first:
+      213: -3707290770722229490
+    second: limo-run_16
+  - first:
+      213: 393719478911220196
+    second: limo-run_17
+  - first:
+      213: -2519762807836830755
+    second: limo-run_18
+  - first:
+      213: 3700500252097204432
+    second: limo-run_19
+  - first:
+      213: 6611384193296195666
+    second: limo-run_20
+  - first:
+      213: 3435893459837272994
+    second: limo-run_21
+  - first:
+      213: 5323012391172134622
+    second: limo-run_22
+  - first:
+      213: -5501848294192120192
+    second: limo-run_23
+  - first:
+      213: 6838941683110741400
+    second: limo-run_24
+  - first:
+      213: -4857165696001979303
+    second: limo-run_25
+  - first:
+      213: -5314804756051034248
+    second: limo-run_26
+  - first:
+      213: 8837861917442340918
+    second: limo-run_27
+  - first:
+      213: 7922311011263703321
+    second: limo-run_28
+  - first:
+      213: 3806396313268393908
+    second: limo-run_29
+  - first:
+      213: -4549689318677863022
+    second: limo-run_30
+  - first:
+      213: -3889286284973051694
+    second: limo-run_31
+  - first:
+      213: 8895850509297825373
+    second: limo-run_32
+  - first:
+      213: 9114832898134689777
+    second: limo-run_33
+  - first:
+      213: 2803757830231919945
+    second: limo-run_34
+  - first:
+      213: -42692153146278906
+    second: limo-run_35
+  - first:
+      213: -6703298311765724696
+    second: limo-run_36
+  - first:
+      213: -3542554325700153580
+    second: limo-run_37
+  - first:
+      213: 6727070470536764551
+    second: limo-run_38
+  - first:
+      213: 2232600471277149854
+    second: limo-run_39
+  - first:
+      213: 2330508783076358484
+    second: limo-run_40
+  - first:
+      213: 4888302165835222538
+    second: limo-run_41
+  - first:
+      213: -6689552917220477341
+    second: limo-run_42
+  - first:
+      213: -1707512535522996393
+    second: limo-run_43
+  - first:
+      213: 5950305253571465575
+    second: limo-run_44
+  - first:
+      213: 1000980862040902965
+    second: limo-run_45
+  - first:
+      213: 9087640528821790451
+    second: limo-run_46
+  - first:
+      213: 6002260409168646769
+    second: limo-run_47
+  - first:
+      213: 5967127635851504845
+    second: limo-run_48
+  - first:
+      213: 6533600743811600045
+    second: limo-run_49
+  - first:
+      213: 2634928898039112335
+    second: limo-run_50
+  - first:
+      213: 512701903830775957
+    second: limo-run_51
+  - first:
+      213: -2670454875575256995
+    second: limo-run_52
+  - first:
+      213: 5836560476069048946
+    second: limo-run_53
+  - first:
+      213: -6990391185622836782
+    second: limo-run_54
+  - first:
+      213: 2644039108870752799
+    second: limo-run_55
+  - first:
+      213: -2130116252547578566
+    second: limo-run_56
+  - first:
+      213: -6396186084965672870
+    second: limo-run_57
+  - first:
+      213: 8057238970927653454
+    second: limo-run_58
+  - first:
+      213: -6960467604639615993
+    second: limo-run_59
+  - first:
+      213: 3354824336644975519
+    second: limo-run_60
+  - first:
+      213: -5621216960264436588
+    second: limo-run_61
+  - first:
+      213: 8298466197487442630
+    second: limo-run_62
+  - first:
+      213: -7583557015545359612
+    second: limo-run_63
+  - first:
+      213: 1926638708005693119
+    second: limo-run_64
+  - first:
+      213: 4564448833903317358
+    second: limo-run_65
+  - first:
+      213: 4680937407721203577
+    second: limo-run_66
+  - first:
+      213: 2379800037207250888
+    second: limo-run_67
+  - first:
+      213: -5768419408151142083
+    second: limo-run_68
+  - first:
+      213: 4857835646462969680
+    second: limo-run_69
+  - first:
+      213: 4606726912114629837
+    second: limo-run_70
+  - first:
+      213: 9133567625519800441
+    second: limo-run_71
+  - first:
+      213: 4415683405053177071
+    second: limo-run_72
+  - first:
+      213: 4911548231498882742
+    second: limo-run_73
+  - first:
+      213: 1072193318665320235
+    second: limo-run_74
+  - first:
+      213: 2033483836519597491
+    second: limo-run_75
+  - first:
+      213: 3975487311758626170
+    second: limo-run_76
+  - first:
+      213: 5671401987706799399
+    second: limo-run_77
+  - first:
+      213: 2121336493082844173
+    second: limo-run_78
+  - first:
+      213: 9183432218296224816
+    second: limo-run_79
+  - first:
+      213: -3910811639791796780
+    second: limo-run_80
+  - first:
+      213: 2344882099385775380
+    second: limo-run_81
+  - first:
+      213: -7327050474056240248
+    second: limo-run_82
+  - first:
+      213: -4800496473692861527
+    second: limo-run_83
+  - first:
+      213: -5025277323031439401
+    second: limo-run_84
+  - first:
+      213: -1491803656654214517
+    second: limo-run_85
+  - first:
+      213: -7375016033841684860
+    second: limo-run_86
+  - first:
+      213: -565256641087748209
+    second: limo-run_87
+  - first:
+      213: -607226018674986241
+    second: limo-run_88
+  - first:
+      213: 1238950787921172261
+    second: limo-run_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 370
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: limo-run_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 543
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd332a7ba03d5800800000000000000
+      internalID: 602691438184185276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: limo-run_1
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 543
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e602fc20766ac390800000000000000
+      internalID: -7797307172862163226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: limo-run_2
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 543
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650225bd65e173d60800000000000000
+      internalID: 7869792232248844374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: limo-run_3
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 0
+        width: 543
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dab35a7d99968160800000000000000
+      internalID: 7027473170199460569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d7d570c2acf1e5440b12ce5d5f20fb1c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":1.0},"gridSpriteSize":{"x":543.0,"y":724.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      limo-run_0: 602691438184185276
+      limo-run_1: -7797307172862163226
+      limo-run_2: 7869792232248844374
+      limo-run_3: 7027473170199460569
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

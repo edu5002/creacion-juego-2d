@@ -1,5 +1,5 @@
 using UnityEngine;
-
+using System.Collections.Generic;
 /// <summary>
 /// Movimiento del protagonista: correr, saltar, detección de suelo por colisión física,
 /// flip del sprite y parámetros para el Animator (Speed, IsGrounded, VerticalVelocity).
@@ -20,15 +20,27 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D rb;
     private Animator animator;
     private float movimientoX;
+    private PlayerCombat combate;
+
+    private readonly HashSet<Collider2D> contactosSuelo =
+    new HashSet<Collider2D>();
 
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>(); // puede ser null si aún no agregas el Animator
+        combate = GetComponent<PlayerCombat>();
     }
 
     private void Update()
     {
+
+        if (combate != null && combate.EstaAtacando)
+        {
+            movimientoX = 0f;
+            ActualizarAnimator();
+            return;
+        }
         movimientoX = Input.GetAxisRaw("Horizontal");
 
         if (movimientoX > 0f) MirandoDerecha = true;
@@ -63,26 +75,46 @@ public class PlayerController : MonoBehaviour
         animator.SetFloat("VerticalVelocity", rb.linearVelocity.y);
     }
 
-    private void OnCollisionEnter2D(Collision2D collision) => ActualizarSuelo(collision);
-    private void OnCollisionStay2D(Collision2D collision) => ActualizarSuelo(collision);
+private void OnCollisionEnter2D(Collision2D collision)
+{
+    ActualizarSuelo(collision);
+}
 
-    private void OnCollisionExit2D(Collision2D collision)
-    {
-        EnSuelo = false;
-    }
-    
+private void OnCollisionStay2D(Collision2D collision)
+{
+    ActualizarSuelo(collision);
+}
 
-    // Solo cuenta como "suelo" si el contacto viene de abajo (normal apuntando hacia arriba),
-    // así evita marcar EnSuelo=true al chocar de lado contra una pared en el aire.
-    private void ActualizarSuelo(Collision2D collision)
+private void OnCollisionExit2D(Collision2D collision)
+{
+    contactosSuelo.Remove(collision.collider);
+    EnSuelo = contactosSuelo.Count > 0;
+}
+
+private void ActualizarSuelo(Collision2D collision)
+{
+    bool sostieneAlPersonaje = false;
+
+    foreach (ContactPoint2D contacto in collision.contacts)
     {
-        foreach (ContactPoint2D contacto in collision.contacts)
+        if (contacto.normal.y > 0.5f)
         {
-            if (contacto.normal.y > 0.5f)
-            {
-                EnSuelo = true;
-                return;
-            }
+            sostieneAlPersonaje = true;
+            break;
         }
     }
+
+    if (sostieneAlPersonaje)
+        contactosSuelo.Add(collision.collider);
+    else
+        contactosSuelo.Remove(collision.collider);
+
+    EnSuelo = contactosSuelo.Count > 0;
+}
+
+private void OnDisable()
+{
+    contactosSuelo.Clear();
+    EnSuelo = false;
+}
 }

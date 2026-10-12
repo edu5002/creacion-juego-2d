@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: c27d78d758271a34da4f1d6fb32d94a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3612449548479074113
+    second: limo_dead_0
+  - first:
+      213: -4692438780293894359
+    second: limo_dead_1
+  - first:
+      213: -5559725690918768457
+    second: limo_dead_2
+  - first:
+      213: -2683532666068672741
+    second: limo_dead_3
+  - first:
+      213: -1584663588100238856
+    second: limo_dead_4
+  - first:
+      213: 2561391261607635599
+    second: limo_dead_5
+  - first:
+      213: -7489031542044843108
+    second: limo_dead_6
+  - first:
+      213: -1919289377017896757
+    second: limo_dead_7
+  - first:
+      213: -6062027336824287948
+    second: limo_dead_8
+  - first:
+      213: 1345509456203650544
+    second: limo_dead_9
+  - first:
+      213: -7613884567660670543
+    second: limo_dead_10
+  - first:
+      213: -2292423777455652175
+    second: limo_dead_11
+  - first:
+      213: -5613801019764012459
+    second: limo_dead_12
+  - first:
+      213: 5576138172231588082
+    second: limo_dead_13
+  - first:
+      213: -8271858461864993688
+    second: limo_dead_14
+  - first:
+      213: -5335051645820290633
+    second: limo_dead_15
+  - first:
+      213: -8917771435489851996
+    second: limo_dead_16
+  - first:
+      213: -8923542685076377957
+    second: limo_dead_17
+  - first:
+      213: -46497661416770779
+    second: limo_dead_18
+  - first:
+      213: -7330585484557802110
+    second: limo_dead_19
+  - first:
+      213: -7442747678934980447
+    second: limo_dead_20
+  - first:
+      213: -452008763177510470
+    second: limo_dead_21
+  - first:
+      213: 8657343146337044911
+    second: limo_dead_22
+  - first:
+      213: 6470535376773826345
+    second: limo_dead_23
+  - first:
+      213: 7661829459650597812
+    second: limo_dead_24
+  - first:
+      213: 1875407719059963050
+    second: limo_dead_25
+  - first:
+      213: 1459570660965450426
+    second: limo_dead_26
+  - first:
+      213: -2742620705382233148
+    second: limo_dead_27
+  - first:
+      213: -7564265027307626608
+    second: limo_dead_28
+  - first:
+      213: -8049303180497166111
+    second: limo_dead_29
+  - first:
+      213: 98179089949219069
+    second: limo_dead_30
+  - first:
+      213: -4326113952406588927
+    second: limo_dead_31
+  - first:
+      213: -108859983349398738
+    second: limo_dead_32
+  - first:
+      213: -1024311112507870630
+    second: limo_dead_33
+  - first:
+      213: 7046019373147370866
+    second: limo_dead_34
+  - first:
+      213: -6184350976864476893
+    second: limo_dead_35
+  - first:
+      213: 2322303446802267845
+    second: limo_dead_36
+  - first:
+      213: 3447410737942062192
+    second: limo_dead_37
+  - first:
+      213: -3029130335228807962
+    second: limo_dead_38
+  - first:
+      213: 8816262252019519935
+    second: limo_dead_39
+  - first:
+      213: 5472949344933761388
+    second: limo_dead_40
+  - first:
+      213: -6513931391270601723
+    second: limo_dead_41
+  - first:
+      213: 8540192161034030684
+    second: limo_dead_42
+  - first:
+      213: -3073600115829111808
+    second: limo_dead_43
+  - first:
+      213: -8073411750387814731
+    second: limo_dead_44
+  - first:
+      213: 7242481300535167539
+    second: limo_dead_45
+  - first:
+      213: -5040505598860763032
+    second: limo_dead_46
+  - first:
+      213: 2792561712884613127
+    second: limo_dead_47
+  - first:
+      213: -6516830629827854980
+    second: limo_dead_48
+  - first:
+      213: 7720471408409404610
+    second: limo_dead_49
+  - first:
+      213: -7240603080046466061
+    second: limo_dead_50
+  - first:
+      213: 3287427086182984947
+    second: limo_dead_51
+  - first:
+      213: -1931544471776918626
+    second: limo_dead_52
+  - first:
+      213: 5891368767367927758
+    second: limo_dead_53
+  - first:
+      213: -4112059053755022605
+    second: limo_dead_54
+  - first:
+      213: 753558436950373969
+    second: limo_dead_55
+  - first:
+      213: -7986070523839423674
+    second: limo_dead_56
+  - first:
+      213: -4044237809162377640
+    second: limo_dead_57
+  - first:
+      213: -1100355830923686096
+    second: limo_dead_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 290
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: limo_dead_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 543
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb072e576400eddc0800000000000000
+      internalID: -3612449548479074113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: limo_dead_1
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 543
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fa05a7acb11eeb0800000000000000
+      internalID: -4692438780293894359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: limo_dead_2
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 543
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b07c28d0f2e7d2b0800000000000000
+      internalID: -5559725690918768457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: limo_dead_3
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 0
+        width: 543
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fd1d7124d22cad0800000000000000
+      internalID: -2683532666068672741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f036a693c5559594ea4daa73ed1db3d9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":1.0},"gridSpriteSize":{"x":543.0,"y":724.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      limo_dead_0: -3612449548479074113
+      limo_dead_1: -4692438780293894359
+      limo_dead_2: -5559725690918768457
+      limo_dead_3: -2683532666068672741
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
