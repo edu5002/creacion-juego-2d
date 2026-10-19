@@ -17,6 +17,8 @@ public class PlayerVida : MonoBehaviour
     [Header("Reaparición")]
     public float esperaTrasMuerte = 0.5f;
     public float proteccionAlReaparecer = 2f;
+    [Header("Game Over")]
+    public GameOverUI gameOverUI;
 
     public int VidaActual { get; private set; }
     public bool EstaMuerto { get; private set; }
@@ -71,7 +73,7 @@ public class PlayerVida : MonoBehaviour
         if (ordenGuardado <= 0)
             return;
 
-       Checkpoint[] altares = FindObjectsByType<Checkpoint>();
+        Checkpoint[] altares = FindObjectsByType<Checkpoint>();
 
         Checkpoint altarEncontrado = null;
 
@@ -198,12 +200,56 @@ public class PlayerVida : MonoBehaviour
             return;
 
         reaparicionProgramada = true;
-        StartCoroutine(Reaparecer());
+
+        if (gameOverUI != null)
+        {
+            gameOverUI.Mostrar();
+        }
+        else
+        {
+            Debug.LogWarning(
+                "Falta asignar GameOverUI. Reaparición automática.",
+                this
+            );
+
+            StartCoroutine(Reaparecer());
+        }
+    }
+
+    public void MorirPorCaida()
+    {
+        if (EstaMuerto)
+            return;
+
+        if (reaccion != null)
+        {
+            StopCoroutine(reaccion);
+            reaccion = null;
+        }
+
+        if (combate != null)
+        {
+            combate.OnAttackAnimationEnd();
+            combate.enabled = false;
+        }
+
+        if (movimiento != null)
+            movimiento.enabled = false;
+
+        VidaActual = 0;
+
+        // La muerte debe continuar aunque esté fuera de la cámara.
+        animator.cullingMode = AnimatorCullingMode.AlwaysAnimate;
+
+        Morir();
+
+        // Detiene la caída mientras termina la animación.
+        rb.simulated = false;
     }
 
     private IEnumerator Reaparecer()
     {
-        yield return new WaitForSeconds(esperaTrasMuerte);
+        yield return null;
 
         rb.linearVelocity = Vector2.zero;
         rb.angularVelocity = 0f;
@@ -212,6 +258,7 @@ public class PlayerVida : MonoBehaviour
         rb.position = new Vector2(
             puntoReaparicion.x, puntoReaparicion.y
         );
+        rb.simulated = true;
 
         VidaActual = Mathf.Max(1, vidaMaxima);
         EstaMuerto = false;
@@ -236,5 +283,20 @@ public class PlayerVida : MonoBehaviour
             combate.enabled = true;
 
         reaparicionProgramada = false;
+    }
+
+    public void ReintentarDesdeCheckpoint()
+    {
+        if (!EstaMuerto)
+            return;
+
+        StartCoroutine(Reaparecer());
+    }
+
+    [ContextMenu("Borrar guardado de prueba")]
+    private void BorrarGuardadoDePrueba()
+    {
+        GuardadoPartida.BorrarPartida();
+        Debug.Log("Guardado eliminado. Activa un checkpoint nuevamente.");
     }
 }

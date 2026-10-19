@@ -1,0 +1,1926 @@
+fileFormatVersion: 2
+guid: 0a27d4ecec9349b47a133741541d5708
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6536421976917765001
+    second: medio_parallax_0
+  - first:
+      213: -762067695400117628
+    second: medio_parallax_1
+  - first:
+      213: 2780975438156454002
+    second: medio_parallax_2
+  - first:
+      213: 8976055873068586461
+    second: medio_parallax_3
+  - first:
+      213: -4179145534148055864
+    second: medio_parallax_4
+  - first:
+      213: 235180237174582753
+    second: medio_parallax_5
+  - first:
+      213: -825922144622989300
+    second: medio_parallax_6
+  - first:
+      213: -4774792124088523725
+    second: medio_parallax_7
+  - first:
+      213: 7360221659639578687
+    second: medio_parallax_8
+  - first:
+      213: -4565456586130922851
+    second: medio_parallax_9
+  - first:
+      213: -522168710625753831
+    second: medio_parallax_10
+  - first:
+      213: 1513642996708942962
+    second: medio_parallax_11
+  - first:
+      213: 7931667651796581563
+    second: medio_parallax_12
+  - first:
+      213: 4307302673219920273
+    second: medio_parallax_13
+  - first:
+      213: -3200320297403931528
+    second: medio_parallax_14
+  - first:
+      213: 1522796015454943215
+    second: medio_parallax_15
+  - first:
+      213: -3927185435371669053
+    second: medio_parallax_16
+  - first:
+      213: -8046105792112116642
+    second: medio_parallax_17
+  - first:
+      213: 4403475976696147235
+    second: medio_parallax_18
+  - first:
+      213: 6614254321875820324
+    second: medio_parallax_19
+  - first:
+      213: -8412161470031779432
+    second: medio_parallax_20
+  - first:
+      213: -3434642106547405336
+    second: medio_parallax_21
+  - first:
+      213: 8615291120336575964
+    second: medio_parallax_22
+  - first:
+      213: -2124731390995953142
+    second: medio_parallax_23
+  - first:
+      213: 1949674852340128344
+    second: medio_parallax_24
+  - first:
+      213: -6766638677710292884
+    second: medio_parallax_25
+  - first:
+      213: 8074694142921153926
+    second: medio_parallax_26
+  - first:
+      213: -5727591313136659532
+    second: medio_parallax_27
+  - first:
+      213: -3701754130994445864
+    second: medio_parallax_28
+  - first:
+      213: -693437008124446
+    second: medio_parallax_29
+  - first:
+      213: -6833519660261422152
+    second: medio_parallax_30
+  - first:
+      213: 1937634393204311426
+    second: medio_parallax_31
+  - first:
+      213: -2987688924721296015
+    second: medio_parallax_32
+  - first:
+      213: 9178455216298126913
+    second: medio_parallax_33
+  - first:
+      213: 4471291185100700168
+    second: medio_parallax_34
+  - first:
+      213: -1226117548051756283
+    second: medio_parallax_35
+  - first:
+      213: 3232182789902121644
+    second: medio_parallax_36
+  - first:
+      213: 795217829550183604
+    second: medio_parallax_37
+  - first:
+      213: 8841380030316837736
+    second: medio_parallax_38
+  - first:
+      213: 5617242990385780063
+    second: medio_parallax_39
+  - first:
+      213: -3806789931734822125
+    second: medio_parallax_40
+  - first:
+      213: 2862542042549131843
+    second: medio_parallax_41
+  - first:
+      213: 4466774167230524920
+    second: medio_parallax_42
+  - first:
+      213: 7457614784004724272
+    second: medio_parallax_43
+  - first:
+      213: -7165455441376686002
+    second: medio_parallax_44
+  - first:
+      213: 8202945899404990964
+    second: medio_parallax_45
+  - first:
+      213: -1066478299692694056
+    second: medio_parallax_46
+  - first:
+      213: 7431892784452741417
+    second: medio_parallax_47
+  - first:
+      213: 3999001779379436289
+    second: medio_parallax_48
+  - first:
+      213: -926548784068805805
+    second: medio_parallax_49
+  - first:
+      213: -549851941216251061
+    second: medio_parallax_50
+  - first:
+      213: -4147852725943947140
+    second: medio_parallax_51
+  - first:
+      213: 2183346683191093653
+    second: medio_parallax_52
+  - first:
+      213: 3208331548267081740
+    second: medio_parallax_53
+  - first:
+      213: 2793848700260704008
+    second: medio_parallax_54
+  - first:
+      213: -4804321431833038486
+    second: medio_parallax_55
+  - first:
+      213: 3508869864112249838
+    second: medio_parallax_56
+  - first:
+      213: -4231288154293656399
+    second: medio_parallax_57
+  - first:
+      213: -8517882264563580911
+    second: medio_parallax_58
+  - first:
+      213: 6630125788418416263
+    second: medio_parallax_59
+  - first:
+      213: -948335007792716128
+    second: medio_parallax_60
+  - first:
+      213: -1834793200784934301
+    second: medio_parallax_61
+  - first:
+      213: -7978097432688488000
+    second: medio_parallax_62
+  - first:
+      213: 2196907137887950196
+    second: medio_parallax_63
+  - first:
+      213: -2559397234181251856
+    second: medio_parallax_64
+  - first:
+      213: -4951762177586677185
+    second: medio_parallax_65
+  - first:
+      213: -7658777796645933953
+    second: medio_parallax_66
+  - first:
+      213: -5485360828347636528
+    second: medio_parallax_67
+  - first:
+      213: 7167988857736648710
+    second: medio_parallax_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: medio_parallax_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 679
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77492cbe7d6f945a0800000000000000
+      internalID: -6536421976917765001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 683
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a10e8f7779c65f0800000000000000
+      internalID: -762067695400117628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 715
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278d6604d62089620800000000000000
+      internalID: 2780975438156454002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 705
+        width: 54
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5df46624b519c70800000000000000
+      internalID: 8976055873068586461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 711
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cce17c5741b006c0800000000000000
+      internalID: -4179145534148055864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_5
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 687
+        width: 78
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edabfefd27834300800000000000000
+      internalID: 235180237174582753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2172
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c003e957f2cb984f0800000000000000
+      internalID: -825922144622989300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 691
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334ee5f6cd78cbdb0800000000000000
+      internalID: -4774792124088523725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_8
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 687
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3004f27a92c42660800000000000000
+      internalID: 7360221659639578687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_9
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 677
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92e23a7c6d34a0c0800000000000000
+      internalID: -4565456586130922851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_10
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 697
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91504520352e0c8f0800000000000000
+      internalID: -522168710625753831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_11
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 658
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274289f294a810510800000000000000
+      internalID: 1513642996708942962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_12
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 667
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcbacd94b1f21e60800000000000000
+      internalID: 7931667651796581563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_13
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 665
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1912d51d5fc96cb30800000000000000
+      internalID: 4307302673219920273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_14
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 667
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87424c145ad2693d0800000000000000
+      internalID: -3200320297403931528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 643
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7729e68ee022510800000000000000
+      internalID: 1522796015454943215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_16
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 643
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9759557a5df79c0800000000000000
+      internalID: -3927185435371669053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_17
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 648
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cb1f3896d765090800000000000000
+      internalID: -8046105792112116642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_18
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 609
+        width: 88
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32da0f7f11a4c1d30800000000000000
+      internalID: 4403475976696147235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_19
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 630
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f108d034d8acb50800000000000000
+      internalID: 6614254321875820324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_20
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 597
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899278966bff14b80800000000000000
+      internalID: -8412161470031779432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_21
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 646
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed74ac9333b550d0800000000000000
+      internalID: -3434642106547405336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_22
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 638
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd1d30d0a9af8770800000000000000
+      internalID: 8615291120336575964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_23
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 634
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a8094ae007382e0800000000000000
+      internalID: -2124731390995953142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_24
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 628
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ade39c2f2ae0b10800000000000000
+      internalID: 1949674852340128344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_25
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 630
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68b8ab49f11812a0800000000000000
+      internalID: -6766638677710292884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_26
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 627
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d1eba9a831f0070800000000000000
+      internalID: 8074694142921153926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_27
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 635
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b350e9fb028380b0800000000000000
+      internalID: -5727591313136659532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_28
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 640
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1cd380b3ab0acc0800000000000000
+      internalID: -3701754130994445864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_29
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 626
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5e47d92598dfff0800000000000000
+      internalID: -693437008124446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_30
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 624
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb487413167a21a0800000000000000
+      internalID: -6833519660261422152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_31
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 618
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285c58fe63cd3ea10800000000000000
+      internalID: 1937634393204311426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_32
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 616
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d4e9e90c89986d0800000000000000
+      internalID: -2987688924721296015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_33
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 618
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ee742c36c606f70800000000000000
+      internalID: 9178455216298126913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_34
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 612
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a334794a73d0e30800000000000000
+      internalID: 4471291185100700168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_35
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 608
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b80871694fbfee0800000000000000
+      internalID: -1226117548051756283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_36
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 614
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa3f316f150bdc20800000000000000
+      internalID: 3232182789902121644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_37
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 608
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b45569176e290b00800000000000000
+      internalID: 795217829550183604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_38
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 606
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b744f3b44e2ba70800000000000000
+      internalID: 8841380030316837736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_39
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 614
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f555ff20db474fd40800000000000000
+      internalID: 5617242990385780063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_40
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 608
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3139960f9b09b2bc0800000000000000
+      internalID: -3806789931734822125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_41
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 608
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a13c042dac9b720800000000000000
+      internalID: 2862542042549131843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_42
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 608
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdaaa9607b2dfd30800000000000000
+      internalID: 4466774167230524920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_43
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 615
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0369d484225ce7760800000000000000
+      internalID: 7457614784004724272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_44
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 608
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e405ad28d303f8c90800000000000000
+      internalID: -7165455441376686002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_45
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 612
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f918cd95d7b6d170800000000000000
+      internalID: 8202945899404990964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_46
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 618
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5872a03ab1331f0800000000000000
+      internalID: -1066478299692694056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_47
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 610
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92928129c13632760800000000000000
+      internalID: 7431892784452741417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_48
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 602
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bf0144eee4f7730800000000000000
+      internalID: 3999001779379436289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_49
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 578
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b328a3acc3423f0800000000000000
+      internalID: -926548784068805805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_50
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 606
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b431fbc92988e58f0800000000000000
+      internalID: -549851941216251061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_51
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 596
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70b9790ceddf66c0800000000000000
+      internalID: -4147852725943947140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_52
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 602
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599e1219d3ecc4e10800000000000000
+      internalID: 2183346683191093653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_53
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 596
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0073207b88468c20800000000000000
+      internalID: 3208331548267081740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_54
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 596
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fd937279eb5c620800000000000000
+      internalID: 2793848700260704008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_55
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 600
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61bbc4bc1f935db0800000000000000
+      internalID: -4804321431833038486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_56
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 596
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebdb75fc8202b030800000000000000
+      internalID: 3508869864112249838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_57
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 596
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4220d87d17745c0800000000000000
+      internalID: -4231288154293656399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_58
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 602
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1108616c5376ac980800000000000000
+      internalID: -8517882264563580911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_59
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 592
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e16d2d640f20c50800000000000000
+      internalID: 6630125788418416263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_60
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 604
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6a27cb556d6d2f0800000000000000
+      internalID: -948335007792716128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_61
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 594
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a79e61e418986e0800000000000000
+      internalID: -1834793200784934301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_62
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 593
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1952d97aa184190800000000000000
+      internalID: -7978097432688488000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_63
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 596
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475d456f66bfc7e10800000000000000
+      internalID: 2196907137887950196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_64
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 598
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc528996c13b7cd0800000000000000
+      internalID: -2559397234181251856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_65
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 596
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a3bb8f88ec74bb0800000000000000
+      internalID: -4951762177586677185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_66
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 598
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c25410c2e86b590800000000000000
+      internalID: -7658777796645933953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_67
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 587
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d42f79a36510e3b0800000000000000
+      internalID: -5485360828347636528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: medio_parallax_68
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 592
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608d95373efc97360800000000000000
+      internalID: 7167988857736648710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      medio_parallax_0: -6536421976917765001
+      medio_parallax_1: -762067695400117628
+      medio_parallax_10: -522168710625753831
+      medio_parallax_11: 1513642996708942962
+      medio_parallax_12: 7931667651796581563
+      medio_parallax_13: 4307302673219920273
+      medio_parallax_14: -3200320297403931528
+      medio_parallax_15: 1522796015454943215
+      medio_parallax_16: -3927185435371669053
+      medio_parallax_17: -8046105792112116642
+      medio_parallax_18: 4403475976696147235
+      medio_parallax_19: 6614254321875820324
+      medio_parallax_2: 2780975438156454002
+      medio_parallax_20: -8412161470031779432
+      medio_parallax_21: -3434642106547405336
+      medio_parallax_22: 8615291120336575964
+      medio_parallax_23: -2124731390995953142
+      medio_parallax_24: 1949674852340128344
+      medio_parallax_25: -6766638677710292884
+      medio_parallax_26: 8074694142921153926
+      medio_parallax_27: -5727591313136659532
+      medio_parallax_28: -3701754130994445864
+      medio_parallax_29: -693437008124446
+      medio_parallax_3: 8976055873068586461
+      medio_parallax_30: -6833519660261422152
+      medio_parallax_31: 1937634393204311426
+      medio_parallax_32: -2987688924721296015
+      medio_parallax_33: 9178455216298126913
+      medio_parallax_34: 4471291185100700168
+      medio_parallax_35: -1226117548051756283
+      medio_parallax_36: 3232182789902121644
+      medio_parallax_37: 795217829550183604
+      medio_parallax_38: 8841380030316837736
+      medio_parallax_39: 5617242990385780063
+      medio_parallax_4: -4179145534148055864
+      medio_parallax_40: -3806789931734822125
+      medio_parallax_41: 2862542042549131843
+      medio_parallax_42: 4466774167230524920
+      medio_parallax_43: 7457614784004724272
+      medio_parallax_44: -7165455441376686002
+      medio_parallax_45: 8202945899404990964
+      medio_parallax_46: -1066478299692694056
+      medio_parallax_47: 7431892784452741417
+      medio_parallax_48: 3999001779379436289
+      medio_parallax_49: -926548784068805805
+      medio_parallax_5: 235180237174582753
+      medio_parallax_50: -549851941216251061
+      medio_parallax_51: -4147852725943947140
+      medio_parallax_52: 2183346683191093653
+      medio_parallax_53: 3208331548267081740
+      medio_parallax_54: 2793848700260704008
+      medio_parallax_55: -4804321431833038486
+      medio_parallax_56: 3508869864112249838
+      medio_parallax_57: -4231288154293656399
+      medio_parallax_58: -8517882264563580911
+      medio_parallax_59: 6630125788418416263
+      medio_parallax_6: -825922144622989300
+      medio_parallax_60: -948335007792716128
+      medio_parallax_61: -1834793200784934301
+      medio_parallax_62: -7978097432688488000
+      medio_parallax_63: 2196907137887950196
+      medio_parallax_64: -2559397234181251856
+      medio_parallax_65: -4951762177586677185
+      medio_parallax_66: -7658777796645933953
+      medio_parallax_67: -5485360828347636528
+      medio_parallax_68: 7167988857736648710
+      medio_parallax_7: -4774792124088523725
+      medio_parallax_8: 7360221659639578687
+      medio_parallax_9: -4565456586130922851
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

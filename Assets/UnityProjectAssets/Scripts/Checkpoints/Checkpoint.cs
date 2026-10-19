@@ -10,6 +10,12 @@ public class Checkpoint : MonoBehaviour
 
     [Min(1)]
     public int orden = 1;
+    [Header("Sonido de activación")]
+    public AudioSource fuenteAudio;
+    public AudioClip sonidoActivacion;
+
+    [Range(0f, 1f)]
+    public float volumenActivacion = 0.5f;
 
     private bool activado;
 
@@ -56,6 +62,9 @@ public class Checkpoint : MonoBehaviour
         );
 
         Encender();
+
+        if (fuenteAudio != null && sonidoActivacion != null)
+            fuenteAudio.PlayOneShot(sonidoActivacion, volumenActivacion);
     }
 
     private void Encender()
