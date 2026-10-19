@@ -1,0 +1,6697 @@
+fileFormatVersion: 2
+guid: d41b9ac6daa140b48bb324706a06e036
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6949364914802150493
+    second: Plataforma pixelada de hierba y roca_0
+  - first:
+      213: -7035774473307082053
+    second: Plataforma pixelada de hierba y roca_1
+  - first:
+      213: 7440570953084814544
+    second: Plataforma pixelada de hierba y roca_2
+  - first:
+      213: 4742334374300242030
+    second: Plataforma pixelada de hierba y roca_3
+  - first:
+      213: -8829657791469374930
+    second: Plataforma pixelada de hierba y roca_4
+  - first:
+      213: 7434484892754825216
+    second: Plataforma pixelada de hierba y roca_5
+  - first:
+      213: -1003180224113088184
+    second: Plataforma pixelada de hierba y roca_6
+  - first:
+      213: -3525678735962975787
+    second: Plataforma pixelada de hierba y roca_7
+  - first:
+      213: -4355862795227837003
+    second: Plataforma pixelada de hierba y roca_8
+  - first:
+      213: 2731468030337244402
+    second: Plataforma pixelada de hierba y roca_9
+  - first:
+      213: -4723235665044483039
+    second: Plataforma pixelada de hierba y roca_10
+  - first:
+      213: -8347830211109609509
+    second: Plataforma pixelada de hierba y roca_11
+  - first:
+      213: 481929686030620609
+    second: Plataforma pixelada de hierba y roca_12
+  - first:
+      213: 2101399520501342367
+    second: Plataforma pixelada de hierba y roca_13
+  - first:
+      213: -2355963206088117827
+    second: Plataforma pixelada de hierba y roca_14
+  - first:
+      213: 3468915946424738494
+    second: Plataforma pixelada de hierba y roca_15
+  - first:
+      213: 8066046890322079869
+    second: Plataforma pixelada de hierba y roca_16
+  - first:
+      213: -4235794247455978655
+    second: Plataforma pixelada de hierba y roca_17
+  - first:
+      213: -303898144076179533
+    second: Plataforma pixelada de hierba y roca_18
+  - first:
+      213: 8558823744624093594
+    second: Plataforma pixelada de hierba y roca_19
+  - first:
+      213: 2464528430745265787
+    second: Plataforma pixelada de hierba y roca_20
+  - first:
+      213: -8537353458707426111
+    second: Plataforma pixelada de hierba y roca_21
+  - first:
+      213: 6925005265055813038
+    second: Plataforma pixelada de hierba y roca_22
+  - first:
+      213: 6616980131492576448
+    second: Plataforma pixelada de hierba y roca_23
+  - first:
+      213: 3256528709124485464
+    second: Plataforma pixelada de hierba y roca_24
+  - first:
+      213: -5815067455148433962
+    second: Plataforma pixelada de hierba y roca_25
+  - first:
+      213: 1851967707407312137
+    second: Plataforma pixelada de hierba y roca_26
+  - first:
+      213: -1436678817047458183
+    second: Plataforma pixelada de hierba y roca_27
+  - first:
+      213: 2307125137672212173
+    second: Plataforma pixelada de hierba y roca_28
+  - first:
+      213: -7308420065614146132
+    second: Plataforma pixelada de hierba y roca_29
+  - first:
+      213: -8728757088493301620
+    second: Plataforma pixelada de hierba y roca_30
+  - first:
+      213: -2455097277807712749
+    second: Plataforma pixelada de hierba y roca_31
+  - first:
+      213: 2392613211466332716
+    second: Plataforma pixelada de hierba y roca_32
+  - first:
+      213: -8532942119869976475
+    second: Plataforma pixelada de hierba y roca_33
+  - first:
+      213: 1313973255402957036
+    second: Plataforma pixelada de hierba y roca_34
+  - first:
+      213: 7549047271859464488
+    second: Plataforma pixelada de hierba y roca_35
+  - first:
+      213: 4957052661063770177
+    second: Plataforma pixelada de hierba y roca_36
+  - first:
+      213: 4269195757677254662
+    second: Plataforma pixelada de hierba y roca_37
+  - first:
+      213: -4136112755306811504
+    second: Plataforma pixelada de hierba y roca_38
+  - first:
+      213: -8867995163809621519
+    second: Plataforma pixelada de hierba y roca_39
+  - first:
+      213: 9130652564270897401
+    second: Plataforma pixelada de hierba y roca_40
+  - first:
+      213: 4682237058084339522
+    second: Plataforma pixelada de hierba y roca_41
+  - first:
+      213: 6952103507478284719
+    second: Plataforma pixelada de hierba y roca_42
+  - first:
+      213: -4351661871701187201
+    second: Plataforma pixelada de hierba y roca_43
+  - first:
+      213: 3689513420581801597
+    second: Plataforma pixelada de hierba y roca_44
+  - first:
+      213: 558768438167691607
+    second: Plataforma pixelada de hierba y roca_45
+  - first:
+      213: -319972352587798503
+    second: Plataforma pixelada de hierba y roca_46
+  - first:
+      213: -5758705644097931826
+    second: Plataforma pixelada de hierba y roca_47
+  - first:
+      213: 7429360501234977709
+    second: Plataforma pixelada de hierba y roca_48
+  - first:
+      213: 6414387116698960778
+    second: Plataforma pixelada de hierba y roca_49
+  - first:
+      213: -5605816605450811247
+    second: Plataforma pixelada de hierba y roca_50
+  - first:
+      213: -296915549229934118
+    second: Plataforma pixelada de hierba y roca_51
+  - first:
+      213: 4022521395220727514
+    second: Plataforma pixelada de hierba y roca_52
+  - first:
+      213: -7286022812497017768
+    second: Plataforma pixelada de hierba y roca_53
+  - first:
+      213: 4945065943926622863
+    second: Plataforma pixelada de hierba y roca_54
+  - first:
+      213: -3511338164960104450
+    second: Plataforma pixelada de hierba y roca_55
+  - first:
+      213: 3051150999299596032
+    second: Plataforma pixelada de hierba y roca_56
+  - first:
+      213: -8297737117238929717
+    second: Plataforma pixelada de hierba y roca_57
+  - first:
+      213: -1246311997716794
+    second: Plataforma pixelada de hierba y roca_58
+  - first:
+      213: 2234429643653264724
+    second: Plataforma pixelada de hierba y roca_59
+  - first:
+      213: 493424883393353664
+    second: Plataforma pixelada de hierba y roca_60
+  - first:
+      213: -5116025303709910944
+    second: Plataforma pixelada de hierba y roca_61
+  - first:
+      213: 2797219894996240939
+    second: Plataforma pixelada de hierba y roca_62
+  - first:
+      213: 8841426555492488243
+    second: Plataforma pixelada de hierba y roca_63
+  - first:
+      213: -4927909045744123322
+    second: Plataforma pixelada de hierba y roca_64
+  - first:
+      213: -7667642079219127823
+    second: Plataforma pixelada de hierba y roca_65
+  - first:
+      213: -6853382817830629231
+    second: Plataforma pixelada de hierba y roca_66
+  - first:
+      213: -8967109502181161402
+    second: Plataforma pixelada de hierba y roca_67
+  - first:
+      213: 3557275957850102270
+    second: Plataforma pixelada de hierba y roca_68
+  - first:
+      213: 7503637065067895899
+    second: Plataforma pixelada de hierba y roca_69
+  - first:
+      213: 6686045651117542462
+    second: Plataforma pixelada de hierba y roca_70
+  - first:
+      213: 7071892028994080283
+    second: Plataforma pixelada de hierba y roca_71
+  - first:
+      213: -8843741538623117383
+    second: Plataforma pixelada de hierba y roca_72
+  - first:
+      213: 1677552939897144720
+    second: Plataforma pixelada de hierba y roca_73
+  - first:
+      213: 5400756563563494824
+    second: Plataforma pixelada de hierba y roca_74
+  - first:
+      213: -2121818998994906342
+    second: Plataforma pixelada de hierba y roca_75
+  - first:
+      213: 131415167958058327
+    second: Plataforma pixelada de hierba y roca_76
+  - first:
+      213: 3584997387156413917
+    second: Plataforma pixelada de hierba y roca_77
+  - first:
+      213: 2983356802653685780
+    second: Plataforma pixelada de hierba y roca_78
+  - first:
+      213: -8441156522664428773
+    second: Plataforma pixelada de hierba y roca_79
+  - first:
+      213: -5147612464976645997
+    second: Plataforma pixelada de hierba y roca_80
+  - first:
+      213: 6136770558007001368
+    second: Plataforma pixelada de hierba y roca_81
+  - first:
+      213: -5533438551415825914
+    second: Plataforma pixelada de hierba y roca_82
+  - first:
+      213: -7692678997459882862
+    second: Plataforma pixelada de hierba y roca_83
+  - first:
+      213: 8079412007538198438
+    second: Plataforma pixelada de hierba y roca_84
+  - first:
+      213: -4531090301887441792
+    second: Plataforma pixelada de hierba y roca_85
+  - first:
+      213: 3209701690908916134
+    second: Plataforma pixelada de hierba y roca_86
+  - first:
+      213: -4566322276969431173
+    second: Plataforma pixelada de hierba y roca_87
+  - first:
+      213: -391088970208397683
+    second: Plataforma pixelada de hierba y roca_88
+  - first:
+      213: 232143813472634230
+    second: Plataforma pixelada de hierba y roca_89
+  - first:
+      213: 9040036750981890482
+    second: Plataforma pixelada de hierba y roca_90
+  - first:
+      213: 7755488427512502692
+    second: Plataforma pixelada de hierba y roca_91
+  - first:
+      213: -8477274936463395340
+    second: Plataforma pixelada de hierba y roca_92
+  - first:
+      213: 3898468699014811559
+    second: Plataforma pixelada de hierba y roca_93
+  - first:
+      213: -968541551684557187
+    second: Plataforma pixelada de hierba y roca_94
+  - first:
+      213: 826618954126291827
+    second: Plataforma pixelada de hierba y roca_95
+  - first:
+      213: -7877123065369742600
+    second: Plataforma pixelada de hierba y roca_96
+  - first:
+      213: 1102348902987403636
+    second: Plataforma pixelada de hierba y roca_97
+  - first:
+      213: -873196459083189209
+    second: Plataforma pixelada de hierba y roca_98
+  - first:
+      213: 3682199825267984272
+    second: Plataforma pixelada de hierba y roca_99
+  - first:
+      213: 7369622711355212987
+    second: Plataforma pixelada de hierba y roca_100
+  - first:
+      213: 3856268217117718492
+    second: Plataforma pixelada de hierba y roca_101
+  - first:
+      213: 5556158509709903631
+    second: Plataforma pixelada de hierba y roca_102
+  - first:
+      213: -7141292294759036391
+    second: Plataforma pixelada de hierba y roca_103
+  - first:
+      213: -8111856479106942026
+    second: Plataforma pixelada de hierba y roca_104
+  - first:
+      213: 8952166340401276959
+    second: Plataforma pixelada de hierba y roca_105
+  - first:
+      213: 7733076404060437705
+    second: Plataforma pixelada de hierba y roca_106
+  - first:
+      213: -899701391117575856
+    second: Plataforma pixelada de hierba y roca_107
+  - first:
+      213: -9173525534052841928
+    second: Plataforma pixelada de hierba y roca_108
+  - first:
+      213: -8103891548294258908
+    second: Plataforma pixelada de hierba y roca_109
+  - first:
+      213: 1156657621385597981
+    second: Plataforma pixelada de hierba y roca_110
+  - first:
+      213: 3041517816382117012
+    second: Plataforma pixelada de hierba y roca_111
+  - first:
+      213: 4544193731270533062
+    second: Plataforma pixelada de hierba y roca_112
+  - first:
+      213: -2733264127528228821
+    second: Plataforma pixelada de hierba y roca_113
+  - first:
+      213: -8742288237938520069
+    second: Plataforma pixelada de hierba y roca_114
+  - first:
+      213: -3825863673352364826
+    second: Plataforma pixelada de hierba y roca_115
+  - first:
+      213: 5126187313135491386
+    second: Plataforma pixelada de hierba y roca_116
+  - first:
+      213: 2655571175998709649
+    second: Plataforma pixelada de hierba y roca_117
+  - first:
+      213: -514820706742981686
+    second: Plataforma pixelada de hierba y roca_118
+  - first:
+      213: -6819871838554444821
+    second: Plataforma pixelada de hierba y roca_119
+  - first:
+      213: -3310901071668790718
+    second: Plataforma pixelada de hierba y roca_120
+  - first:
+      213: 3517755794428224541
+    second: Plataforma pixelada de hierba y roca_121
+  - first:
+      213: 4938809844843261429
+    second: Plataforma pixelada de hierba y roca_122
+  - first:
+      213: 208934414844387425
+    second: Plataforma pixelada de hierba y roca_123
+  - first:
+      213: -3444677486024441195
+    second: Plataforma pixelada de hierba y roca_124
+  - first:
+      213: 8649124078681144987
+    second: Plataforma pixelada de hierba y roca_125
+  - first:
+      213: 8037640156277118102
+    second: Plataforma pixelada de hierba y roca_126
+  - first:
+      213: -1448438516886725099
+    second: Plataforma pixelada de hierba y roca_127
+  - first:
+      213: 3169530676374464184
+    second: Plataforma pixelada de hierba y roca_128
+  - first:
+      213: -5180956055279172245
+    second: Plataforma pixelada de hierba y roca_129
+  - first:
+      213: 2671443006358919560
+    second: Plataforma pixelada de hierba y roca_130
+  - first:
+      213: -4239854626640163538
+    second: Plataforma pixelada de hierba y roca_131
+  - first:
+      213: 3873185628118740042
+    second: Plataforma pixelada de hierba y roca_132
+  - first:
+      213: -3579062061587516818
+    second: Plataforma pixelada de hierba y roca_133
+  - first:
+      213: -598282920333394417
+    second: Plataforma pixelada de hierba y roca_134
+  - first:
+      213: 4040424376567849874
+    second: Plataforma pixelada de hierba y roca_135
+  - first:
+      213: -6310120389503408477
+    second: Plataforma pixelada de hierba y roca_136
+  - first:
+      213: 4909539053724555337
+    second: Plataforma pixelada de hierba y roca_137
+  - first:
+      213: -1199266336984412683
+    second: Plataforma pixelada de hierba y roca_138
+  - first:
+      213: -5768951400415981008
+    second: Plataforma pixelada de hierba y roca_139
+  - first:
+      213: -7953317976507535627
+    second: Plataforma pixelada de hierba y roca_140
+  - first:
+      213: 3611930165279445889
+    second: Plataforma pixelada de hierba y roca_141
+  - first:
+      213: -3552070226031456227
+    second: Plataforma pixelada de hierba y roca_142
+  - first:
+      213: 6983448715033211983
+    second: Plataforma pixelada de hierba y roca_143
+  - first:
+      213: 352440175419053368
+    second: Plataforma pixelada de hierba y roca_144
+  - first:
+      213: -4215797722484129986
+    second: Plataforma pixelada de hierba y roca_145
+  - first:
+      213: 6490880734721597874
+    second: Plataforma pixelada de hierba y roca_146
+  - first:
+      213: -1405969277139096452
+    second: Plataforma pixelada de hierba y roca_147
+  - first:
+      213: 216835264768742485
+    second: Plataforma pixelada de hierba y roca_148
+  - first:
+      213: 3802491485972999942
+    second: Plataforma pixelada de hierba y roca_149
+  - first:
+      213: 1901734333181580925
+    second: Plataforma pixelada de hierba y roca_150
+  - first:
+      213: 6998979747397999519
+    second: Plataforma pixelada de hierba y roca_151
+  - first:
+      213: 6771377351398966479
+    second: Plataforma pixelada de hierba y roca_152
+  - first:
+      213: 5987450140223862521
+    second: Plataforma pixelada de hierba y roca_153
+  - first:
+      213: 8220003022093462681
+    second: Plataforma pixelada de hierba y roca_154
+  - first:
+      213: 7146694999269630861
+    second: Plataforma pixelada de hierba y roca_155
+  - first:
+      213: 772645611126717567
+    second: Plataforma pixelada de hierba y roca_156
+  - first:
+      213: -9119139991697061614
+    second: Plataforma pixelada de hierba y roca_157
+  - first:
+      213: 2016031908634128538
+    second: Plataforma pixelada de hierba y roca_158
+  - first:
+      213: 5011003094408298866
+    second: Plataforma pixelada de hierba y roca_159
+  - first:
+      213: -7943325074248042903
+    second: Plataforma pixelada de hierba y roca_160
+  - first:
+      213: 853483167454730658
+    second: Plataforma pixelada de hierba y roca_161
+  - first:
+      213: 849328845776612337
+    second: Plataforma pixelada de hierba y roca_162
+  - first:
+      213: 8146431003956837586
+    second: Plataforma pixelada de hierba y roca_163
+  - first:
+      213: -7165213039651232888
+    second: Plataforma pixelada de hierba y roca_164
+  - first:
+      213: 4130883660385196724
+    second: Plataforma pixelada de hierba y roca_165
+  - first:
+      213: -2086880035898042991
+    second: Plataforma pixelada de hierba y roca_166
+  - first:
+      213: 1372236757567888065
+    second: Plataforma pixelada de hierba y roca_167
+  - first:
+      213: -1240953425120630877
+    second: Plataforma pixelada de hierba y roca_168
+  - first:
+      213: -4242748175831493595
+    second: Plataforma pixelada de hierba y roca_169
+  - first:
+      213: 4526389006288927018
+    second: Plataforma pixelada de hierba y roca_170
+  - first:
+      213: 972140400381116672
+    second: Plataforma pixelada de hierba y roca_171
+  - first:
+      213: 5027862423494774899
+    second: Plataforma pixelada de hierba y roca_172
+  - first:
+      213: 453702133030093132
+    second: Plataforma pixelada de hierba y roca_173
+  - first:
+      213: 990625841499483179
+    second: Plataforma pixelada de hierba y roca_174
+  - first:
+      213: 8559228233710605334
+    second: Plataforma pixelada de hierba y roca_175
+  - first:
+      213: -4523454128970718470
+    second: Plataforma pixelada de hierba y roca_176
+  - first:
+      213: 1633506663351738065
+    second: Plataforma pixelada de hierba y roca_177
+  - first:
+      213: 5337327787538098994
+    second: Plataforma pixelada de hierba y roca_178
+  - first:
+      213: -3758222076745750238
+    second: Plataforma pixelada de hierba y roca_179
+  - first:
+      213: -6126043409261267538
+    second: Plataforma pixelada de hierba y roca_180
+  - first:
+      213: 2661134590013008203
+    second: Plataforma pixelada de hierba y roca_181
+  - first:
+      213: 6795614402791099189
+    second: Plataforma pixelada de hierba y roca_182
+  - first:
+      213: -4172811366339142744
+    second: Plataforma pixelada de hierba y roca_183
+  - first:
+      213: -6471729864823988221
+    second: Plataforma pixelada de hierba y roca_184
+  - first:
+      213: 4395000812243445566
+    second: Plataforma pixelada de hierba y roca_185
+  - first:
+      213: -152787686579753037
+    second: Plataforma pixelada de hierba y roca_186
+  - first:
+      213: 1056657262595650893
+    second: Plataforma pixelada de hierba y roca_187
+  - first:
+      213: -4916388064640704842
+    second: Plataforma pixelada de hierba y roca_188
+  - first:
+      213: 3128369475542269066
+    second: Plataforma pixelada de hierba y roca_189
+  - first:
+      213: 8172292424110221283
+    second: Plataforma pixelada de hierba y roca_190
+  - first:
+      213: 4829537247600077386
+    second: Plataforma pixelada de hierba y roca_191
+  - first:
+      213: -5626325851946838599
+    second: Plataforma pixelada de hierba y roca_192
+  - first:
+      213: 7609810007306062346
+    second: Plataforma pixelada de hierba y roca_193
+  - first:
+      213: 5892418957751266016
+    second: Plataforma pixelada de hierba y roca_194
+  - first:
+      213: -7787366663181318854
+    second: Plataforma pixelada de hierba y roca_195
+  - first:
+      213: -5337794027685548034
+    second: Plataforma pixelada de hierba y roca_196
+  - first:
+      213: -2985673394899745052
+    second: Plataforma pixelada de hierba y roca_197
+  - first:
+      213: 4221711710562606314
+    second: Plataforma pixelada de hierba y roca_198
+  - first:
+      213: -3045037379640650240
+    second: Plataforma pixelada de hierba y roca_199
+  - first:
+      213: 8541084962831433914
+    second: Plataforma pixelada de hierba y roca_200
+  - first:
+      213: -170825788963027414
+    second: Plataforma pixelada de hierba y roca_201
+  - first:
+      213: 5219742431479095492
+    second: Plataforma pixelada de hierba y roca_202
+  - first:
+      213: 6786303842343037391
+    second: Plataforma pixelada de hierba y roca_203
+  - first:
+      213: -4799138017538635570
+    second: Plataforma pixelada de hierba y roca_204
+  - first:
+      213: -9127502352870886911
+    second: Plataforma pixelada de hierba y roca_205
+  - first:
+      213: 64703997967032304
+    second: Plataforma pixelada de hierba y roca_206
+  - first:
+      213: -9179572205978176243
+    second: Plataforma pixelada de hierba y roca_207
+  - first:
+      213: -3405051737859949821
+    second: Plataforma pixelada de hierba y roca_208
+  - first:
+      213: -6586653444619527550
+    second: Plataforma pixelada de hierba y roca_209
+  - first:
+      213: -8340207974540884184
+    second: Plataforma pixelada de hierba y roca_210
+  - first:
+      213: -7649801647117729764
+    second: Plataforma pixelada de hierba y roca_211
+  - first:
+      213: -8938367947706290245
+    second: Plataforma pixelada de hierba y roca_212
+  - first:
+      213: -2900827328229495565
+    second: Plataforma pixelada de hierba y roca_213
+  - first:
+      213: 4405930804858762232
+    second: Plataforma pixelada de hierba y roca_214
+  - first:
+      213: -3218745168688783915
+    second: Plataforma pixelada de hierba y roca_215
+  - first:
+      213: -7409615719776130533
+    second: Plataforma pixelada de hierba y roca_216
+  - first:
+      213: 2965122414333615599
+    second: Plataforma pixelada de hierba y roca_217
+  - first:
+      213: 4041915311593924889
+    second: Plataforma pixelada de hierba y roca_218
+  - first:
+      213: -4157494750070530331
+    second: Plataforma pixelada de hierba y roca_219
+  - first:
+      213: -2135528180173177356
+    second: Plataforma pixelada de hierba y roca_220
+  - first:
+      213: 3956825858218199393
+    second: Plataforma pixelada de hierba y roca_221
+  - first:
+      213: -2765057970207423122
+    second: Plataforma pixelada de hierba y roca_222
+  - first:
+      213: 4338692410736277436
+    second: Plataforma pixelada de hierba y roca_223
+  - first:
+      213: 832106616783528298
+    second: Plataforma pixelada de hierba y roca_224
+  - first:
+      213: 5270818598549425122
+    second: Plataforma pixelada de hierba y roca_225
+  - first:
+      213: -1541328792550235486
+    second: Plataforma pixelada de hierba y roca_226
+  - first:
+      213: -4926847046681473020
+    second: Plataforma pixelada de hierba y roca_227
+  - first:
+      213: 61107964321504149
+    second: Plataforma pixelada de hierba y roca_228
+  - first:
+      213: 2104894593612606947
+    second: Plataforma pixelada de hierba y roca_229
+  - first:
+      213: 8665088541382007342
+    second: Plataforma pixelada de hierba y roca_230
+  - first:
+      213: -6044152509547446433
+    second: Plataforma pixelada de hierba y roca_231
+  - first:
+      213: 2894618851930685893
+    second: Plataforma pixelada de hierba y roca_232
+  - first:
+      213: -718076546482611082
+    second: Plataforma pixelada de hierba y roca_233
+  - first:
+      213: -6881882785581387654
+    second: Plataforma pixelada de hierba y roca_234
+  - first:
+      213: -164327099225110763
+    second: Plataforma pixelada de hierba y roca_235
+  - first:
+      213: 8407461941919734803
+    second: Plataforma pixelada de hierba y roca_236
+  - first:
+      213: -2563212006815887282
+    second: Plataforma pixelada de hierba y roca_237
+  - first:
+      213: -8032995025114878084
+    second: Plataforma pixelada de hierba y roca_238
+  - first:
+      213: 128962478822105680
+    second: Plataforma pixelada de hierba y roca_239
+  - first:
+      213: 4200661065655344386
+    second: Plataforma pixelada de hierba y roca_240
+  - first:
+      213: -418776887003839081
+    second: Plataforma pixelada de hierba y roca_241
+  - first:
+      213: 4933328725241769483
+    second: Plataforma pixelada de hierba y roca_242
+  - first:
+      213: -4830338398206973440
+    second: Plataforma pixelada de hierba y roca_243
+  - first:
+      213: -1968737362826688412
+    second: Plataforma pixelada de hierba y roca_244
+  - first:
+      213: 8616663863756605078
+    second: Plataforma pixelada de hierba y roca_245
+  - first:
+      213: 5522629053088297168
+    second: Plataforma pixelada de hierba y roca_246
+  - first:
+      213: -294426951213667618
+    second: Plataforma pixelada de hierba y roca_247
+  - first:
+      213: 1799275077783566432
+    second: Plataforma pixelada de hierba y roca_248
+  - first:
+      213: -7410946519696285885
+    second: Plataforma pixelada de hierba y roca_249
+  - first:
+      213: 7835459951569699353
+    second: Plataforma pixelada de hierba y roca_250
+  - first:
+      213: -7806834317712544799
+    second: Plataforma pixelada de hierba y roca_251
+  - first:
+      213: -6925033043022880355
+    second: Plataforma pixelada de hierba y roca_252
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 610
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c4859129a117060800000000000000
+      internalID: 6949364914802150493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 628
+        width: 71
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb235c6c468eb5e90800000000000000
+      internalID: -7035774473307082053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 626
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4c5b82cd7324760800000000000000
+      internalID: 7440570953084814544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 514
+        width: 105
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e605a4accf720d140800000000000000
+      internalID: 4742334374300242030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_4
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 651
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22353b2501c67580800000000000000
+      internalID: -8829657791469374930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_5
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 642
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000d8a0de989c2760800000000000000
+      internalID: 7434484892754825216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_6
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 621
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849ea08b6ecf312f0800000000000000
+      internalID: -1003180224113088184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_7
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 628
+        width: 59
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d157c69ed5421fc0800000000000000
+      internalID: -3525678735962975787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_8
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 490
+        width: 152
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdca18bddddc83c0800000000000000
+      internalID: -4355862795227837003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_9
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 650
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc569f93bf18e520800000000000000
+      internalID: 2731468030337244402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_10
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 644
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124519aff22b37eb0800000000000000
+      internalID: -4723235665044483039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_11
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 490
+        width: 246
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf9985d6ac862c80800000000000000
+      internalID: -8347830211109609509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_12
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 610
+        width: 110
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7129efe7820b600800000000000000
+      internalID: 481929686030620609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_13
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 514
+        width: 106
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90a8aeeabba92d10800000000000000
+      internalID: 2101399520501342367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_14
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 642
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db13a3d42ffed4fd0800000000000000
+      internalID: -2355963206088117827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_15
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 642
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2a5569ca0142030800000000000000
+      internalID: 3468915946424738494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_16
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 520
+        width: 106
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70ba4739ea50ff60800000000000000
+      internalID: 8066046890322079869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_17
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 492
+        width: 194
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b4ebaf29f6735c0800000000000000
+      internalID: -4235794247455978655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_18
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 570
+        width: 74
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b750728f3658cbf0800000000000000
+      internalID: -303898144076179533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_19
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 546
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a996f7169dc07c670800000000000000
+      internalID: 8558823744624093594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_20
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 594
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b762c65dc83c33220800000000000000
+      internalID: 2464528430745265787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_21
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 582
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c49acb134a358980800000000000000
+      internalID: -8537353458707426111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_22
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 528
+        width: 88
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead8c5b299f8a1060800000000000000
+      internalID: 6925005265055813038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_23
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 610
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccbe6f0f5c34db50800000000000000
+      internalID: 6616980131492576448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_24
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 626
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851f93c6b93813d20800000000000000
+      internalID: 3256528709124485464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_25
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 610
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd51f685fabc4fa0800000000000000
+      internalID: -5815067455148433962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_26
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 594
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905e18751d283b910800000000000000
+      internalID: 1851967707407312137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_27
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 590
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ece8d4a34ef0ce0800000000000000
+      internalID: -1436678817047458183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_28
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 598
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce835bc61e840020800000000000000
+      internalID: 2307125137672212173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_29
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 542
+        width: 117
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca55bb70ca6439a90800000000000000
+      internalID: -7308420065614146132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_30
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 600
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c801fa9cca93dd680800000000000000
+      internalID: -8728757088493301620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_31
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 620
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3162e33980ebdedd0800000000000000
+      internalID: -2455097277807712749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_32
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 591
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a7b5a0a05443120800000000000000
+      internalID: 2392613211466332716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_33
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 584
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5607e28f956e49980800000000000000
+      internalID: -8532942119869976475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_34
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 594
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce828acc6bb2c3210800000000000000
+      internalID: 1313973255402957036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_35
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 587
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829a0d74f7a93c860800000000000000
+      internalID: 7549047271859464488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_36
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 574
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1406c93b12dfac440800000000000000
+      internalID: 4957052661063770177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_37
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 588
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60815f42cea3f3b30800000000000000
+      internalID: 4269195757677254662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_38
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 592
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fa9f4fc539996c0800000000000000
+      internalID: -4136112755306811504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_39
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 566
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9de37126d8ee480800000000000000
+      internalID: -8867995163809621519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_40
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 506
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f850e4812896be70800000000000000
+      internalID: 9130652564270897401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_41
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 522
+        width: 77
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f7949fbc5aaf040800000000000000
+      internalID: 4682237058084339522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_42
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 592
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa98df46e45da7060800000000000000
+      internalID: 6952103507478284719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_43
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 590
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75a3a2759acb93c0800000000000000
+      internalID: -4351661871701187201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_44
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 594
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e80db78e8c33330800000000000000
+      internalID: 3689513420581801597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_45
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 490
+        width: 96
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7516fac1fe421c700800000000000000
+      internalID: 558768438167691607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_46
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 584
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918ee0237da3f8bf0800000000000000
+      internalID: -319972352587798503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_47
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 494
+        width: 64
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec571854ab7f410b0800000000000000
+      internalID: -5758705644097931826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_48
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 602
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabcd6073046a1760800000000000000
+      internalID: 7429360501234977709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_49
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 596
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a830fa6091b740950800000000000000
+      internalID: 6414387116698960778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_50
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 576
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1984e1c8f732432b0800000000000000
+      internalID: -5605816605450811247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_51
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 577
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad91cdf81e421ebf0800000000000000
+      internalID: -296915549229934118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_52
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 490
+        width: 81
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad64a8f85edd2d730800000000000000
+      internalID: 4022521395220727514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_53
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 530
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85409b3ead8d2ea90800000000000000
+      internalID: -7286022812497017768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_54
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 592
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ac0a2a64760a440800000000000000
+      internalID: 4945065943926622863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_55
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 552
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effe747fa88354fc0800000000000000
+      internalID: -3511338164960104450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_56
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 589
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f945d0badd75a20800000000000000
+      internalID: 3051150999299596032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_57
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 592
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6566f1e0488dc80800000000000000
+      internalID: -8297737117238929717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_58
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 530
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6c8106c729bfff0800000000000000
+      internalID: -1246311997716794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_59
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 560
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4553e812ce9420f10800000000000000
+      internalID: 2234429643653264724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_60
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 593
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7dff1315ff8d600800000000000000
+      internalID: 493424883393353664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_61
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 594
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068f576971a3009b0800000000000000
+      internalID: -5116025303709910944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_62
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 590
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a08e79ca8b1d620800000000000000
+      internalID: 2797219894996240939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_63
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 590
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334d5dbbb9e03ba70800000000000000
+      internalID: 8841426555492488243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_64
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 594
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642ccf205dc8c9bb0800000000000000
+      internalID: -4927909045744123322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_65
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 586
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f96e436720179590800000000000000
+      internalID: -7667642079219127823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_66
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 594
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190907153a4e3e0a0800000000000000
+      internalID: -6853382817830629231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_67
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 576
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6464674ea6d6e8380800000000000000
+      internalID: -8967109502181161402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_68
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 576
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef951bbe2abfd5130800000000000000
+      internalID: 3557275957850102270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_69
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 584
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c93da9726422860800000000000000
+      internalID: 7503637065067895899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_70
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 580
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c08e2781b99cc50800000000000000
+      internalID: 6686045651117542462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_71
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 578
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ecb16f458642260800000000000000
+      internalID: 7071892028994080283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_72
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 564
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7a0014de7b44580800000000000000
+      internalID: -8843741538623117383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_73
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 554
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0954b72c28dd74710800000000000000
+      internalID: 1677552939897144720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_74
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 570
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adbf89ea7753fa40800000000000000
+      internalID: 5400756563563494824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_75
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 560
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13db3fbcd8cd82e0800000000000000
+      internalID: -2121818998994906342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_76
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 556
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7550d342661e2d100800000000000000
+      internalID: 131415167958058327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_77
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 490
+        width: 56
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd5926212870c130800000000000000
+      internalID: 3584997387156413917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_78
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 578
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4180b6c9433076920800000000000000
+      internalID: 2983356802653685780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_79
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 568
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b7d15addcfada80800000000000000
+      internalID: -8441156522664428773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_80
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 544
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390b1bf7cb10098b0800000000000000
+      internalID: -5147612464976645997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_81
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 560
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811451afe403a2550800000000000000
+      internalID: 6136770558007001368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_82
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 578
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a586474f64533b0800000000000000
+      internalID: -5533438551415825914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_83
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 578
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cab49953d1e3590800000000000000
+      internalID: -7692678997459882862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_84
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 546
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7075f0a66df1070800000000000000
+      internalID: 8079412007538198438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_85
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 582
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08418ce80655e11c0800000000000000
+      internalID: -4531090301887441792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_86
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 560
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9b891aea62b8c20800000000000000
+      internalID: 3209701690908916134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_87
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 517
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fb84f151a21a0c0800000000000000
+      internalID: -4566322276969431173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_88
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 562
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86b72757a2929af0800000000000000
+      internalID: -391088970208397683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_89
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 560
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67547d2819db83300800000000000000
+      internalID: 232143813472634230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_90
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 562
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b180c26789a47d70800000000000000
+      internalID: 9040036750981890482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_91
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 568
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9198d62a701ab60800000000000000
+      internalID: 7755488427512502692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_92
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 562
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5f6cc1c5baa5a80800000000000000
+      internalID: -8477274936463395340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_93
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 570
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afc1c470a42a1630800000000000000
+      internalID: 3898468699014811559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_94
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 574
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76e2ad179c0f82f0800000000000000
+      internalID: -968541551684557187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_95
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 554
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3737d452f8db87b00800000000000000
+      internalID: 826618954126291827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_96
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 562
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2b99c8e46dea290800000000000000
+      internalID: -7877123065369742600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_97
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 490
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4711b1d9c745c4f00800000000000000
+      internalID: 1102348902987403636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_98
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 576
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724b7356278c1e3f0800000000000000
+      internalID: -873196459083189209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_99
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 570
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0978a116b3dc91330800000000000000
+      internalID: 3682199825267984272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_100
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 562
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb48afe5fc8264660800000000000000
+      internalID: 7369622711355212987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_101
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 564
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd73ee71387348530800000000000000
+      internalID: 3856268217117718492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_102
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 552
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07c50f0ab07b1d40800000000000000
+      internalID: 5556158509709903631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_103
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 564
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a47ad7e7805ec90800000000000000
+      internalID: -7141292294759036391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_104
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 530
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb31edb285ec6f80800000000000000
+      internalID: -8111856479106942026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_105
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 562
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18a3d12bdb7c3c70800000000000000
+      internalID: 8952166340401276959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_106
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 564
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc3af49408615b60800000000000000
+      internalID: 7733076404060437705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_107
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 556
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05913820a5e9383f0800000000000000
+      internalID: -899701391117575856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_108
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 534
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8360ec4512711b080800000000000000
+      internalID: -9173525534052841928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_109
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 560
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f51a5b291398f80800000000000000
+      internalID: -8103891548294258908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_110
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 562
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14df697af54d0010800000000000000
+      internalID: 1156657621385597981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_111
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 562
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4945a7fd654a53a20800000000000000
+      internalID: 3041517816382117012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_112
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 538
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfdfe65f18301f30800000000000000
+      internalID: 4544193731270533062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_113
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 558
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28ac59e1ce711ad0800000000000000
+      internalID: -2733264127528228821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_114
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 562
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff499d8a272da680800000000000000
+      internalID: -8742288237938520069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_115
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 560
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecd2c6624dc7eac0800000000000000
+      internalID: -3825863673352364826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_116
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 561
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a391e8b9330e32740800000000000000
+      internalID: 5126187313135491386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_117
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 536
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f5b2d2aeb7ad420800000000000000
+      internalID: 2655571175998709649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_118
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 528
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acba19b7b4dfad8f0800000000000000
+      internalID: -514820706742981686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_119
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 544
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beba54132b2fa51a0800000000000000
+      internalID: -6819871838554444821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_120
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 530
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ab8b864015d02d0800000000000000
+      internalID: -3310901071668790718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_121
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 547
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d146775d14491d030800000000000000
+      internalID: 3517755794428224541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_122
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 540
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fda51f036d2a8440800000000000000
+      internalID: 4938809844843261429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_123
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 544
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160672a4eb846e200800000000000000
+      internalID: 208934414844387425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_124
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 536
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5924abfb31c0230d0800000000000000
+      internalID: -3444677486024441195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_125
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 538
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e3118468cd70870800000000000000
+      internalID: 8649124078681144987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_126
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 520
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694105b032f6b8f60800000000000000
+      internalID: 8037640156277118102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_127
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 522
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e19f1d7dc16ebe0800000000000000
+      internalID: -1448438516886725099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_128
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 542
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6e0067b5f6cfb20800000000000000
+      internalID: 3169530676374464184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_129
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 546
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b650d28eaeb8918b0800000000000000
+      internalID: -5180956055279172245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_130
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 544
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88999b7a24fd21520800000000000000
+      internalID: 2671443006358919560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_131
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 530
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d01d74ea20925c0800000000000000
+      internalID: -4239854626640163538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_132
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 530
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c6a29cec150c530800000000000000
+      internalID: 3873185628118740042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_133
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 520
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62bff5840e945ec0800000000000000
+      internalID: -3579062061587516818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_134
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 546
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e38529ad872b7f0800000000000000
+      internalID: -598282920333394417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_135
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 546
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293e72b3098721830800000000000000
+      internalID: 4040424376567849874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_136
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 530
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a623bd20f2fd68a0800000000000000
+      internalID: -6310120389503408477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_137
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 528
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948d82ce1cf222440800000000000000
+      internalID: 4909539053724555337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_138
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 524
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdc5f8de995b5fe0800000000000000
+      internalID: -1199266336984412683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_139
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 510
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03296bb344190ffa0800000000000000
+      internalID: -5768951400415981008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_140
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 532
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe2a88507320a190800000000000000
+      internalID: -7953317976507535627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_141
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 529
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183dff63957202230800000000000000
+      internalID: 3611930165279445889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_142
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 496
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d105728f2f284bec0800000000000000
+      internalID: -3552070226031456227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_143
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 517
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4476be3b913ae060800000000000000
+      internalID: 6983448715033211983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_144
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 516
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835dd64e87e14e400800000000000000
+      internalID: 352440175419053368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_145
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 522
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fbe62ce4a7e75c0800000000000000
+      internalID: -4215797722484129986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2172
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1e18853ad341a50800000000000000
+      internalID: 6490880734721597874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_147
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 482
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ce20f346efc7ce0800000000000000
+      internalID: -1405969277139096452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_148
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 484
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5549153468a520300800000000000000
+      internalID: 216835264768742485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_149
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 490
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f2eda2cd925c430800000000000000
+      internalID: 3802491485972999942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_150
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 490
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76d37adc41546a10800000000000000
+      internalID: 1901734333181580925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_151
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 170
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b9fc18ffe512160800000000000000
+      internalID: 6998979747397999519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 7
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4c24623d3c8fd50800000000000000
+      internalID: 6771377351398966479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_153
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 146
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6f76efd22b71350800000000000000
+      internalID: 5987450140223862521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_154
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 136
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ca4887231531270800000000000000
+      internalID: 8220003022093462681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_155
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 150
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83e68dac392e2360800000000000000
+      internalID: 7146694999269630861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_156
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 126
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cf874f61df8ba00800000000000000
+      internalID: 772645611126717567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_157
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 142
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21986d92e7e427180800000000000000
+      internalID: -9119139991697061614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_158
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 81
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a907df9e6526afb10800000000000000
+      internalID: 2016031908634128538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_159
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 132
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2710792d3c8aa8540800000000000000
+      internalID: 5011003094408298866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_160
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 134
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966fdf53ee3a3c190800000000000000
+      internalID: -7943325074248042903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_161
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 136
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a91ae93b6e28db00800000000000000
+      internalID: 853483167454730658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_162
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 128
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbe106d51c69cb00800000000000000
+      internalID: 849328845776612337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_163
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 90
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc731226dfed0170800000000000000
+      internalID: 8146431003956837586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_164
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 75
+        width: 100
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883679f04bc009c90800000000000000
+      internalID: -7165213039651232888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_165
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 126
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba99b18dc8d35930800000000000000
+      internalID: 4130883660385196724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_166
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 108
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19551730aa9e903e0800000000000000
+      internalID: -2086880035898042991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_167
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 112
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca51928f0a2b0310800000000000000
+      internalID: 1372236757567888065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_168
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 121
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a761e84f6f37cee0800000000000000
+      internalID: -1240953425120630877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_169
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 114
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524902c530bbe15c0800000000000000
+      internalID: -4242748175831493595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_170
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 112
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29b513c1d6f0de30800000000000000
+      internalID: 4526389006288927018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_171
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 95
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001c5842b8cbd7d00800000000000000
+      internalID: 972140400381116672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_172
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 116
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370d0f34c3e86c540800000000000000
+      internalID: 5027862423494774899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_173
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 112
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c418819afafdb4600800000000000000
+      internalID: 453702133030093132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_174
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 112
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c26eb44f86fbd00800000000000000
+      internalID: 990625841499483179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_175
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 84
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61490d5dabc78c670800000000000000
+      internalID: 8559228233710605334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_176
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 116
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af22dec9f667931c0800000000000000
+      internalID: -4523454128970718470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_177
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 112
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de5057d7a16ba610800000000000000
+      internalID: 1633506663351738065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_178
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 112
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ba70a285ff11a40800000000000000
+      internalID: 5337327787538098994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_179
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 118
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229e980eeec18dbc0800000000000000
+      internalID: -3758222076745750238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_180
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 78
+        width: 69
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5fb58f9fbebfaa0800000000000000
+      internalID: -6126043409261267538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_181
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 95
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49ea317fcf3ee420800000000000000
+      internalID: 2661134590013008203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_182
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 99
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b44ec6b4fde4e50800000000000000
+      internalID: 6795614402791099189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_183
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 96
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab94aabb223716c0800000000000000
+      internalID: -4172811366339142744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_184
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 96
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30021e40afbcf26a0800000000000000
+      internalID: -6471729864823988221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_185
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 99
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37e259f3fd2efc30800000000000000
+      internalID: 4395000812243445566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_186
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 93
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf2c57986031edf0800000000000000
+      internalID: -152787686579753037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_187
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 77
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45b9529e200aae00800000000000000
+      internalID: 1056657262595650893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_188
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 79
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bede157a1b75cbb0800000000000000
+      internalID: -4916388064640704842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_189
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 67
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c3fd396733a6b20800000000000000
+      internalID: 3128369475542269066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_190
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 91
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7a4bb39a0d96170800000000000000
+      internalID: 8172292424110221283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_191
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 78
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a68b8e986f50340800000000000000
+      internalID: 4829537247600077386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_192
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 79
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b59c1c72764be1b0800000000000000
+      internalID: -5626325851946838599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_193
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 95
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ac0b512e97b9960800000000000000
+      internalID: 7609810007306062346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_194
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 97
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eaaa8c92d316c150800000000000000
+      internalID: 5892418957751266016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_195
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 99
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35cb517747bde390800000000000000
+      internalID: -7787366663181318854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_196
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 97
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effe997dc985ce5b0800000000000000
+      internalID: -5337794027685548034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_197
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 93
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e68aa9bdd1c096d0800000000000000
+      internalID: -2985673394899745052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_198
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 94
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecd034ee68869a30800000000000000
+      internalID: 4221711710562606314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_199
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 85
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0069bb2f2aaddb5d0800000000000000
+      internalID: -3045037379640650240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_200
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 94
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab08ff56587088670800000000000000
+      internalID: 8541084962831433914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_201
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 85
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26026a99da11adf0800000000000000
+      internalID: -170825788963027414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_202
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 49
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c068570610407840800000000000000
+      internalID: 5219742431479095492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_203
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 71
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9a9b4a36bcd2e50800000000000000
+      internalID: 6786303842343037391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_204
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 69
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec889846669066db0800000000000000
+      internalID: -4799138017538635570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_205
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 79
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102b69a38f8945180800000000000000
+      internalID: -9127502352870886911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_206
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 76
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff5f5e71ffd5e000800000000000000
+      internalID: 64703997967032304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_207
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 79
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d053f90d6bb9b9080800000000000000
+      internalID: -9179572205978176243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_208
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 73
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bf7033c73deb0d0800000000000000
+      internalID: -3405051737859949821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_209
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 69
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a99d6f6918794a0800000000000000
+      internalID: -6586653444619527550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_210
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 79
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8274c941901a14c80800000000000000
+      internalID: -8340207974540884184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_211
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 79
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10895daee176d590800000000000000
+      internalID: -7649801647117729764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_212
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 70
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfaa3585b984f380800000000000000
+      internalID: -8938367947706290245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_213
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 81
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fca22a0ae03eb7d0800000000000000
+      internalID: -2900827328229495565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_214
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 77
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3be8039b2052d30800000000000000
+      internalID: 4405930804858762232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_215
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 75
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dddccd9258b453d0800000000000000
+      internalID: -3218745168688783915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_216
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 79
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ae79cb2c1cb2990800000000000000
+      internalID: -7409615719776130533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_217
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 61
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed57ed302b362920800000000000000
+      internalID: 2965122414333615599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_218
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 47
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919a4c79f84c71830800000000000000
+      internalID: 4041915311593924889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_219
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 81
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee9e7a5d8c9d46c0800000000000000
+      internalID: -4157494750070530331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_220
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdf0f44f641d52e0800000000000000
+      internalID: -2135528180173177356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_221
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 73
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1690d25672879e630800000000000000
+      internalID: 3956825858218199393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_222
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 83
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e658c6e0d6a80a9d0800000000000000
+      internalID: -2765057970207423122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_223
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 75
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb77e9b92c1263c30800000000000000
+      internalID: 4338692410736277436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_224
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 79
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6162ac2f8c3c8b00800000000000000
+      internalID: 832106616783528298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_225
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 83
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb8f02e695b52940800000000000000
+      internalID: 5270818598549425122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_226
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 79
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a226f521a91c9ae0800000000000000
+      internalID: -1541328792550235486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_227
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 65
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4005edfe6b250abb0800000000000000
+      internalID: -4926847046681473020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_228
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 57
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b945aae5919d000800000000000000
+      internalID: 61107964321504149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_229
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 49
+        width: 53
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed6bed0b76163d10800000000000000
+      internalID: 2104894593612606947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_230
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 63
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ad1686e14904870800000000000000
+      internalID: 8665088541382007342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_231
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 65
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f732cd05bde1ca0800000000000000
+      internalID: -6044152509547446433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_232
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 63
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c14a7d6280cb2820800000000000000
+      internalID: 2894618851930685893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_233
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 63
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c5d5d7f21e806f0800000000000000
+      internalID: -718076546482611082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_234
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 67
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70bb8b7114ae70a0800000000000000
+      internalID: -6881882785581387654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_235
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 65
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51787b7bf5138bdf0800000000000000
+      internalID: -164327099225110763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_236
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 65
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cddbe671e4da470800000000000000
+      internalID: 8407461941919734803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_237
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 55
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4019b1a244ad6cd0800000000000000
+      internalID: -2563212006815887282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_238
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 60
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f2c85d591158090800000000000000
+      internalID: -8032995025114878084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_239
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 63
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052ab83f0ba2ac100800000000000000
+      internalID: 128962478822105680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_240
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 71
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d5330bbfebb4a30800000000000000
+      internalID: 4200661065655344386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_241
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 63
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7950ef9d3a4303af0800000000000000
+      internalID: -418776887003839081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_242
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 53
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e24447654b67440800000000000000
+      internalID: 4933328725241769483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_243
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 49
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00aa1fda1d037fcb0800000000000000
+      internalID: -4830338398206973440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_244
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 47
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4680da0acc3ada4e0800000000000000
+      internalID: -1968737362826688412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_245
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 45
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696482c812a849770800000000000000
+      internalID: 8616663863756605078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_246
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 46
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d074971dd154ac40800000000000000
+      internalID: 5522629053088297168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_247
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 49
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edaab907f3cf9ebf0800000000000000
+      internalID: -294426951213667618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_248
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 55
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068b088762f48f810800000000000000
+      internalID: 1799275077783566432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_249
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 39
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fd51cb767072990800000000000000
+      internalID: -7410946519696285885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_250
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 31
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9128c19df452dbc60800000000000000
+      internalID: 7835459951569699353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_251
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 36
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb2a68ec8d88a390800000000000000
+      internalID: -7806834317712544799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma pixelada de hierba y roca_252
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 33
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9167c4432755ef90800000000000000
+      internalID: -6925033043022880355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Plataforma pixelada de hierba y roca_0: 6949364914802150493
+      Plataforma pixelada de hierba y roca_1: -7035774473307082053
+      Plataforma pixelada de hierba y roca_10: -4723235665044483039
+      Plataforma pixelada de hierba y roca_100: 7369622711355212987
+      Plataforma pixelada de hierba y roca_101: 3856268217117718492
+      Plataforma pixelada de hierba y roca_102: 5556158509709903631
+      Plataforma pixelada de hierba y roca_103: -7141292294759036391
+      Plataforma pixelada de hierba y roca_104: -8111856479106942026
+      Plataforma pixelada de hierba y roca_105: 8952166340401276959
+      Plataforma pixelada de hierba y roca_106: 7733076404060437705
+      Plataforma pixelada de hierba y roca_107: -899701391117575856
+      Plataforma pixelada de hierba y roca_108: -9173525534052841928
+      Plataforma pixelada de hierba y roca_109: -8103891548294258908
+      Plataforma pixelada de hierba y roca_11: -8347830211109609509
+      Plataforma pixelada de hierba y roca_110: 1156657621385597981
+      Plataforma pixelada de hierba y roca_111: 3041517816382117012
+      Plataforma pixelada de hierba y roca_112: 4544193731270533062
+      Plataforma pixelada de hierba y roca_113: -2733264127528228821
+      Plataforma pixelada de hierba y roca_114: -8742288237938520069
+      Plataforma pixelada de hierba y roca_115: -3825863673352364826
+      Plataforma pixelada de hierba y roca_116: 5126187313135491386
+      Plataforma pixelada de hierba y roca_117: 2655571175998709649
+      Plataforma pixelada de hierba y roca_118: -514820706742981686
+      Plataforma pixelada de hierba y roca_119: -6819871838554444821
+      Plataforma pixelada de hierba y roca_12: 481929686030620609
+      Plataforma pixelada de hierba y roca_120: -3310901071668790718
+      Plataforma pixelada de hierba y roca_121: 3517755794428224541
+      Plataforma pixelada de hierba y roca_122: 4938809844843261429
+      Plataforma pixelada de hierba y roca_123: 208934414844387425
+      Plataforma pixelada de hierba y roca_124: -3444677486024441195
+      Plataforma pixelada de hierba y roca_125: 8649124078681144987
+      Plataforma pixelada de hierba y roca_126: 8037640156277118102
+      Plataforma pixelada de hierba y roca_127: -1448438516886725099
+      Plataforma pixelada de hierba y roca_128: 3169530676374464184
+      Plataforma pixelada de hierba y roca_129: -5180956055279172245
+      Plataforma pixelada de hierba y roca_13: 2101399520501342367
+      Plataforma pixelada de hierba y roca_130: 2671443006358919560
+      Plataforma pixelada de hierba y roca_131: -4239854626640163538
+      Plataforma pixelada de hierba y roca_132: 3873185628118740042
+      Plataforma pixelada de hierba y roca_133: -3579062061587516818
+      Plataforma pixelada de hierba y roca_134: -598282920333394417
+      Plataforma pixelada de hierba y roca_135: 4040424376567849874
+      Plataforma pixelada de hierba y roca_136: -6310120389503408477
+      Plataforma pixelada de hierba y roca_137: 4909539053724555337
+      Plataforma pixelada de hierba y roca_138: -1199266336984412683
+      Plataforma pixelada de hierba y roca_139: -5768951400415981008
+      Plataforma pixelada de hierba y roca_14: -2355963206088117827
+      Plataforma pixelada de hierba y roca_140: -7953317976507535627
+      Plataforma pixelada de hierba y roca_141: 3611930165279445889
+      Plataforma pixelada de hierba y roca_142: -3552070226031456227
+      Plataforma pixelada de hierba y roca_143: 6983448715033211983
+      Plataforma pixelada de hierba y roca_144: 352440175419053368
+      Plataforma pixelada de hierba y roca_145: -4215797722484129986
+      Plataforma pixelada de hierba y roca_146: 6490880734721597874
+      Plataforma pixelada de hierba y roca_147: -1405969277139096452
+      Plataforma pixelada de hierba y roca_148: 216835264768742485
+      Plataforma pixelada de hierba y roca_149: 3802491485972999942
+      Plataforma pixelada de hierba y roca_15: 3468915946424738494
+      Plataforma pixelada de hierba y roca_150: 1901734333181580925
+      Plataforma pixelada de hierba y roca_151: 6998979747397999519
+      Plataforma pixelada de hierba y roca_152: 6771377351398966479
+      Plataforma pixelada de hierba y roca_153: 5987450140223862521
+      Plataforma pixelada de hierba y roca_154: 8220003022093462681
+      Plataforma pixelada de hierba y roca_155: 7146694999269630861
+      Plataforma pixelada de hierba y roca_156: 772645611126717567
+      Plataforma pixelada de hierba y roca_157: -9119139991697061614
+      Plataforma pixelada de hierba y roca_158: 2016031908634128538
+      Plataforma pixelada de hierba y roca_159: 5011003094408298866
+      Plataforma pixelada de hierba y roca_16: 8066046890322079869
+      Plataforma pixelada de hierba y roca_160: -7943325074248042903
+      Plataforma pixelada de hierba y roca_161: 853483167454730658
+      Plataforma pixelada de hierba y roca_162: 849328845776612337
+      Plataforma pixelada de hierba y roca_163: 8146431003956837586
+      Plataforma pixelada de hierba y roca_164: -7165213039651232888
+      Plataforma pixelada de hierba y roca_165: 4130883660385196724
+      Plataforma pixelada de hierba y roca_166: -2086880035898042991
+      Plataforma pixelada de hierba y roca_167: 1372236757567888065
+      Plataforma pixelada de hierba y roca_168: -1240953425120630877
+      Plataforma pixelada de hierba y roca_169: -4242748175831493595
+      Plataforma pixelada de hierba y roca_17: -4235794247455978655
+      Plataforma pixelada de hierba y roca_170: 4526389006288927018
+      Plataforma pixelada de hierba y roca_171: 972140400381116672
+      Plataforma pixelada de hierba y roca_172: 5027862423494774899
+      Plataforma pixelada de hierba y roca_173: 453702133030093132
+      Plataforma pixelada de hierba y roca_174: 990625841499483179
+      Plataforma pixelada de hierba y roca_175: 8559228233710605334
+      Plataforma pixelada de hierba y roca_176: -4523454128970718470
+      Plataforma pixelada de hierba y roca_177: 1633506663351738065
+      Plataforma pixelada de hierba y roca_178: 5337327787538098994
+      Plataforma pixelada de hierba y roca_179: -3758222076745750238
+      Plataforma pixelada de hierba y roca_18: -303898144076179533
+      Plataforma pixelada de hierba y roca_180: -6126043409261267538
+      Plataforma pixelada de hierba y roca_181: 2661134590013008203
+      Plataforma pixelada de hierba y roca_182: 6795614402791099189
+      Plataforma pixelada de hierba y roca_183: -4172811366339142744
+      Plataforma pixelada de hierba y roca_184: -6471729864823988221
+      Plataforma pixelada de hierba y roca_185: 4395000812243445566
+      Plataforma pixelada de hierba y roca_186: -152787686579753037
+      Plataforma pixelada de hierba y roca_187: 1056657262595650893
+      Plataforma pixelada de hierba y roca_188: -4916388064640704842
+      Plataforma pixelada de hierba y roca_189: 3128369475542269066
+      Plataforma pixelada de hierba y roca_19: 8558823744624093594
+      Plataforma pixelada de hierba y roca_190: 8172292424110221283
+      Plataforma pixelada de hierba y roca_191: 4829537247600077386
+      Plataforma pixelada de hierba y roca_192: -5626325851946838599
+      Plataforma pixelada de hierba y roca_193: 7609810007306062346
+      Plataforma pixelada de hierba y roca_194: 5892418957751266016
+      Plataforma pixelada de hierba y roca_195: -7787366663181318854
+      Plataforma pixelada de hierba y roca_196: -5337794027685548034
+      Plataforma pixelada de hierba y roca_197: -2985673394899745052
+      Plataforma pixelada de hierba y roca_198: 4221711710562606314
+      Plataforma pixelada de hierba y roca_199: -3045037379640650240
+      Plataforma pixelada de hierba y roca_2: 7440570953084814544
+      Plataforma pixelada de hierba y roca_20: 2464528430745265787
+      Plataforma pixelada de hierba y roca_200: 8541084962831433914
+      Plataforma pixelada de hierba y roca_201: -170825788963027414
+      Plataforma pixelada de hierba y roca_202: 5219742431479095492
+      Plataforma pixelada de hierba y roca_203: 6786303842343037391
+      Plataforma pixelada de hierba y roca_204: -4799138017538635570
+      Plataforma pixelada de hierba y roca_205: -9127502352870886911
+      Plataforma pixelada de hierba y roca_206: 64703997967032304
+      Plataforma pixelada de hierba y roca_207: -9179572205978176243
+      Plataforma pixelada de hierba y roca_208: -3405051737859949821
+      Plataforma pixelada de hierba y roca_209: -6586653444619527550
+      Plataforma pixelada de hierba y roca_21: -8537353458707426111
+      Plataforma pixelada de hierba y roca_210: -8340207974540884184
+      Plataforma pixelada de hierba y roca_211: -7649801647117729764
+      Plataforma pixelada de hierba y roca_212: -8938367947706290245
+      Plataforma pixelada de hierba y roca_213: -2900827328229495565
+      Plataforma pixelada de hierba y roca_214: 4405930804858762232
+      Plataforma pixelada de hierba y roca_215: -3218745168688783915
+      Plataforma pixelada de hierba y roca_216: -7409615719776130533
+      Plataforma pixelada de hierba y roca_217: 2965122414333615599
+      Plataforma pixelada de hierba y roca_218: 4041915311593924889
+      Plataforma pixelada de hierba y roca_219: -4157494750070530331
+      Plataforma pixelada de hierba y roca_22: 6925005265055813038
+      Plataforma pixelada de hierba y roca_220: -2135528180173177356
+      Plataforma pixelada de hierba y roca_221: 3956825858218199393
+      Plataforma pixelada de hierba y roca_222: -2765057970207423122
+      Plataforma pixelada de hierba y roca_223: 4338692410736277436
+      Plataforma pixelada de hierba y roca_224: 832106616783528298
+      Plataforma pixelada de hierba y roca_225: 5270818598549425122
+      Plataforma pixelada de hierba y roca_226: -1541328792550235486
+      Plataforma pixelada de hierba y roca_227: -4926847046681473020
+      Plataforma pixelada de hierba y roca_228: 61107964321504149
+      Plataforma pixelada de hierba y roca_229: 2104894593612606947
+      Plataforma pixelada de hierba y roca_23: 6616980131492576448
+      Plataforma pixelada de hierba y roca_230: 8665088541382007342
+      Plataforma pixelada de hierba y roca_231: -6044152509547446433
+      Plataforma pixelada de hierba y roca_232: 2894618851930685893
+      Plataforma pixelada de hierba y roca_233: -718076546482611082
+      Plataforma pixelada de hierba y roca_234: -6881882785581387654
+      Plataforma pixelada de hierba y roca_235: -164327099225110763
+      Plataforma pixelada de hierba y roca_236: 8407461941919734803
+      Plataforma pixelada de hierba y roca_237: -2563212006815887282
+      Plataforma pixelada de hierba y roca_238: -8032995025114878084
+      Plataforma pixelada de hierba y roca_239: 128962478822105680
+      Plataforma pixelada de hierba y roca_24: 3256528709124485464
+      Plataforma pixelada de hierba y roca_240: 4200661065655344386
+      Plataforma pixelada de hierba y roca_241: -418776887003839081
+      Plataforma pixelada de hierba y roca_242: 4933328725241769483
+      Plataforma pixelada de hierba y roca_243: -4830338398206973440
+      Plataforma pixelada de hierba y roca_244: -1968737362826688412
+      Plataforma pixelada de hierba y roca_245: 8616663863756605078
+      Plataforma pixelada de hierba y roca_246: 5522629053088297168
+      Plataforma pixelada de hierba y roca_247: -294426951213667618
+      Plataforma pixelada de hierba y roca_248: 1799275077783566432
+      Plataforma pixelada de hierba y roca_249: -7410946519696285885
+      Plataforma pixelada de hierba y roca_25: -5815067455148433962
+      Plataforma pixelada de hierba y roca_250: 7835459951569699353
+      Plataforma pixelada de hierba y roca_251: -7806834317712544799
+      Plataforma pixelada de hierba y roca_252: -6925033043022880355
+      Plataforma pixelada de hierba y roca_26: 1851967707407312137
+      Plataforma pixelada de hierba y roca_27: -1436678817047458183
+      Plataforma pixelada de hierba y roca_28: 2307125137672212173
+      Plataforma pixelada de hierba y roca_29: -7308420065614146132
+      Plataforma pixelada de hierba y roca_3: 4742334374300242030
+      Plataforma pixelada de hierba y roca_30: -8728757088493301620
+      Plataforma pixelada de hierba y roca_31: -2455097277807712749
+      Plataforma pixelada de hierba y roca_32: 2392613211466332716
+      Plataforma pixelada de hierba y roca_33: -8532942119869976475
+      Plataforma pixelada de hierba y roca_34: 1313973255402957036
+      Plataforma pixelada de hierba y roca_35: 7549047271859464488
+      Plataforma pixelada de hierba y roca_36: 4957052661063770177
+      Plataforma pixelada de hierba y roca_37: 4269195757677254662
+      Plataforma pixelada de hierba y roca_38: -4136112755306811504
+      Plataforma pixelada de hierba y roca_39: -8867995163809621519
+      Plataforma pixelada de hierba y roca_4: -8829657791469374930
+      Plataforma pixelada de hierba y roca_40: 9130652564270897401
+      Plataforma pixelada de hierba y roca_41: 4682237058084339522
+      Plataforma pixelada de hierba y roca_42: 6952103507478284719
+      Plataforma pixelada de hierba y roca_43: -4351661871701187201
+      Plataforma pixelada de hierba y roca_44: 3689513420581801597
+      Plataforma pixelada de hierba y roca_45: 558768438167691607
+      Plataforma pixelada de hierba y roca_46: -319972352587798503
+      Plataforma pixelada de hierba y roca_47: -5758705644097931826
+      Plataforma pixelada de hierba y roca_48: 7429360501234977709
+      Plataforma pixelada de hierba y roca_49: 6414387116698960778
+      Plataforma pixelada de hierba y roca_5: 7434484892754825216
+      Plataforma pixelada de hierba y roca_50: -5605816605450811247
+      Plataforma pixelada de hierba y roca_51: -296915549229934118
+      Plataforma pixelada de hierba y roca_52: 4022521395220727514
+      Plataforma pixelada de hierba y roca_53: -7286022812497017768
+      Plataforma pixelada de hierba y roca_54: 4945065943926622863
+      Plataforma pixelada de hierba y roca_55: -3511338164960104450
+      Plataforma pixelada de hierba y roca_56: 3051150999299596032
+      Plataforma pixelada de hierba y roca_57: -8297737117238929717
+      Plataforma pixelada de hierba y roca_58: -1246311997716794
+      Plataforma pixelada de hierba y roca_59: 2234429643653264724
+      Plataforma pixelada de hierba y roca_6: -1003180224113088184
+      Plataforma pixelada de hierba y roca_60: 493424883393353664
+      Plataforma pixelada de hierba y roca_61: -5116025303709910944
+      Plataforma pixelada de hierba y roca_62: 2797219894996240939
+      Plataforma pixelada de hierba y roca_63: 8841426555492488243
+      Plataforma pixelada de hierba y roca_64: -4927909045744123322
+      Plataforma pixelada de hierba y roca_65: -7667642079219127823
+      Plataforma pixelada de hierba y roca_66: -6853382817830629231
+      Plataforma pixelada de hierba y roca_67: -8967109502181161402
+      Plataforma pixelada de hierba y roca_68: 3557275957850102270
+      Plataforma pixelada de hierba y roca_69: 7503637065067895899
+      Plataforma pixelada de hierba y roca_7: -3525678735962975787
+      Plataforma pixelada de hierba y roca_70: 6686045651117542462
+      Plataforma pixelada de hierba y roca_71: 7071892028994080283
+      Plataforma pixelada de hierba y roca_72: -8843741538623117383
+      Plataforma pixelada de hierba y roca_73: 1677552939897144720
+      Plataforma pixelada de hierba y roca_74: 5400756563563494824
+      Plataforma pixelada de hierba y roca_75: -2121818998994906342
+      Plataforma pixelada de hierba y roca_76: 131415167958058327
+      Plataforma pixelada de hierba y roca_77: 3584997387156413917
+      Plataforma pixelada de hierba y roca_78: 2983356802653685780
+      Plataforma pixelada de hierba y roca_79: -8441156522664428773
+      Plataforma pixelada de hierba y roca_8: -4355862795227837003
+      Plataforma pixelada de hierba y roca_80: -5147612464976645997
+      Plataforma pixelada de hierba y roca_81: 6136770558007001368
+      Plataforma pixelada de hierba y roca_82: -5533438551415825914
+      Plataforma pixelada de hierba y roca_83: -7692678997459882862
+      Plataforma pixelada de hierba y roca_84: 8079412007538198438
+      Plataforma pixelada de hierba y roca_85: -4531090301887441792
+      Plataforma pixelada de hierba y roca_86: 3209701690908916134
+      Plataforma pixelada de hierba y roca_87: -4566322276969431173
+      Plataforma pixelada de hierba y roca_88: -391088970208397683
+      Plataforma pixelada de hierba y roca_89: 232143813472634230
+      Plataforma pixelada de hierba y roca_9: 2731468030337244402
+      Plataforma pixelada de hierba y roca_90: 9040036750981890482
+      Plataforma pixelada de hierba y roca_91: 7755488427512502692
+      Plataforma pixelada de hierba y roca_92: -8477274936463395340
+      Plataforma pixelada de hierba y roca_93: 3898468699014811559
+      Plataforma pixelada de hierba y roca_94: -968541551684557187
+      Plataforma pixelada de hierba y roca_95: 826618954126291827
+      Plataforma pixelada de hierba y roca_96: -7877123065369742600
+      Plataforma pixelada de hierba y roca_97: 1102348902987403636
+      Plataforma pixelada de hierba y roca_98: -873196459083189209
+      Plataforma pixelada de hierba y roca_99: 3682199825267984272
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
