@@ -299,4 +299,20 @@ public class PlayerVida : MonoBehaviour
         GuardadoPartida.BorrarPartida();
         Debug.Log("Guardado eliminado. Activa un checkpoint nuevamente.");
     }
+
+    public bool RecuperarVida(int cantidad)
+    {
+        if (EstaMuerto || cantidad <= 0 ||
+            VidaActual >= vidaMaxima)
+        {
+            return false;
+        }
+
+        VidaActual = Mathf.Min(
+            VidaActual + cantidad,
+            vidaMaxima
+        );
+
+        return true;
+    }
 }

@@ -34,6 +34,18 @@ public static class GuardadoPartida
         );
     }
 
+    public static void GuardarInicioNivel(string nombreNivel)
+    {
+        if (string.IsNullOrWhiteSpace(nombreNivel))
+            return;
+
+        PlayerPrefs.SetString(ClaveNivel, nombreNivel);
+        PlayerPrefs.SetInt(ClaveCheckpoint, 0);
+        PlayerPrefs.Save();
+
+        Debug.Log($"Partida guardada: inicio de {nombreNivel}");
+    }
+
     public static void BorrarPartida()
     {
         PlayerPrefs.DeleteKey(ClaveNivel);

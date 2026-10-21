@@ -20,6 +20,16 @@ public class EnemigoSeguidor : MonoBehaviour
     [Header("Orientación")]
     public bool spriteMiraDerecha = true;
 
+    [Header("Detección de bordes")]
+    public Transform puntoSuelo;
+    public LayerMask capasSuelo;
+
+    [Min(0.01f)]
+    public float distanciaDelante = 0.6f;
+
+    [Min(0.01f)]
+    public float profundidadDeteccion = 0.4f;
+
     private Rigidbody2D rb;
     private Animator animator;
     private SpriteRenderer sprite;
@@ -188,14 +198,51 @@ public class EnemigoSeguidor : MonoBehaviour
         }
     }
 
+    private bool HaySueloDelante(float velocidadX)
+    {
+        if (puntoSuelo == null)
+            return false;
+
+        float direccion = Mathf.Sign(velocidadX);
+
+        // Comprueba también el avance del siguiente paso físico.
+        float adelanto = distanciaDelante +
+                         Mathf.Abs(velocidadX) * Time.fixedDeltaTime;
+
+        Vector2 origen = (Vector2)puntoSuelo.position +
+                         Vector2.right * direccion * adelanto;
+
+        RaycastHit2D impacto = Physics2D.Raycast(
+            origen,
+            Vector2.down,
+            profundidadDeteccion,
+            capasSuelo
+        );
+
+        return impacto.collider != null &&
+               !impacto.collider.isTrigger;
+    }
+
     private void Mover(float velocidadX)
     {
+        if (velocidadX != 0f && !HaySueloDelante(velocidadX))
+        {
+            velocidadX = 0f;
+
+            // Detiene el avance y el daño de la embestida.
+            // La animación termina con sus eventos habituales.
+            if (atacando)
+                embistiendo = false;
+        }
+
         rb.linearVelocity = new Vector2(
-            velocidadX, rb.linearVelocity.y
+            velocidadX,
+            rb.linearVelocity.y
         );
 
         animator.SetFloat(
-            "Speed", atacando ? 0f : Mathf.Abs(velocidadX)
+            "Speed",
+            atacando ? 0f : Mathf.Abs(velocidadX)
         );
     }
 
@@ -214,5 +261,26 @@ public class EnemigoSeguidor : MonoBehaviour
         // EnemyVida desactiva este componente al recibir daño.
         // No modificamos la velocidad aquí para conservar el empuje.
         CancelarAtaque();
+    }
+
+    private void OnDrawGizmosSelected()
+    {
+        if (puntoSuelo == null)
+            return;
+
+        Gizmos.color = Color.yellow;
+
+        for (int direccion = -1; direccion <= 1; direccion += 2)
+        {
+            Vector3 origen = puntoSuelo.position +
+                Vector3.right * direccion * distanciaDelante;
+
+            Gizmos.DrawSphere(origen, 0.035f);
+
+            Gizmos.DrawLine(
+                origen,
+                origen + Vector3.down * profundidadDeteccion
+            );
+        }
     }
 }
