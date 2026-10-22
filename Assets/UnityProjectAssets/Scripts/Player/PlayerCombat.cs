@@ -31,12 +31,23 @@ public class PlayerCombat : MonoBehaviour
 
     private void Update()
     {
+
+        if (Time.timeScale == 0f)
+            return;
+
         if (Input.GetButtonDown("Fire1"))
             TryAttack();
     }
 
     private void TryAttack()
     {
+        if (UnityEngine.EventSystems.EventSystem.current != null &&
+           UnityEngine.EventSystems.EventSystem.current
+               .IsPointerOverGameObject())
+        {
+            return;
+        }
+
         if (isAttacking || Time.time < siguienteAtaque)
             return;
 

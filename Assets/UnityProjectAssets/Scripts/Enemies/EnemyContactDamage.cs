@@ -4,6 +4,20 @@ public class EnemyContactDamage : MonoBehaviour
 {
     public int danio = 1;
 
+    [Header("Solo para enemigos con embestida")]
+    public bool soloDuranteEmbestida = false;
+    public EnemigoSeguidor seguidor;
+
+    private EnemyVida vidaEnemigo;
+
+    private void Awake()
+    {
+        vidaEnemigo = GetComponentInParent<EnemyVida>();
+
+        if (seguidor == null)
+            seguidor = GetComponentInParent<EnemigoSeguidor>();
+    }
+
     private void OnTriggerEnter2D(Collider2D otro)
     {
         AplicarDanio(otro);
@@ -16,11 +30,26 @@ public class EnemyContactDamage : MonoBehaviour
 
     private void AplicarDanio(Collider2D otro)
     {
-        PlayerVida vida = otro.GetComponentInParent<PlayerVida>();
+        if (!isActiveAndEnabled || Time.timeScale == 0f)
+            return;
 
-        if (vida != null)
+        if (vidaEnemigo != null && vidaEnemigo.EstaMuerto)
+            return;
+
+        PlayerVida jugador =
+            otro.GetComponentInParent<PlayerVida>();
+
+        if (jugador == null || jugador.EstaMuerto)
+            return;
+
+        if (soloDuranteEmbestida)
         {
-            vida.RecibirDanio(danio, transform.position);
+            if (seguidor == null || !seguidor.PuedeHacerDanio)
+                return;
+
+            seguidor.RegistrarImpacto();
         }
+
+        jugador.RecibirDanio(danio, transform.position);
     }
 }

@@ -24,6 +24,7 @@ public class EnemyVida : MonoBehaviour
 
     private Animator animator;
     private Rigidbody2D rb;
+    private EnemyAudio sonidos;
     private bool reaccionando;
     private bool reactivarMovimiento;
     private float finReaccion;
@@ -33,6 +34,7 @@ public class EnemyVida : MonoBehaviour
     {
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
+        sonidos = GetComponent<EnemyAudio>();
 
         // Mantiene compatibilidad con Espina Errante.
         if (movimiento == null)
@@ -77,6 +79,8 @@ public class EnemyVida : MonoBehaviour
             Morir();
             return;
         }
+        if (sonidos != null)
+          sonidos.ReproducirDanio();
 
         if (!reaccionando)
         {
@@ -109,6 +113,8 @@ public class EnemyVida : MonoBehaviour
     {
         EstaMuerto = true;
         reaccionando = false;
+        if (sonidos != null)
+            sonidos.ReproducirMuerte();
 
         if (movimiento != null)
             movimiento.enabled = false;

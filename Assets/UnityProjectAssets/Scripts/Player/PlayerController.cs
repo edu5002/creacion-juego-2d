@@ -21,6 +21,7 @@ public class PlayerController : MonoBehaviour
     private Animator animator;
     private float movimientoX;
     private PlayerCombat combate;
+    private PlayerAudio sonidos;
 
     private readonly HashSet<Collider2D> contactosSuelo =
     new HashSet<Collider2D>();
@@ -30,11 +31,14 @@ public class PlayerController : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>(); // puede ser null si aún no agregas el Animator
         combate = GetComponent<PlayerCombat>();
+        sonidos = GetComponent<PlayerAudio>();
     }
 
     private void Update()
     {
-
+        if (Time.timeScale == 0f)
+            return;
+            
         if (combate != null && combate.EstaAtacando)
         {
             movimientoX = 0f;
@@ -55,7 +59,13 @@ public class PlayerController : MonoBehaviour
 
         if (Input.GetButtonDown("Jump") && EnSuelo)
         {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, fuerzaSalto);
+            rb.linearVelocity = new Vector2(
+                rb.linearVelocity.x,
+                fuerzaSalto
+            );
+
+            if (sonidos != null)
+                sonidos.ReproducirSalto();
         }
 
         ActualizarAnimator();

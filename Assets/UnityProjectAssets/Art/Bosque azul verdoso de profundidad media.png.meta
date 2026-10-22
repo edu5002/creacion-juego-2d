@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: 3b75ef73345f1604ba1acb72614a98fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2676808986532963183
+    second: Bosque azul verdoso de profundidad media_0
+  - first:
+      213: 5581302818310094174
+    second: Bosque azul verdoso de profundidad media_1
+  - first:
+      213: 2816146863171617044
+    second: Bosque azul verdoso de profundidad media_2
+  - first:
+      213: 614127574698900050
+    second: Bosque azul verdoso de profundidad media_3
+  - first:
+      213: -1773677205532389078
+    second: Bosque azul verdoso de profundidad media_4
+  - first:
+      213: -5735100024714317817
+    second: Bosque azul verdoso de profundidad media_5
+  - first:
+      213: -6813949097722350895
+    second: Bosque azul verdoso de profundidad media_6
+  - first:
+      213: -7835821567244673081
+    second: Bosque azul verdoso de profundidad media_7
+  - first:
+      213: -7505885674599907565
+    second: Bosque azul verdoso de profundidad media_8
+  - first:
+      213: 1009716516214352597
+    second: Bosque azul verdoso de profundidad media_9
+  - first:
+      213: 5424264271447837348
+    second: Bosque azul verdoso de profundidad media_10
+  - first:
+      213: 1482538550343463157
+    second: Bosque azul verdoso de profundidad media_11
+  - first:
+      213: -3730809302230119254
+    second: Bosque azul verdoso de profundidad media_12
+  - first:
+      213: 2190690143492132528
+    second: Bosque azul verdoso de profundidad media_13
+  - first:
+      213: -4448000937887762064
+    second: Bosque azul verdoso de profundidad media_14
+  - first:
+      213: 2425317494553657758
+    second: Bosque azul verdoso de profundidad media_15
+  - first:
+      213: -7805398828284115037
+    second: Bosque azul verdoso de profundidad media_16
+  - first:
+      213: 2171186355963722874
+    second: Bosque azul verdoso de profundidad media_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bosque azul verdoso de profundidad media_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1672
+        height: 919
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63eed5479fe52520800000000000000
+      internalID: 2676808986532963183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosque azul verdoso de profundidad media_1
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 877
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d724d9755c47d40800000000000000
+      internalID: 5581302818310094174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosque azul verdoso de profundidad media_2
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 881
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411cca6c6a6f41720800000000000000
+      internalID: 2816146863171617044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosque azul verdoso de profundidad media_3
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 845
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a33b086c1d58800800000000000000
+      internalID: 614127574698900050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosque azul verdoso de profundidad media_4
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 863
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21d80a9af1a267e0800000000000000
+      internalID: -1773677205532389078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosque azul verdoso de profundidad media_5
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 859
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700b193d9e4d860b0800000000000000
+      internalID: -5735100024714317817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosque azul verdoso de profundidad media_6
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 852
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d27aa0c56dff61a0800000000000000
+      internalID: -6813949097722350895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosque azul verdoso de profundidad media_7
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 851
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf5901fcc1914390800000000000000
+      internalID: -7835821567244673081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosque azul verdoso de profundidad media_8
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 851
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f77c03fbcb5d790800000000000000
+      internalID: -7505885674599907565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosque azul verdoso de profundidad media_9
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 845
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da2dc062db330e00800000000000000
+      internalID: 1009716516214352597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosque azul verdoso de profundidad media_10
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 856
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aacd7bad9bd64b40800000000000000
+      internalID: 5424264271447837348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosque azul verdoso de profundidad media_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 825
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f07b0be4f8039410800000000000000
+      internalID: 1482538550343463157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosque azul verdoso de profundidad media_12
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 834
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacc9dfc4b0893cc0800000000000000
+      internalID: -3730809302230119254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosque azul verdoso de profundidad media_13
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 835
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be4cc72415e66e10800000000000000
+      internalID: 2190690143492132528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosque azul verdoso de profundidad media_14
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 826
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0797898a6b68542c0800000000000000
+      internalID: -4448000937887762064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosque azul verdoso de profundidad media_15
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 802
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e914962596578a120800000000000000
+      internalID: 2425317494553657758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosque azul verdoso de profundidad media_16
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 810
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a700e5de17ada390800000000000000
+      internalID: -7805398828284115037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bosque azul verdoso de profundidad media_17
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 796
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c7460cc7a912e10800000000000000
+      internalID: 2171186355963722874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bosque azul verdoso de profundidad media_0: 2676808986532963183
+      Bosque azul verdoso de profundidad media_1: 5581302818310094174
+      Bosque azul verdoso de profundidad media_10: 5424264271447837348
+      Bosque azul verdoso de profundidad media_11: 1482538550343463157
+      Bosque azul verdoso de profundidad media_12: -3730809302230119254
+      Bosque azul verdoso de profundidad media_13: 2190690143492132528
+      Bosque azul verdoso de profundidad media_14: -4448000937887762064
+      Bosque azul verdoso de profundidad media_15: 2425317494553657758
+      Bosque azul verdoso de profundidad media_16: -7805398828284115037
+      Bosque azul verdoso de profundidad media_17: 2171186355963722874
+      Bosque azul verdoso de profundidad media_2: 2816146863171617044
+      Bosque azul verdoso de profundidad media_3: 614127574698900050
+      Bosque azul verdoso de profundidad media_4: -1773677205532389078
+      Bosque azul verdoso de profundidad media_5: -5735100024714317817
+      Bosque azul verdoso de profundidad media_6: -6813949097722350895
+      Bosque azul verdoso de profundidad media_7: -7835821567244673081
+      Bosque azul verdoso de profundidad media_8: -7505885674599907565
+      Bosque azul verdoso de profundidad media_9: 1009716516214352597
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
