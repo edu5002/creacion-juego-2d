@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using TMPro;
 
 [RequireComponent(typeof(BoxCollider2D))]
 public class SalidaNivel : MonoBehaviour
@@ -17,11 +18,20 @@ public class SalidaNivel : MonoBehaviour
     [Min(0.1f)]
     public float duracionFundido = 0.8f;
 
+    [Header("Cristales requeridos")]
+    public CristalesNivel controlCristales;
+
+    private TMP_Text mensajeEntrada;
+
     private readonly HashSet<Collider2D> contactos = new();
     private bool cambiandoNivel;
 
     private void Awake()
     {
+        if (textoEntrar != null)
+        {
+            mensajeEntrada = textoEntrar.GetComponentInChildren<TMP_Text>(true);
+        }
         if (textoEntrar != null)
             textoEntrar.SetActive(false);
 
@@ -78,18 +88,48 @@ public class SalidaNivel : MonoBehaviour
         if (cambiandoNivel)
             return;
 
-        bool puedeEntrar =
+        bool jugadorCerca =
             Time.timeScale > 0f && HayJugadorVivo();
 
-        if (textoEntrar != null)
-            textoEntrar.SetActive(puedeEntrar);
+        bool tieneCristales =
+            controlCristales != null &&
+            controlCristales.ObjetivoCompletado;
 
-        if (puedeEntrar && Input.GetKeyDown(KeyCode.E))
+        if (textoEntrar != null)
+            textoEntrar.SetActive(jugadorCerca);
+
+        if (jugadorCerca && mensajeEntrada != null)
+        {
+            if (controlCristales == null)
+            {
+                mensajeEntrada.text = "Salida no disponible";
+            }
+            else if (tieneCristales)
+            {
+                mensajeEntrada.text = "Pulsa E para entrar";
+            }
+            else
+            {
+                mensajeEntrada.text =
+                    $"Necesitas {controlCristales.cristalesNecesarios} cristales.\n" +
+                    $"Llevas {controlCristales.CristalesRecogidos}/" +
+                    $"{controlCristales.cristalesNecesarios}";
+            }
+        }
+
+        if (jugadorCerca && tieneCristales &&
+            Input.GetKeyDown(KeyCode.E))
+        {
             IntentarCambiarNivel();
+        }
     }
 
     private void IntentarCambiarNivel()
     {
+        if (controlCristales != null && !controlCristales.ObjetivoCompletado)
+        {
+            return;
+        }
         if (fundido == null)
         {
             Debug.LogWarning("Asigna FundidoNivel en SalidaNivel.");

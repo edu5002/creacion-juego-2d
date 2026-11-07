@@ -1,0 +1,439 @@
+fileFormatVersion: 2
+guid: dc9f21d8257d38f42b2b30fdaa95dea6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3018573641223402610
+    second: planta_resorte_0
+  - first:
+      213: -2588462494528827037
+    second: planta_resorte_1
+  - first:
+      213: -7227310604840848019
+    second: planta_resorte_2
+  - first:
+      213: -5972025781990002044
+    second: planta_resorte_3
+  - first:
+      213: 6499099111111642893
+    second: planta_resorte_4
+  - first:
+      213: -775112464064792470
+    second: planta_resorte_5
+  - first:
+      213: -8992102203552309573
+    second: planta_resorte_6
+  - first:
+      213: 5841197268338341592
+    second: planta_resorte_7
+  - first:
+      213: -5874414001174214976
+    second: planta_resorte_8
+  - first:
+      213: 2413148681341603029
+    second: planta_resorte_9
+  - first:
+      213: 8784871172017990988
+    second: planta_resorte_10
+  - first:
+      213: 818976361955138010
+    second: planta_resorte_11
+  - first:
+      213: -7529169340935632454
+    second: planta_resorte_12
+  - first:
+      213: 2406817303210052125
+    second: planta_resorte_13
+  - first:
+      213: -8608810648760846101
+    second: planta_resorte_14
+  - first:
+      213: -1335927968576800192
+    second: planta_resorte_15
+  - first:
+      213: 660754179652244880
+    second: planta_resorte_16
+  - first:
+      213: -3829495552285427795
+    second: planta_resorte_17
+  - first:
+      213: -8005263574287600319
+    second: planta_resorte_18
+  - first:
+      213: 2438347540651026839
+    second: planta_resorte_19
+  - first:
+      213: 8142855900013940469
+    second: planta_resorte_20
+  - first:
+      213: 8716643120841208397
+    second: planta_resorte_21
+  - first:
+      213: 7389463777803095622
+    second: planta_resorte_22
+  - first:
+      213: -8602752938795791219
+    second: planta_resorte_23
+  - first:
+      213: -3524888202614474830
+    second: planta_resorte_24
+  - first:
+      213: -6296581163852936369
+    second: planta_resorte_25
+  - first:
+      213: 5769421702214535645
+    second: planta_resorte_26
+  - first:
+      213: 3759852595679458688
+    second: planta_resorte_27
+  - first:
+      213: -2041338195195774851
+    second: planta_resorte_28
+  - first:
+      213: 1198862597819111336
+    second: planta_resorte_29
+  - first:
+      213: 131132746773087494
+    second: planta_resorte_30
+  - first:
+      213: -1821573384061280902
+    second: planta_resorte_31
+  - first:
+      213: 2138209969120288296
+    second: planta_resorte_32
+  - first:
+      213: 1229105360072307004
+    second: planta_resorte_33
+  - first:
+      213: -4149324719949730494
+    second: planta_resorte_34
+  - first:
+      213: -6583187821317422439
+    second: planta_resorte_35
+  - first:
+      213: 4506476968572202954
+    second: planta_resorte_36
+  - first:
+      213: 7996356128708990683
+    second: planta_resorte_37
+  - first:
+      213: -1355830129533017601
+    second: planta_resorte_38
+  - first:
+      213: -1161592751734454053
+    second: planta_resorte_39
+  - first:
+      213: 7120752754512841659
+    second: planta_resorte_40
+  - first:
+      213: 4368410724933553163
+    second: planta_resorte_41
+  - first:
+      213: 8206246110859571484
+    second: planta_resorte_42
+  - first:
+      213: -8199227715381657746
+    second: planta_resorte_43
+  - first:
+      213: -4667334412250438306
+    second: planta_resorte_44
+  - first:
+      213: -2064208774656437759
+    second: planta_resorte_45
+  - first:
+      213: 894083149497468015
+    second: planta_resorte_46
+  - first:
+      213: -1928850310510847421
+    second: planta_resorte_47
+  - first:
+      213: -5234648935366977050
+    second: planta_resorte_48
+  - first:
+      213: 132370055297378472
+    second: planta_resorte_49
+  - first:
+      213: -1246602507875726722
+    second: planta_resorte_50
+  - first:
+      213: 3738886009651721465
+    second: planta_resorte_51
+  - first:
+      213: -8026929173338021588
+    second: planta_resorte_52
+  - first:
+      213: 1397618069097976020
+    second: planta_resorte_53
+  - first:
+      213: -2009771958098891399
+    second: planta_resorte_54
+  - first:
+      213: -8202744549969059119
+    second: planta_resorte_55
+  - first:
+      213: 7314593921349396225
+    second: planta_resorte_56
+  - first:
+      213: 7810979934482670801
+    second: planta_resorte_57
+  - first:
+      213: -7829300795707040837
+    second: planta_resorte_58
+  - first:
+      213: -6813641526722898752
+    second: planta_resorte_59
+  - first:
+      213: -1830053093148192696
+    second: planta_resorte_60
+  - first:
+      213: -2845126437680248553
+    second: planta_resorte_61
+  - first:
+      213: 4037977305612232602
+    second: planta_resorte_62
+  - first:
+      213: 3715542121829508719
+    second: planta_resorte_63
+  - first:
+      213: 8006146362958394430
+    second: planta_resorte_64
+  - first:
+      213: -4429318612079598144
+    second: planta_resorte_65
+  - first:
+      213: 8577383713887030972
+    second: planta_resorte_66
+  - first:
+      213: 5906728456239312414
+    second: planta_resorte_67
+  - first:
+      213: 1236668376098608244
+    second: planta_resorte_68
+  - first:
+      213: 2892496501284255232
+    second: planta_resorte_69
+  - first:
+      213: 8079338441132651698
+    second: planta_resorte_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: planta_Normal
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 438
+        height: 598
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2747a7dcbb024e920800000000000000
+      internalID: 3018573641223402610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planta_comprimida
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 438
+        height: 598
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3611033531fe31cd0800000000000000
+      internalID: -2588462494528827037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planta_Estirada
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 0
+        width: 438
+        height: 598
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d653c0dfb4f63bb90800000000000000
+      internalID: -7227310604840848019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planta_Recuperacion
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 0
+        width: 438
+        height: 598
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482f203413a1f1da0800000000000000
+      internalID: -5972025781990002044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ca8cd93e78ca2724cb60ae4f6442956a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":1.0},"gridSpriteSize":{"x":438.0,"y":887.0},"gridSpriteOffset":{"x":22.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      planta_Estirada: -7227310604840848019
+      planta_Normal: 3018573641223402610
+      planta_Recuperacion: -5972025781990002044
+      planta_comprimida: -2588462494528827037
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

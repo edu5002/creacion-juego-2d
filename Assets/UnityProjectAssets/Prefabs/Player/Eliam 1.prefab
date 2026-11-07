@@ -145,10 +145,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cea89158621edf24aa7f16d4d49c56d0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerCombat
-  attackCooldown: 0.3
+  attackCooldown: 0.6
   danio: 1
   puntoAtaque: {fileID: 8255628561446162447}
-  radioAtaque: 0.6
+  radioAtaque: 0.5
   capasEnemigos:
     serializedVersion: 2
     m_Bits: 128
@@ -166,6 +166,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
   velocidad: 5
   fuerzaSalto: 6
+  tiempoCoyote: 0.12
 --- !u!114 &5048917059696907173
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -178,11 +179,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 75d9dba88c9042b4f82ec06ac4aee35f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerVida
-  vidaMaxima: 5
+  vidaMaxima: 8
   tiempoInvulnerable: 1
   fuerzaHorizontal: 6
   fuerzaVertical: 3
-  duracionGolpe: 0.35
+  duracionGolpe: 0.3
   esperaTrasMuerte: 0.5
   proteccionAlReaparecer: 2
   gameOverUI: {fileID: 0}

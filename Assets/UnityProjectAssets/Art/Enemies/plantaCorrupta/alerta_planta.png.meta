@@ -1,0 +1,340 @@
+fileFormatVersion: 2
+guid: f130d33b4a80b76479ab07c0841230ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2180550252474966600
+    second: alerta_planta_0
+  - first:
+      213: 644399714226635384
+    second: alerta_planta_1
+  - first:
+      213: 8058208054502960933
+    second: alerta_planta_2
+  - first:
+      213: 6029519453818249423
+    second: alerta_planta_3
+  - first:
+      213: -9207711620251508060
+    second: alerta_planta_4
+  - first:
+      213: -9075658325924191286
+    second: alerta_planta_5
+  - first:
+      213: -3465828239909035748
+    second: alerta_planta_6
+  - first:
+      213: -1768659650365979342
+    second: alerta_planta_7
+  - first:
+      213: 980191566071603534
+    second: alerta_planta_8
+  - first:
+      213: 2992922763973421780
+    second: alerta_planta_9
+  - first:
+      213: -7890257931951975311
+    second: alerta_planta_10
+  - first:
+      213: 4221778448037672614
+    second: alerta_planta_11
+  - first:
+      213: 5475489969544081764
+    second: alerta_planta_12
+  - first:
+      213: -7190509850052246507
+    second: alerta_planta_13
+  - first:
+      213: -708329644511311881
+    second: alerta_planta_14
+  - first:
+      213: 4237128017820792193
+    second: alerta_planta_15
+  - first:
+      213: -5775935340914817991
+    second: alerta_planta_16
+  - first:
+      213: -1113255290306990346
+    second: alerta_planta_17
+  - first:
+      213: -8771389291749546564
+    second: alerta_planta_18
+  - first:
+      213: -5220953028199085403
+    second: alerta_planta_19
+  - first:
+      213: -1562925434295621438
+    second: alerta_planta_20
+  - first:
+      213: 443844583803073729
+    second: alerta_planta_21
+  - first:
+      213: 2640605448724835300
+    second: alerta_planta_22
+  - first:
+      213: -7079077394061064908
+    second: alerta_planta_23
+  - first:
+      213: 6367297620879231214
+    second: alerta_planta_24
+  - first:
+      213: 3472296705474391408
+    second: alerta_planta_25
+  - first:
+      213: 6490267964767483627
+    second: alerta_planta_26
+  - first:
+      213: -2550581006674178725
+    second: alerta_planta_27
+  - first:
+      213: 3080142695292952367
+    second: alerta_planta_28
+  - first:
+      213: 7800844654163656832
+    second: alerta_planta_29
+  - first:
+      213: -3798534754177716007
+    second: alerta_planta_30
+  - first:
+      213: -1308425992854750798
+    second: alerta_planta_31
+  - first:
+      213: 6702203021323671203
+    second: alerta_planta_32
+  - first:
+      213: 9103177382501560385
+    second: alerta_planta_33
+  - first:
+      213: 5178251094306234005
+    second: alerta_planta_34
+  - first:
+      213: -4800788715981122642
+    second: alerta_planta_35
+  - first:
+      213: 3979154456002785938
+    second: alerta_planta_36
+  - first:
+      213: -4736584363676402247
+    second: alerta_planta_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 280
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alerta_planta_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 443
+        height: 887
+      alignment: 9
+      pivot: {x: 0.4726692, y: 0.3608032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842a8adc6eed24e10800000000000000
+      internalID: 2180550252474966600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alerta_planta_1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 0
+        width: 443
+        height: 887
+      alignment: 9
+      pivot: {x: 0.4726692, y: 0.3608032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87287db302e51f800800000000000000
+      internalID: 644399714226635384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alerta_planta_2
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 0
+        width: 443
+        height: 887
+      alignment: 9
+      pivot: {x: 0.4726692, y: 0.3608032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f27d6088184df60800000000000000
+      internalID: 8058208054502960933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alerta_planta_3
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 0
+        width: 443
+        height: 887
+      alignment: 9
+      pivot: {x: 0.4726692, y: 0.3608032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0e42b5ff72da350800000000000000
+      internalID: 6029519453818249423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c7663569cb3f0d749b498ed56ef24b2d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":1.0},"gridSpriteSize":{"x":443.0,"y":887.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      alerta_planta_0: 2180550252474966600
+      alerta_planta_1: 644399714226635384
+      alerta_planta_2: 8058208054502960933
+      alerta_planta_3: 6029519453818249423
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -48,6 +48,7 @@ public class EnemyVida : MonoBehaviour
         if (EstaMuerto || !reaccionando || Time.time < finReaccion)
             return;
 
+        Debug.Log("La planta está ejecutando su recuperación", this);
         reaccionando = false;
 
         if (usarAnimacionHerida)
@@ -88,11 +89,22 @@ public class EnemyVida : MonoBehaviour
                 movimiento != null && movimiento.enabled;
         }
 
+        Debug.Log(
+    $"Control que se desactiva: " +
+    $"{(movimiento != null ? movimiento.GetType().Name : "NINGUNO")}",
+    this
+);
+
         if (movimiento != null)
             movimiento.enabled = false;
 
         reaccionando = true;
         finReaccion = Time.time + Mathf.Max(0.01f, duracionReaccion);
+
+        Debug.Log(
+    $"Recuperación programada. EnemyVida activo: {enabled}",
+    this
+);
 
         float direccion =
             transform.position.x >= origenGolpe.x ? 1f : -1f;
@@ -112,6 +124,10 @@ public class EnemyVida : MonoBehaviour
     private void Morir()
     {
         EstaMuerto = true;
+        SoltarCristalVida recompensa = GetComponent<SoltarCristalVida>();
+
+        if (recompensa != null)
+            recompensa.IntentarSoltar();
         reaccionando = false;
         if (sonidos != null)
             sonidos.ReproducirMuerte();
