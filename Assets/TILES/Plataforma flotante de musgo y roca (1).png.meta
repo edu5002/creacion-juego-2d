@@ -1,0 +1,2069 @@
+fileFormatVersion: 2
+guid: b4928522697b9d142b7714a4d3b1b0af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2722160581758253394
+    second: Plataforma flotante de musgo y roca (1)_0
+  - first:
+      213: -7475064485915683480
+    second: Plataforma flotante de musgo y roca (1)_1
+  - first:
+      213: -2048048489080902427
+    second: Plataforma flotante de musgo y roca (1)_2
+  - first:
+      213: 7142798884664508591
+    second: Plataforma flotante de musgo y roca (1)_3
+  - first:
+      213: -3123556833771195678
+    second: Plataforma flotante de musgo y roca (1)_4
+  - first:
+      213: 8424587722479681864
+    second: Plataforma flotante de musgo y roca (1)_5
+  - first:
+      213: -374232993856515559
+    second: Plataforma flotante de musgo y roca (1)_6
+  - first:
+      213: 7569212588185497962
+    second: Plataforma flotante de musgo y roca (1)_7
+  - first:
+      213: 7063630946335088330
+    second: Plataforma flotante de musgo y roca (1)_8
+  - first:
+      213: -418861926502984870
+    second: Plataforma flotante de musgo y roca (1)_9
+  - first:
+      213: -4008317807520323285
+    second: Plataforma flotante de musgo y roca (1)_10
+  - first:
+      213: -6111490642257922743
+    second: Plataforma flotante de musgo y roca (1)_11
+  - first:
+      213: -4037316590061899269
+    second: Plataforma flotante de musgo y roca (1)_12
+  - first:
+      213: 6660312000397643935
+    second: Plataforma flotante de musgo y roca (1)_13
+  - first:
+      213: -6108847825214707257
+    second: Plataforma flotante de musgo y roca (1)_14
+  - first:
+      213: -1733939858912977967
+    second: Plataforma flotante de musgo y roca (1)_15
+  - first:
+      213: -5223851621111921110
+    second: Plataforma flotante de musgo y roca (1)_16
+  - first:
+      213: -7293843235589151277
+    second: Plataforma flotante de musgo y roca (1)_17
+  - first:
+      213: -3728399418279061460
+    second: Plataforma flotante de musgo y roca (1)_18
+  - first:
+      213: -633805011150517377
+    second: Plataforma flotante de musgo y roca (1)_19
+  - first:
+      213: -7823151391747924597
+    second: Plataforma flotante de musgo y roca (1)_20
+  - first:
+      213: -1913769408659759591
+    second: Plataforma flotante de musgo y roca (1)_21
+  - first:
+      213: 4126672467186100747
+    second: Plataforma flotante de musgo y roca (1)_22
+  - first:
+      213: 6467869154803255820
+    second: Plataforma flotante de musgo y roca (1)_23
+  - first:
+      213: -3222244061351686589
+    second: Plataforma flotante de musgo y roca (1)_24
+  - first:
+      213: 11124830976574951
+    second: Plataforma flotante de musgo y roca (1)_25
+  - first:
+      213: -8230822410234799729
+    second: Plataforma flotante de musgo y roca (1)_26
+  - first:
+      213: -4319285447884823124
+    second: Plataforma flotante de musgo y roca (1)_27
+  - first:
+      213: -7541007977945834341
+    second: Plataforma flotante de musgo y roca (1)_28
+  - first:
+      213: 3856309071250536725
+    second: Plataforma flotante de musgo y roca (1)_29
+  - first:
+      213: -6746037043445605898
+    second: Plataforma flotante de musgo y roca (1)_30
+  - first:
+      213: -2465096069717652961
+    second: Plataforma flotante de musgo y roca (1)_31
+  - first:
+      213: 8940742805057605201
+    second: Plataforma flotante de musgo y roca (1)_32
+  - first:
+      213: 5431456328321578965
+    second: Plataforma flotante de musgo y roca (1)_33
+  - first:
+      213: -6431030415862730252
+    second: Plataforma flotante de musgo y roca (1)_34
+  - first:
+      213: -5194881508269093094
+    second: Plataforma flotante de musgo y roca (1)_35
+  - first:
+      213: 4556346461396388902
+    second: Plataforma flotante de musgo y roca (1)_36
+  - first:
+      213: 9099657747304497620
+    second: Plataforma flotante de musgo y roca (1)_37
+  - first:
+      213: -4929730897292134548
+    second: Plataforma flotante de musgo y roca (1)_38
+  - first:
+      213: 3807334042355558644
+    second: Plataforma flotante de musgo y roca (1)_39
+  - first:
+      213: -565883330247987578
+    second: Plataforma flotante de musgo y roca (1)_40
+  - first:
+      213: 2082531652745475529
+    second: Plataforma flotante de musgo y roca (1)_41
+  - first:
+      213: -1458515779280107792
+    second: Plataforma flotante de musgo y roca (1)_42
+  - first:
+      213: -7410530332671881065
+    second: Plataforma flotante de musgo y roca (1)_43
+  - first:
+      213: -8373892912827061204
+    second: Plataforma flotante de musgo y roca (1)_44
+  - first:
+      213: -1150336043605610485
+    second: Plataforma flotante de musgo y roca (1)_45
+  - first:
+      213: 4339087940757234707
+    second: Plataforma flotante de musgo y roca (1)_46
+  - first:
+      213: -560841066707326486
+    second: Plataforma flotante de musgo y roca (1)_47
+  - first:
+      213: 6485986970353854491
+    second: Plataforma flotante de musgo y roca (1)_48
+  - first:
+      213: 1663131759588103442
+    second: Plataforma flotante de musgo y roca (1)_49
+  - first:
+      213: -6344162949545694690
+    second: Plataforma flotante de musgo y roca (1)_50
+  - first:
+      213: -3743963347244507456
+    second: Plataforma flotante de musgo y roca (1)_51
+  - first:
+      213: -1583774930577856676
+    second: Plataforma flotante de musgo y roca (1)_52
+  - first:
+      213: 6757685338100228962
+    second: Plataforma flotante de musgo y roca (1)_53
+  - first:
+      213: 7260225346283700702
+    second: Plataforma flotante de musgo y roca (1)_54
+  - first:
+      213: -8752129981417729606
+    second: Plataforma flotante de musgo y roca (1)_55
+  - first:
+      213: 3745345432800838826
+    second: Plataforma flotante de musgo y roca (1)_56
+  - first:
+      213: 2324707718729851802
+    second: Plataforma flotante de musgo y roca (1)_57
+  - first:
+      213: 8542935843759222418
+    second: Plataforma flotante de musgo y roca (1)_58
+  - first:
+      213: -1907044240821544819
+    second: Plataforma flotante de musgo y roca (1)_59
+  - first:
+      213: -7277503403710694063
+    second: Plataforma flotante de musgo y roca (1)_60
+  - first:
+      213: 4660678238994216881
+    second: Plataforma flotante de musgo y roca (1)_61
+  - first:
+      213: -4320180307414239709
+    second: Plataforma flotante de musgo y roca (1)_62
+  - first:
+      213: -1288790966639193960
+    second: Plataforma flotante de musgo y roca (1)_63
+  - first:
+      213: -9205396930164569787
+    second: Plataforma flotante de musgo y roca (1)_64
+  - first:
+      213: -6796514433679938618
+    second: Plataforma flotante de musgo y roca (1)_65
+  - first:
+      213: 8333067873124589770
+    second: Plataforma flotante de musgo y roca (1)_66
+  - first:
+      213: 5126639103652530384
+    second: Plataforma flotante de musgo y roca (1)_67
+  - first:
+      213: 347346359461004415
+    second: Plataforma flotante de musgo y roca (1)_68
+  - first:
+      213: -7050391802592098340
+    second: Plataforma flotante de musgo y roca (1)_69
+  - first:
+      213: -8982883061952375325
+    second: Plataforma flotante de musgo y roca (1)_70
+  - first:
+      213: -6392927679230283073
+    second: Plataforma flotante de musgo y roca (1)_71
+  - first:
+      213: -7878905696228403292
+    second: Plataforma flotante de musgo y roca (1)_72
+  - first:
+      213: -80506081974775606
+    second: Plataforma flotante de musgo y roca (1)_73
+  - first:
+      213: 2118483121719691969
+    second: Plataforma flotante de musgo y roca (1)_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 702
+        width: 140
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea68abe9f51f83ad0800000000000000
+      internalID: -2722160581758253394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 720
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8659bd3647c334890800000000000000
+      internalID: -7475064485915683480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 662
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecae8d00ced393e0800000000000000
+      internalID: -2048048489080902427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_3
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 734
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa00c7ecdb1502360800000000000000
+      internalID: 7142798884664508591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_4
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 736
+        width: 76
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2f257eb95e6a4d0800000000000000
+      internalID: -3123556833771195678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_5
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 736
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841c481f5e52ae470800000000000000
+      internalID: 8424587722479681864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 728
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91293f923157ecaf0800000000000000
+      internalID: -374232993856515559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_7
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 720
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61363cdebe3b0960800000000000000
+      internalID: 7569212588185497962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_8
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 732
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace52c4cbee070260800000000000000
+      internalID: 7063630946335088330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_9
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 704
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a539adc0c47ef2af0800000000000000
+      internalID: -418861926502984870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 766
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29e0e7e0389f58c0800000000000000
+      internalID: -4008317807520323285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_11
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 756
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945b71414af9f2ba0800000000000000
+      internalID: -6111490642257922743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_12
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 780
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1b193b3f198f7c0800000000000000
+      internalID: -4037316590061899269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_13
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 662
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9019fcf97e2e6c50800000000000000
+      internalID: 6660312000397643935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_14
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 768
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9e82fd443093ba0800000000000000
+      internalID: -6108847825214707257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_15
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 707
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbd99792eecfe7e0800000000000000
+      internalID: -1733939858912977967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_16
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 722
+        width: 70
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a268644b0a62187b0800000000000000
+      internalID: -5223851621111921110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_17
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 704
+        width: 67
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5a25fb83017ca90800000000000000
+      internalID: -7293843235589151277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_18
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 784
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2814b4ab70124cc0800000000000000
+      internalID: -3728399418279061460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_19
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 768
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bc28d43b54437f0800000000000000
+      internalID: -633805011150517377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_20
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 720
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d13ce02459e6390800000000000000
+      internalID: -7823151391747924597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_21
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 768
+        width: 80
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e53d6ccdce075e0800000000000000
+      internalID: -1913769408659759591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_22
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 712
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a230faeb2e44930800000000000000
+      internalID: 4126672467186100747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_23
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 728
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a01c16abc72c950800000000000000
+      internalID: 6467869154803255820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_24
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 726
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e458f291a4843d0800000000000000
+      internalID: -3222244061351686589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_25
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 710
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e58b8e89f5872000800000000000000
+      internalID: 11124830976574951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_26
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 662
+        width: 136
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8951ac60ae36cd80800000000000000
+      internalID: -8230822410234799729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_27
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 726
+        width: 82
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5af4b05c0de04c0800000000000000
+      internalID: -4319285447884823124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_28
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 668
+        width: 136
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cd622b235f85790800000000000000
+      internalID: -7541007977945834341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_29
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 784
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51931003bac548530800000000000000
+      internalID: 3856309071250536725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_30
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 736
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f95ccf0d034162a0800000000000000
+      internalID: -6746037043445605898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_31
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 664
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a844b6f283acdd0800000000000000
+      internalID: -2465096069717652961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_32
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 736
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e869b0636e31c70800000000000000
+      internalID: 8940742805057605201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_33
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 752
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7b7a6e0c8606b40800000000000000
+      internalID: 5431456328321578965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_34
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 667
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1f4cae8e360c6a0800000000000000
+      internalID: -6431030415862730252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_35
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 768
+        width: 54
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f0069bac218e7b0800000000000000
+      internalID: -5194881508269093094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_36
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 662
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cc32157f46b3f30800000000000000
+      internalID: 4556346461396388902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_37
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 662
+        width: 91
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d147b5528a784e70800000000000000
+      internalID: 9099657747304497620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_38
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 761
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6772a42ed3169bb0800000000000000
+      internalID: -4929730897292134548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_39
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 764
+        width: 128
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8eadfa32e56d430800000000000000
+      internalID: 3807334042355558644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_40
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 718
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ee04cfb149528f0800000000000000
+      internalID: -565883330247987578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_41
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 706
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5b6632183a6ec10800000000000000
+      internalID: 2082531652745475529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_42
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 754
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f605b450af42cbe0800000000000000
+      internalID: -1458515779280107792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_43
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 662
+        width: 150
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790d5d3dce1882990800000000000000
+      internalID: -7410530332671881065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_44
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 770
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c28c733c4f9cb80800000000000000
+      internalID: -8373892912827061204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_45
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 752
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b003f8c867f2900f0800000000000000
+      internalID: -1150336043605610485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_46
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 704
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314240e1e79873c30800000000000000
+      internalID: 4339087940757234707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_47
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 662
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae96573750e7738f0800000000000000
+      internalID: -560841066707326486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_48
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 703
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18e0c909cad20a50800000000000000
+      internalID: 6485986970353854491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_49
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 720
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2155be01681a41710800000000000000
+      internalID: 1663131759588103442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_50
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 720
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a6223096105f7a0800000000000000
+      internalID: -6344162949545694690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_51
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 706
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce986b0c25ca0cc0800000000000000
+      internalID: -3743963347244507456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_52
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 664
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57ecb2871d450ae0800000000000000
+      internalID: -1583774930577856676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_53
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 704
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2636451e20f18cd50800000000000000
+      internalID: 6757685338100228962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_54
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 706
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed107827c7081c460800000000000000
+      internalID: 7260225346283700702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_55
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 704
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1dc8517203a8680800000000000000
+      internalID: -8752129981417729606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_56
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 705
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4c933d3d32af330800000000000000
+      internalID: 3745345432800838826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_57
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 675
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9360857a55034020800000000000000
+      internalID: 2324707718729851802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_58
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 684
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e683233ea9e8670800000000000000
+      internalID: 8542935843759222418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1919
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8890eeed51d885e0800000000000000
+      internalID: -1907044240821544819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_60
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 652
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15db022563d110b90800000000000000
+      internalID: -7277503403710694063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_61
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 632
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7b4af3a2e0ea040800000000000000
+      internalID: 4660678238994216881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_62
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 151
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326bfe256e2ab04c0800000000000000
+      internalID: -4320180307414239709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_63
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 113
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8901db3b17b4d1ee0800000000000000
+      internalID: -1288790966639193960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_64
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 79
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549c119a34cdf3080800000000000000
+      internalID: -9205396930164569787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_65
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 78
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb21bdc12eeda1a0800000000000000
+      internalID: -6796514433679938618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_66
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 77
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0afc2841105a370800000000000000
+      internalID: 8333067873124589770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_67
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 79
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d806d84a1b752740800000000000000
+      internalID: 5126639103652530384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_68
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 25
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74c2b17ca502d400800000000000000
+      internalID: 347346359461004415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_69
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 53
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd70c27920af72e90800000000000000
+      internalID: -7050391802592098340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_70
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 63
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e59471d273665380800000000000000
+      internalID: -8982883061952375325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_71
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 63
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb277bc9522c747a0800000000000000
+      internalID: -6392927679230283073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_72
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 65
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a71185730188a290800000000000000
+      internalID: -7878905696228403292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_73
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 65
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac092ad152cf1eef0800000000000000
+      internalID: -80506081974775606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de musgo y roca (1)_74
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 61
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca43cccc2d566d10800000000000000
+      internalID: 2118483121719691969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Plataforma flotante de musgo y roca (1)_0: -2722160581758253394
+      Plataforma flotante de musgo y roca (1)_1: -7475064485915683480
+      Plataforma flotante de musgo y roca (1)_10: -4008317807520323285
+      Plataforma flotante de musgo y roca (1)_11: -6111490642257922743
+      Plataforma flotante de musgo y roca (1)_12: -4037316590061899269
+      Plataforma flotante de musgo y roca (1)_13: 6660312000397643935
+      Plataforma flotante de musgo y roca (1)_14: -6108847825214707257
+      Plataforma flotante de musgo y roca (1)_15: -1733939858912977967
+      Plataforma flotante de musgo y roca (1)_16: -5223851621111921110
+      Plataforma flotante de musgo y roca (1)_17: -7293843235589151277
+      Plataforma flotante de musgo y roca (1)_18: -3728399418279061460
+      Plataforma flotante de musgo y roca (1)_19: -633805011150517377
+      Plataforma flotante de musgo y roca (1)_2: -2048048489080902427
+      Plataforma flotante de musgo y roca (1)_20: -7823151391747924597
+      Plataforma flotante de musgo y roca (1)_21: -1913769408659759591
+      Plataforma flotante de musgo y roca (1)_22: 4126672467186100747
+      Plataforma flotante de musgo y roca (1)_23: 6467869154803255820
+      Plataforma flotante de musgo y roca (1)_24: -3222244061351686589
+      Plataforma flotante de musgo y roca (1)_25: 11124830976574951
+      Plataforma flotante de musgo y roca (1)_26: -8230822410234799729
+      Plataforma flotante de musgo y roca (1)_27: -4319285447884823124
+      Plataforma flotante de musgo y roca (1)_28: -7541007977945834341
+      Plataforma flotante de musgo y roca (1)_29: 3856309071250536725
+      Plataforma flotante de musgo y roca (1)_3: 7142798884664508591
+      Plataforma flotante de musgo y roca (1)_30: -6746037043445605898
+      Plataforma flotante de musgo y roca (1)_31: -2465096069717652961
+      Plataforma flotante de musgo y roca (1)_32: 8940742805057605201
+      Plataforma flotante de musgo y roca (1)_33: 5431456328321578965
+      Plataforma flotante de musgo y roca (1)_34: -6431030415862730252
+      Plataforma flotante de musgo y roca (1)_35: -5194881508269093094
+      Plataforma flotante de musgo y roca (1)_36: 4556346461396388902
+      Plataforma flotante de musgo y roca (1)_37: 9099657747304497620
+      Plataforma flotante de musgo y roca (1)_38: -4929730897292134548
+      Plataforma flotante de musgo y roca (1)_39: 3807334042355558644
+      Plataforma flotante de musgo y roca (1)_4: -3123556833771195678
+      Plataforma flotante de musgo y roca (1)_40: -565883330247987578
+      Plataforma flotante de musgo y roca (1)_41: 2082531652745475529
+      Plataforma flotante de musgo y roca (1)_42: -1458515779280107792
+      Plataforma flotante de musgo y roca (1)_43: -7410530332671881065
+      Plataforma flotante de musgo y roca (1)_44: -8373892912827061204
+      Plataforma flotante de musgo y roca (1)_45: -1150336043605610485
+      Plataforma flotante de musgo y roca (1)_46: 4339087940757234707
+      Plataforma flotante de musgo y roca (1)_47: -560841066707326486
+      Plataforma flotante de musgo y roca (1)_48: 6485986970353854491
+      Plataforma flotante de musgo y roca (1)_49: 1663131759588103442
+      Plataforma flotante de musgo y roca (1)_5: 8424587722479681864
+      Plataforma flotante de musgo y roca (1)_50: -6344162949545694690
+      Plataforma flotante de musgo y roca (1)_51: -3743963347244507456
+      Plataforma flotante de musgo y roca (1)_52: -1583774930577856676
+      Plataforma flotante de musgo y roca (1)_53: 6757685338100228962
+      Plataforma flotante de musgo y roca (1)_54: 7260225346283700702
+      Plataforma flotante de musgo y roca (1)_55: -8752129981417729606
+      Plataforma flotante de musgo y roca (1)_56: 3745345432800838826
+      Plataforma flotante de musgo y roca (1)_57: 2324707718729851802
+      Plataforma flotante de musgo y roca (1)_58: 8542935843759222418
+      Plataforma flotante de musgo y roca (1)_59: -1907044240821544819
+      Plataforma flotante de musgo y roca (1)_6: -374232993856515559
+      Plataforma flotante de musgo y roca (1)_60: -7277503403710694063
+      Plataforma flotante de musgo y roca (1)_61: 4660678238994216881
+      Plataforma flotante de musgo y roca (1)_62: -4320180307414239709
+      Plataforma flotante de musgo y roca (1)_63: -1288790966639193960
+      Plataforma flotante de musgo y roca (1)_64: -9205396930164569787
+      Plataforma flotante de musgo y roca (1)_65: -6796514433679938618
+      Plataforma flotante de musgo y roca (1)_66: 8333067873124589770
+      Plataforma flotante de musgo y roca (1)_67: 5126639103652530384
+      Plataforma flotante de musgo y roca (1)_68: 347346359461004415
+      Plataforma flotante de musgo y roca (1)_69: -7050391802592098340
+      Plataforma flotante de musgo y roca (1)_7: 7569212588185497962
+      Plataforma flotante de musgo y roca (1)_70: -8982883061952375325
+      Plataforma flotante de musgo y roca (1)_71: -6392927679230283073
+      Plataforma flotante de musgo y roca (1)_72: -7878905696228403292
+      Plataforma flotante de musgo y roca (1)_73: -80506081974775606
+      Plataforma flotante de musgo y roca (1)_74: 2118483121719691969
+      Plataforma flotante de musgo y roca (1)_8: 7063630946335088330
+      Plataforma flotante de musgo y roca (1)_9: -418861926502984870
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

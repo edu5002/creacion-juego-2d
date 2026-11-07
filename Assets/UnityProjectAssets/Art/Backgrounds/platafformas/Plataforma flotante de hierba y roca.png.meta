@@ -1,0 +1,4461 @@
+fileFormatVersion: 2
+guid: 2ba19ce605b9fb94e9d92c689610bf9b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4118827400822320933
+    second: Plataforma flotante de hierba y roca_0
+  - first:
+      213: 1466728575662540052
+    second: Plataforma flotante de hierba y roca_1
+  - first:
+      213: -4254308611415033294
+    second: Plataforma flotante de hierba y roca_2
+  - first:
+      213: -7599871654703428843
+    second: Plataforma flotante de hierba y roca_3
+  - first:
+      213: 6654656063751785925
+    second: Plataforma flotante de hierba y roca_4
+  - first:
+      213: 5743095503774057336
+    second: Plataforma flotante de hierba y roca_5
+  - first:
+      213: 3301535955673011925
+    second: Plataforma flotante de hierba y roca_6
+  - first:
+      213: -4303375924663275659
+    second: Plataforma flotante de hierba y roca_7
+  - first:
+      213: 1050145554072705838
+    second: Plataforma flotante de hierba y roca_8
+  - first:
+      213: -7345143698210101931
+    second: Plataforma flotante de hierba y roca_9
+  - first:
+      213: 7552230209571944189
+    second: Plataforma flotante de hierba y roca_10
+  - first:
+      213: 331364874297705274
+    second: Plataforma flotante de hierba y roca_11
+  - first:
+      213: -3750087900886011023
+    second: Plataforma flotante de hierba y roca_12
+  - first:
+      213: 4461542256052664108
+    second: Plataforma flotante de hierba y roca_13
+  - first:
+      213: 7535430614130836033
+    second: Plataforma flotante de hierba y roca_14
+  - first:
+      213: 5291830655202757925
+    second: Plataforma flotante de hierba y roca_15
+  - first:
+      213: -6065723280587195982
+    second: Plataforma flotante de hierba y roca_16
+  - first:
+      213: -7977612166286957495
+    second: Plataforma flotante de hierba y roca_17
+  - first:
+      213: -3155932592448312714
+    second: Plataforma flotante de hierba y roca_18
+  - first:
+      213: -8351169927422113963
+    second: Plataforma flotante de hierba y roca_19
+  - first:
+      213: 4401389353169238179
+    second: Plataforma flotante de hierba y roca_20
+  - first:
+      213: 6370249354014510961
+    second: Plataforma flotante de hierba y roca_21
+  - first:
+      213: -1959953845626432769
+    second: Plataforma flotante de hierba y roca_22
+  - first:
+      213: -8567104272208659605
+    second: Plataforma flotante de hierba y roca_23
+  - first:
+      213: -8613930204847970272
+    second: Plataforma flotante de hierba y roca_24
+  - first:
+      213: -571909784611144492
+    second: Plataforma flotante de hierba y roca_25
+  - first:
+      213: 789225129040734062
+    second: Plataforma flotante de hierba y roca_26
+  - first:
+      213: 6182062927057660892
+    second: Plataforma flotante de hierba y roca_27
+  - first:
+      213: 2282854045698155424
+    second: Plataforma flotante de hierba y roca_28
+  - first:
+      213: -7730907501799196855
+    second: Plataforma flotante de hierba y roca_29
+  - first:
+      213: -161603226280831121
+    second: Plataforma flotante de hierba y roca_30
+  - first:
+      213: 8005526221945096182
+    second: Plataforma flotante de hierba y roca_31
+  - first:
+      213: -5477979965959653713
+    second: Plataforma flotante de hierba y roca_32
+  - first:
+      213: 3172915705090634108
+    second: Plataforma flotante de hierba y roca_33
+  - first:
+      213: 6788755198396861544
+    second: Plataforma flotante de hierba y roca_34
+  - first:
+      213: -4008927708933855101
+    second: Plataforma flotante de hierba y roca_35
+  - first:
+      213: -5421704583747555243
+    second: Plataforma flotante de hierba y roca_36
+  - first:
+      213: 2246322289057931200
+    second: Plataforma flotante de hierba y roca_37
+  - first:
+      213: 3725377462675857916
+    second: Plataforma flotante de hierba y roca_38
+  - first:
+      213: -5853075640537681170
+    second: Plataforma flotante de hierba y roca_39
+  - first:
+      213: 8155981306167739287
+    second: Plataforma flotante de hierba y roca_40
+  - first:
+      213: -6864473826004002097
+    second: Plataforma flotante de hierba y roca_41
+  - first:
+      213: -3883985605184708692
+    second: Plataforma flotante de hierba y roca_42
+  - first:
+      213: 6052022075552500345
+    second: Plataforma flotante de hierba y roca_43
+  - first:
+      213: 2157034024802077812
+    second: Plataforma flotante de hierba y roca_44
+  - first:
+      213: 7537854188424468665
+    second: Plataforma flotante de hierba y roca_45
+  - first:
+      213: -2293627125648025014
+    second: Plataforma flotante de hierba y roca_46
+  - first:
+      213: 4241093374760298526
+    second: Plataforma flotante de hierba y roca_47
+  - first:
+      213: 4494596222817749291
+    second: Plataforma flotante de hierba y roca_48
+  - first:
+      213: 2507137555924583959
+    second: Plataforma flotante de hierba y roca_49
+  - first:
+      213: -307730047256478058
+    second: Plataforma flotante de hierba y roca_50
+  - first:
+      213: -2657477324651254469
+    second: Plataforma flotante de hierba y roca_51
+  - first:
+      213: -2217304302372961221
+    second: Plataforma flotante de hierba y roca_52
+  - first:
+      213: -4061358996507294781
+    second: Plataforma flotante de hierba y roca_53
+  - first:
+      213: -6969481592629166562
+    second: Plataforma flotante de hierba y roca_54
+  - first:
+      213: -5967950903781818158
+    second: Plataforma flotante de hierba y roca_55
+  - first:
+      213: 8342627895927864183
+    second: Plataforma flotante de hierba y roca_56
+  - first:
+      213: -2605645525150563136
+    second: Plataforma flotante de hierba y roca_57
+  - first:
+      213: 8780079949153561249
+    second: Plataforma flotante de hierba y roca_58
+  - first:
+      213: -94655368745044901
+    second: Plataforma flotante de hierba y roca_59
+  - first:
+      213: -7088573363528905412
+    second: Plataforma flotante de hierba y roca_60
+  - first:
+      213: -585866028150598945
+    second: Plataforma flotante de hierba y roca_61
+  - first:
+      213: -7896279879188726841
+    second: Plataforma flotante de hierba y roca_62
+  - first:
+      213: -2391858907882027616
+    second: Plataforma flotante de hierba y roca_63
+  - first:
+      213: 2323372321834116277
+    second: Plataforma flotante de hierba y roca_64
+  - first:
+      213: 8958953193262600304
+    second: Plataforma flotante de hierba y roca_65
+  - first:
+      213: 5911499606676872570
+    second: Plataforma flotante de hierba y roca_66
+  - first:
+      213: -5872062859117596582
+    second: Plataforma flotante de hierba y roca_67
+  - first:
+      213: 2801328386032360637
+    second: Plataforma flotante de hierba y roca_68
+  - first:
+      213: -594608344823571033
+    second: Plataforma flotante de hierba y roca_69
+  - first:
+      213: -2652405222437379172
+    second: Plataforma flotante de hierba y roca_70
+  - first:
+      213: -4457107874662623953
+    second: Plataforma flotante de hierba y roca_71
+  - first:
+      213: -9075987617801701546
+    second: Plataforma flotante de hierba y roca_72
+  - first:
+      213: -6119361891610786859
+    second: Plataforma flotante de hierba y roca_73
+  - first:
+      213: -8426113920810552620
+    second: Plataforma flotante de hierba y roca_74
+  - first:
+      213: 7136453690591541638
+    second: Plataforma flotante de hierba y roca_75
+  - first:
+      213: -8129624528903507088
+    second: Plataforma flotante de hierba y roca_76
+  - first:
+      213: 2075447151956917022
+    second: Plataforma flotante de hierba y roca_77
+  - first:
+      213: -4098158812241118862
+    second: Plataforma flotante de hierba y roca_78
+  - first:
+      213: 3694818547080024906
+    second: Plataforma flotante de hierba y roca_79
+  - first:
+      213: 7218535967811454496
+    second: Plataforma flotante de hierba y roca_80
+  - first:
+      213: 200633652368079112
+    second: Plataforma flotante de hierba y roca_81
+  - first:
+      213: 8364897771551016073
+    second: Plataforma flotante de hierba y roca_82
+  - first:
+      213: -5995658091490384860
+    second: Plataforma flotante de hierba y roca_83
+  - first:
+      213: -3371909311151521901
+    second: Plataforma flotante de hierba y roca_84
+  - first:
+      213: 7374457280574368479
+    second: Plataforma flotante de hierba y roca_85
+  - first:
+      213: -2940590083512742359
+    second: Plataforma flotante de hierba y roca_86
+  - first:
+      213: 7835213199514509100
+    second: Plataforma flotante de hierba y roca_87
+  - first:
+      213: -7647538165279842411
+    second: Plataforma flotante de hierba y roca_88
+  - first:
+      213: -8201042785793674191
+    second: Plataforma flotante de hierba y roca_89
+  - first:
+      213: 6828511372398273217
+    second: Plataforma flotante de hierba y roca_90
+  - first:
+      213: -2725269105617374405
+    second: Plataforma flotante de hierba y roca_91
+  - first:
+      213: -4347419285926266414
+    second: Plataforma flotante de hierba y roca_92
+  - first:
+      213: 7960861408717643246
+    second: Plataforma flotante de hierba y roca_93
+  - first:
+      213: -5756903910247182866
+    second: Plataforma flotante de hierba y roca_94
+  - first:
+      213: 4446789144275142305
+    second: Plataforma flotante de hierba y roca_95
+  - first:
+      213: 175612612934499714
+    second: Plataforma flotante de hierba y roca_96
+  - first:
+      213: -8847245210068681567
+    second: Plataforma flotante de hierba y roca_97
+  - first:
+      213: -4666125407251461921
+    second: Plataforma flotante de hierba y roca_98
+  - first:
+      213: -3868458009228653690
+    second: Plataforma flotante de hierba y roca_99
+  - first:
+      213: -1452611972162850964
+    second: Plataforma flotante de hierba y roca_100
+  - first:
+      213: -3572331713376568233
+    second: Plataforma flotante de hierba y roca_101
+  - first:
+      213: -5055934618642012268
+    second: Plataforma flotante de hierba y roca_102
+  - first:
+      213: -9067579724426805797
+    second: Plataforma flotante de hierba y roca_103
+  - first:
+      213: -4201923760304666191
+    second: Plataforma flotante de hierba y roca_104
+  - first:
+      213: 5934893687850514812
+    second: Plataforma flotante de hierba y roca_105
+  - first:
+      213: 145950723016452416
+    second: Plataforma flotante de hierba y roca_106
+  - first:
+      213: 3337520861325104026
+    second: Plataforma flotante de hierba y roca_107
+  - first:
+      213: 1788718492528022579
+    second: Plataforma flotante de hierba y roca_108
+  - first:
+      213: 6889080004365339014
+    second: Plataforma flotante de hierba y roca_109
+  - first:
+      213: 6749629909024049901
+    second: Plataforma flotante de hierba y roca_110
+  - first:
+      213: -3123697277058431893
+    second: Plataforma flotante de hierba y roca_111
+  - first:
+      213: 8281756589165782756
+    second: Plataforma flotante de hierba y roca_112
+  - first:
+      213: -5049091571549377900
+    second: Plataforma flotante de hierba y roca_113
+  - first:
+      213: -7435269340928463170
+    second: Plataforma flotante de hierba y roca_114
+  - first:
+      213: 2271808168672473314
+    second: Plataforma flotante de hierba y roca_115
+  - first:
+      213: 7246077065120477955
+    second: Plataforma flotante de hierba y roca_116
+  - first:
+      213: 5974195796643514658
+    second: Plataforma flotante de hierba y roca_117
+  - first:
+      213: -184404635057072013
+    second: Plataforma flotante de hierba y roca_118
+  - first:
+      213: 4745884939857746126
+    second: Plataforma flotante de hierba y roca_119
+  - first:
+      213: 8690448121817104296
+    second: Plataforma flotante de hierba y roca_120
+  - first:
+      213: 7721619934772114996
+    second: Plataforma flotante de hierba y roca_121
+  - first:
+      213: -5800163908975224652
+    second: Plataforma flotante de hierba y roca_122
+  - first:
+      213: -4713185827747300455
+    second: Plataforma flotante de hierba y roca_123
+  - first:
+      213: -2606488640546838841
+    second: Plataforma flotante de hierba y roca_124
+  - first:
+      213: -1942474210402980148
+    second: Plataforma flotante de hierba y roca_125
+  - first:
+      213: 3808644668798561392
+    second: Plataforma flotante de hierba y roca_126
+  - first:
+      213: -8020436258841570779
+    second: Plataforma flotante de hierba y roca_127
+  - first:
+      213: 6330762274457490765
+    second: Plataforma flotante de hierba y roca_128
+  - first:
+      213: 3031582671869424620
+    second: Plataforma flotante de hierba y roca_129
+  - first:
+      213: 6037558432090319575
+    second: Plataforma flotante de hierba y roca_130
+  - first:
+      213: 4399814961797069490
+    second: Plataforma flotante de hierba y roca_131
+  - first:
+      213: -4836189306279838560
+    second: Plataforma flotante de hierba y roca_132
+  - first:
+      213: 34316280819376214
+    second: Plataforma flotante de hierba y roca_133
+  - first:
+      213: -8096847419826626868
+    second: Plataforma flotante de hierba y roca_134
+  - first:
+      213: 1730771820825676340
+    second: Plataforma flotante de hierba y roca_135
+  - first:
+      213: 6432781055220346587
+    second: Plataforma flotante de hierba y roca_136
+  - first:
+      213: -230889960765131277
+    second: Plataforma flotante de hierba y roca_137
+  - first:
+      213: -4092820387858176402
+    second: Plataforma flotante de hierba y roca_138
+  - first:
+      213: 5618115345645798331
+    second: Plataforma flotante de hierba y roca_139
+  - first:
+      213: -4053712273007651330
+    second: Plataforma flotante de hierba y roca_140
+  - first:
+      213: -8108374482714256167
+    second: Plataforma flotante de hierba y roca_141
+  - first:
+      213: 4417914318940439915
+    second: Plataforma flotante de hierba y roca_142
+  - first:
+      213: 79184255658286960
+    second: Plataforma flotante de hierba y roca_143
+  - first:
+      213: 2519508213293492465
+    second: Plataforma flotante de hierba y roca_144
+  - first:
+      213: 5477581564364657143
+    second: Plataforma flotante de hierba y roca_145
+  - first:
+      213: 3772873002385356321
+    second: Plataforma flotante de hierba y roca_146
+  - first:
+      213: 135378376754348052
+    second: Plataforma flotante de hierba y roca_147
+  - first:
+      213: 9178349569837539317
+    second: Plataforma flotante de hierba y roca_148
+  - first:
+      213: 5969231822871710994
+    second: Plataforma flotante de hierba y roca_149
+  - first:
+      213: 2679007805356582418
+    second: Plataforma flotante de hierba y roca_150
+  - first:
+      213: -4670938397748285674
+    second: Plataforma flotante de hierba y roca_151
+  - first:
+      213: -1958615656971314408
+    second: Plataforma flotante de hierba y roca_152
+  - first:
+      213: -5344032161278890852
+    second: Plataforma flotante de hierba y roca_153
+  - first:
+      213: 8049301451406689123
+    second: Plataforma flotante de hierba y roca_154
+  - first:
+      213: 8142049797108248417
+    second: Plataforma flotante de hierba y roca_155
+  - first:
+      213: 3902558752669460533
+    second: Plataforma flotante de hierba y roca_156
+  - first:
+      213: 7806009921365828999
+    second: Plataforma flotante de hierba y roca_157
+  - first:
+      213: -3514459721080264718
+    second: Plataforma flotante de hierba y roca_158
+  - first:
+      213: 9200502178113573210
+    second: Plataforma flotante de hierba y roca_159
+  - first:
+      213: -5266484238449327378
+    second: Plataforma flotante de hierba y roca_160
+  - first:
+      213: 3495063096756645967
+    second: Plataforma flotante de hierba y roca_161
+  - first:
+      213: 95798800893817792
+    second: Plataforma flotante de hierba y roca_162
+  - first:
+      213: 4462686685187890690
+    second: Plataforma flotante de hierba y roca_163
+  - first:
+      213: 4899212697890652178
+    second: Plataforma flotante de hierba y roca_164
+  - first:
+      213: -2186070697846614768
+    second: Plataforma flotante de hierba y roca_165
+  - first:
+      213: 7329654488335635232
+    second: Plataforma flotante de hierba y roca_166
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 632
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd017da2d4cf6d6c0800000000000000
+      internalID: -4118827400822320933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 662
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415c7465eddda5410800000000000000
+      internalID: 1466728575662540052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 659
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ab8b3bbd8a5f4c0800000000000000
+      internalID: -4254308611415033294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 671
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b87d2fef4d78690800000000000000
+      internalID: -7599871654703428843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 687
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd035e9e661a5c50800000000000000
+      internalID: 6654656063751785925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_5
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 625
+        width: 184
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8738895bee293bf40800000000000000
+      internalID: 5743095503774057336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 642
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6d11b957961dd20800000000000000
+      internalID: 3301535955673011925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 659
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f2a7395665744c0800000000000000
+      internalID: -4303375924663275659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_8
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 644
+        width: 77
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b95f841ddd29e00800000000000000
+      internalID: 1050145554072705838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_9
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 659
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555ecf309bec01a90800000000000000
+      internalID: -7345143698210101931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_10
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 626
+        width: 91
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df67287bc59eec860800000000000000
+      internalID: 7552230209571944189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_11
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 667
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a338e87f89e399400800000000000000
+      internalID: 331364874297705274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_12
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 659
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173f2374ce205fbc0800000000000000
+      internalID: -3750087900886011023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_13
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 638
+        width: 110
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27f96a2b059aed30800000000000000
+      internalID: 4461542256052664108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_14
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 624
+        width: 120
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1424fd8183a339860800000000000000
+      internalID: 7535430614130836033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_15
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 642
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d02ee81fb507940800000000000000
+      internalID: 5291830655202757925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_16
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 675
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b978ca50d832dba0800000000000000
+      internalID: -6065723280587195982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_17
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 661
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944a1a08004d94190800000000000000
+      internalID: -7977612166286957495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_18
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 626
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a6a0c2700e334d0800000000000000
+      internalID: -3155932592448312714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_19
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 657
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5578419823faa1c80800000000000000
+      internalID: -8351169927422113963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_20
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 659
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8b6d11c40e41d30800000000000000
+      internalID: 4401389353169238179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_21
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 657
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f42b4590ca76850800000000000000
+      internalID: 6370249354014510961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_22
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 642
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff296479c58dcc4e0800000000000000
+      internalID: -1959953845626432769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_23
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 675
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b754d0e088b1980800000000000000
+      internalID: -8567104272208659605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_24
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 642
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02867040e1c257880800000000000000
+      internalID: -8613930204847970272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_25
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 629
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcbeacb41b2018f0800000000000000
+      internalID: -571909784611144492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_26
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 626
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67e848c214e3fa00800000000000000
+      internalID: 789225129040734062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_27
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 620
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb226a6a791bc550800000000000000
+      internalID: 6182062927057660892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_28
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 648
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3e6e3d8a35eaf10800000000000000
+      internalID: 2282854045698155424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_29
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 666
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9473bd3569c46b490800000000000000
+      internalID: -7730907501799196855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_30
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 638
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6759fec8bed1cdf0800000000000000
+      internalID: -161603226280831121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_31
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 677
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7cc1b0fa7591f60800000000000000
+      internalID: 8005526221945096182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_32
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 675
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6b44a9e3e4af3b0800000000000000
+      internalID: -5477979965959653713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_33
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 632
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c717f20e506780c20800000000000000
+      internalID: 3172915705090634108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_34
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 677
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c088372e0863e50800000000000000
+      internalID: 6788755198396861544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_35
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 640
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388e6ca2d7d6d58c0800000000000000
+      internalID: -4008927708933855101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_36
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 619
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550be90186c32c4b0800000000000000
+      internalID: -5421704583747555243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_37
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 646
+        width: 94
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf175a683a8c2f10800000000000000
+      internalID: 2246322289057931200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_38
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 664
+        width: 136
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf16a0d701333b330800000000000000
+      internalID: 3725377462675857916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_39
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 618
+        width: 120
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2724247b2b5cea0800000000000000
+      internalID: -5853075640537681170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_40
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 632
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793cad429cddf2170800000000000000
+      internalID: 8155981306167739287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_41
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 642
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca901fbc6d7cb0a0800000000000000
+      internalID: -6864473826004002097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_42
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 634
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf1c3a9baf491ac0800000000000000
+      internalID: -3883985605184708692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_43
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 620
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a0122430a1df350800000000000000
+      internalID: 6052022075552500345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_44
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 643
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c42c064035fed10800000000000000
+      internalID: 2157034024802077812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_45
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 640
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b81bb57276db9860800000000000000
+      internalID: 7537854188424468665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_46
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 628
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a9c8808466b20e0800000000000000
+      internalID: -2293627125648025014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_47
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 642
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18a9dd34f36bda30800000000000000
+      internalID: 4241093374760298526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_48
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 634
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b294dd58373006e30800000000000000
+      internalID: 4494596222817749291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_49
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 632
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7160defd2542bc220800000000000000
+      internalID: 2507137555924583959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_50
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 651
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e30960729babbf0800000000000000
+      internalID: -307730047256478058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_51
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 646
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3da181047ebe1bd0800000000000000
+      internalID: -2657477324651254469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_52
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 640
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b344d1a1c7d8a31e0800000000000000
+      internalID: -2217304302372961221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_53
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 626
+        width: 57
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c388dbb28723a7c0800000000000000
+      internalID: -4061358996507294781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_54
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 628
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ef6bada6d674f90800000000000000
+      internalID: -6969481592629166562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_55
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 642
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d00d17c5449d2da0800000000000000
+      internalID: -5967950903781818158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_56
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 620
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b7b06ced7f6c370800000000000000
+      internalID: 8342627895927864183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_57
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 619
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c480de3333e6dbd0800000000000000
+      internalID: -2605645525150563136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_58
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 617
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aae3d4e13c19d970800000000000000
+      internalID: 8780079949153561249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 626
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b543ed19177bfaef0800000000000000
+      internalID: -94655368745044901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_60
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 606
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d409e251450ad90800000000000000
+      internalID: -7088573363528905412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_61
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 609
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd25d1293f59ed7f0800000000000000
+      internalID: -585866028150598945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_62
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 620
+        width: 75
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb34e14947ca6290800000000000000
+      internalID: -7896279879188726841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_63
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 621
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a586d2fef86eced0800000000000000
+      internalID: -2391858907882027616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_64
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 618
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4a5e321d64e3020800000000000000
+      internalID: 2323372321834116277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_65
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 619
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070d4c37678945c70800000000000000
+      internalID: 8958953193262600304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_66
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 626
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d16d1629dd90250800000000000000
+      internalID: 5911499606676872570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_67
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 631
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50f78fe0fd328ea0800000000000000
+      internalID: -5872062859117596582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_68
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 617
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc5da4335150e620800000000000000
+      internalID: 2801328386032360637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_69
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 624
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adde4a5cd68fb7f0800000000000000
+      internalID: -594608344823571033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_70
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 2145
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93aa34d083c03bd0800000000000000
+      internalID: -2652405222437379172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_71
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 620
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f255325b00c2522c0800000000000000
+      internalID: -4457107874662623953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_72
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 604
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657f517295d9b0280800000000000000
+      internalID: -9075987617801701546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_73
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 619
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d30a7608c8a31ba0800000000000000
+      internalID: -6119361891610786859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_74
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 618
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2fc11580e601b80800000000000000
+      internalID: -8426113920810552620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_75
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 592
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689fbbf22d6c90360800000000000000
+      internalID: 7136453690591541638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_76
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 590
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07377654095cd2f80800000000000000
+      internalID: -8129624528903507088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_77
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 586
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bfc7240387dcc10800000000000000
+      internalID: 2075447151956917022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_78
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 602
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2793b33f54a6027c0800000000000000
+      internalID: -4098158812241118862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_79
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 592
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43da3084e1a64330800000000000000
+      internalID: 3694818547080024906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_80
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 596
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02648cf97346d2460800000000000000
+      internalID: 7218535967811454496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_81
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 596
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809736b6e3bc8c200800000000000000
+      internalID: 200633652368079112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_82
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 584
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98441cf3436161470800000000000000
+      internalID: 8364897771551016073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_83
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 120
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424e40e6bb42bcca0800000000000000
+      internalID: -5995658091490384860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 111
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f3bfdb8529431d0800000000000000
+      internalID: -3371909311151521901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_85
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 104
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdaadeb33d5575660800000000000000
+      internalID: 7374457280574368479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_86
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 99
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ecf2226ece037d0800000000000000
+      internalID: -2940590083512742359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_87
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 106
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f938864e44cbc60800000000000000
+      internalID: 7835213199514509100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_88
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 113
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f904c9e8c7ed590800000000000000
+      internalID: -7647538165279842411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_89
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 77
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134fcfc890b003e80800000000000000
+      internalID: -8201042785793674191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_90
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 91
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2a3880aeeb3ce50800000000000000
+      internalID: 6828511372398273217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_91
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 101
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3374520036ed2ad0800000000000000
+      internalID: -2725269105617374405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_92
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 77
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9beac613ddaa3c0800000000000000
+      internalID: -4347419285926266414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_93
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 93
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed1bb4d549aa7e60800000000000000
+      internalID: 7960861408717643246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_94
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 87
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedc8af156e5b10b0800000000000000
+      internalID: -5756903910247182866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_95
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 77
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a64597aa2b26bd30800000000000000
+      internalID: 4446789144275142305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_96
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 65
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28df904bdb6ef6200800000000000000
+      internalID: 175612612934499714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_97
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 99
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac741d2b55483580800000000000000
+      internalID: -8847245210068681567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_98
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 92
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd80a5f0aa79e3fb0800000000000000
+      internalID: -4666125407251461921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_99
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 99
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b4963cfe9705ac0800000000000000
+      internalID: -3868458009228653690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_100
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 85
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fe0ca8b1947dbe0800000000000000
+      internalID: -1452611972162850964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_101
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 58
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cb354db378c6ec0800000000000000
+      internalID: -3572331713376568233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_102
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 74
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4972e387046b5d9b0800000000000000
+      internalID: -5055934618642012268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_103
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 97
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd7101684c792280800000000000000
+      internalID: -9067579724426805797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_104
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 96
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b944cd4a94cfa5c0800000000000000
+      internalID: -4201923760304666191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_105
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 93
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79b90c5d5afc5250800000000000000
+      internalID: 5934893687850514812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_106
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 101
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0496b18c865860200800000000000000
+      internalID: 145950723016452416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_107
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 81
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a931db95a81415e20800000000000000
+      internalID: 3337520861325104026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_108
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 101
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3341e4eedfdc2d810800000000000000
+      internalID: 1788718492528022579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_109
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 39
+        width: 94
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689417993cdea9f50800000000000000
+      internalID: 6889080004365339014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_110
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 85
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea0bb424a08bad50800000000000000
+      internalID: 6749629909024049901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_111
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 71
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64c31760e566a4d0800000000000000
+      internalID: -3123697277058431893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_112
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 77
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e62a7d3db5bee270800000000000000
+      internalID: 8281756589165782756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_113
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 15
+        width: 68
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a616787f50ee9b0800000000000000
+      internalID: -5049091571549377900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_114
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 89
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe2b9c9ded90d890800000000000000
+      internalID: -7435269340928463170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_115
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 65
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0bd8b2e75178f10800000000000000
+      internalID: 2271808168672473314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_116
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 65
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3037c9903bc3f8460800000000000000
+      internalID: 7246077065120477955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_117
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 71
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2298195ac6b98e250800000000000000
+      internalID: 5974195796643514658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_118
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 79
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378dc7026fcd07df0800000000000000
+      internalID: -184404635057072013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_119
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 77
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8d8114535ccd140800000000000000
+      internalID: 4745884939857746126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_120
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 79
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af7ed7d58caa9870800000000000000
+      internalID: 8690448121817104296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_121
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 71
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436baa67b64b82b60800000000000000
+      internalID: 7721619934772114996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_122
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 63
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b89d76c7ada18fa0800000000000000
+      internalID: -5800163908975224652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_123
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 66
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b77b01676679eb0800000000000000
+      internalID: -4713185827747300455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_124
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 74
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c66d152464e3dbd0800000000000000
+      internalID: -2606488640546838841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_125
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 59
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccea29f4ff1fa05e0800000000000000
+      internalID: -1942474210402980148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_126
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 73
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c6c6fa5260bd430800000000000000
+      internalID: 3808644668798561392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_127
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 31
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522d51877bfa1b090800000000000000
+      internalID: -8020436258841570779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_128
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 49
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d459b7e2fb26bd750800000000000000
+      internalID: 6330762274457490765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_129
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 33
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3b108c068521a20800000000000000
+      internalID: 3031582671869424620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_130
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 63
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da6867d767b9c350800000000000000
+      internalID: 6037558432090319575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_131
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 53
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bafc5385684f0d30800000000000000
+      internalID: 4399814961797069490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_132
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 47
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acb5acf27762ecb0800000000000000
+      internalID: -4836189306279838560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_133
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 66
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6506040c97ae97000800000000000000
+      internalID: 34316280819376214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_134
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 65
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce12bcab2832af80800000000000000
+      internalID: -8096847419826626868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_135
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 57
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a029f0dcfe40810800000000000000
+      internalID: 1730771820825676340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_136
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 65
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde65429944d54950800000000000000
+      internalID: 6432781055220346587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_137
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 51
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5f362ddc6bbccf0800000000000000
+      internalID: -230889960765131277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_138
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 57
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66ac3cba816337c0800000000000000
+      internalID: -4092820387858176402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_139
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 63
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3836c042e87fd40800000000000000
+      internalID: 5618115345645798331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_140
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 47
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5dcb94a225eb7c0800000000000000
+      internalID: -4053712273007651330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_141
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 47
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc99f33e54497f80800000000000000
+      internalID: -8108374482714256167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_142
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 51
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b658e8c7aa59f4d30800000000000000
+      internalID: 4417914318940439915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_143
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 43
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fd05639a1591100800000000000000
+      internalID: 79184255658286960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_144
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 31
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8a90efe5717f220800000000000000
+      internalID: 2519508213293492465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_145
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 33
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f11f2c4967440c40800000000000000
+      internalID: 5477581564364657143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_146
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 47
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12637d19100fb5430800000000000000
+      internalID: 3772873002385356321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_147
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 49
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41046b89ae5f0e100800000000000000
+      internalID: 135378376754348052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_148
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 47
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff96860e4c006f70800000000000000
+      internalID: 9178349569837539317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_149
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 31
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21dc93077b8f6d250800000000000000
+      internalID: 5969231822871710994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_150
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 39
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21627cca76fbd2520800000000000000
+      internalID: 2679007805356582418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_151
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 47
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f2b72664e7d2fb0800000000000000
+      internalID: -4670938397748285674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_152
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 46
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81bd4baef6991d4e0800000000000000
+      internalID: -1958615656971314408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_153
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 13
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c65be201f26d5b0800000000000000
+      internalID: -5344032161278890852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_154
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 45
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363c125e50dd4bf60800000000000000
+      internalID: 8049301451406689123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_155
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 29
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fad2ce62f5ef070800000000000000
+      internalID: 8142049797108248417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_156
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53864f7428ca82630800000000000000
+      internalID: 3902558752669460533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_157
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 13
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7856f2c5aa4845c60800000000000000
+      internalID: 7806009921365828999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_158
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 15
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7a79b01812a3fc0800000000000000
+      internalID: -3514459721080264718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_159
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 35
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51daa11cffbeaf70800000000000000
+      internalID: 9200502178113573210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_160
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 41
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2c808fc70b9e6b0800000000000000
+      internalID: -5266484238449327378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_161
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 30
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40b1cd6e55f08030800000000000000
+      internalID: 3495063096756645967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_162
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 7
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c33f297088545100800000000000000
+      internalID: 95798800893817792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_163
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 11
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e5d7655e5aeed30800000000000000
+      internalID: 4462686685187890690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_164
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2100bd8ddff7df340800000000000000
+      internalID: 4899212697890652178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_165
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 15
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01556f8584489a1e0800000000000000
+      internalID: -2186070697846614768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma flotante de hierba y roca_166
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 14
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023d7974ce928b560800000000000000
+      internalID: 7329654488335635232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Plataforma flotante de hierba y roca_0: -4118827400822320933
+      Plataforma flotante de hierba y roca_1: 1466728575662540052
+      Plataforma flotante de hierba y roca_10: 7552230209571944189
+      Plataforma flotante de hierba y roca_100: -1452611972162850964
+      Plataforma flotante de hierba y roca_101: -3572331713376568233
+      Plataforma flotante de hierba y roca_102: -5055934618642012268
+      Plataforma flotante de hierba y roca_103: -9067579724426805797
+      Plataforma flotante de hierba y roca_104: -4201923760304666191
+      Plataforma flotante de hierba y roca_105: 5934893687850514812
+      Plataforma flotante de hierba y roca_106: 145950723016452416
+      Plataforma flotante de hierba y roca_107: 3337520861325104026
+      Plataforma flotante de hierba y roca_108: 1788718492528022579
+      Plataforma flotante de hierba y roca_109: 6889080004365339014
+      Plataforma flotante de hierba y roca_11: 331364874297705274
+      Plataforma flotante de hierba y roca_110: 6749629909024049901
+      Plataforma flotante de hierba y roca_111: -3123697277058431893
+      Plataforma flotante de hierba y roca_112: 8281756589165782756
+      Plataforma flotante de hierba y roca_113: -5049091571549377900
+      Plataforma flotante de hierba y roca_114: -7435269340928463170
+      Plataforma flotante de hierba y roca_115: 2271808168672473314
+      Plataforma flotante de hierba y roca_116: 7246077065120477955
+      Plataforma flotante de hierba y roca_117: 5974195796643514658
+      Plataforma flotante de hierba y roca_118: -184404635057072013
+      Plataforma flotante de hierba y roca_119: 4745884939857746126
+      Plataforma flotante de hierba y roca_12: -3750087900886011023
+      Plataforma flotante de hierba y roca_120: 8690448121817104296
+      Plataforma flotante de hierba y roca_121: 7721619934772114996
+      Plataforma flotante de hierba y roca_122: -5800163908975224652
+      Plataforma flotante de hierba y roca_123: -4713185827747300455
+      Plataforma flotante de hierba y roca_124: -2606488640546838841
+      Plataforma flotante de hierba y roca_125: -1942474210402980148
+      Plataforma flotante de hierba y roca_126: 3808644668798561392
+      Plataforma flotante de hierba y roca_127: -8020436258841570779
+      Plataforma flotante de hierba y roca_128: 6330762274457490765
+      Plataforma flotante de hierba y roca_129: 3031582671869424620
+      Plataforma flotante de hierba y roca_13: 4461542256052664108
+      Plataforma flotante de hierba y roca_130: 6037558432090319575
+      Plataforma flotante de hierba y roca_131: 4399814961797069490
+      Plataforma flotante de hierba y roca_132: -4836189306279838560
+      Plataforma flotante de hierba y roca_133: 34316280819376214
+      Plataforma flotante de hierba y roca_134: -8096847419826626868
+      Plataforma flotante de hierba y roca_135: 1730771820825676340
+      Plataforma flotante de hierba y roca_136: 6432781055220346587
+      Plataforma flotante de hierba y roca_137: -230889960765131277
+      Plataforma flotante de hierba y roca_138: -4092820387858176402
+      Plataforma flotante de hierba y roca_139: 5618115345645798331
+      Plataforma flotante de hierba y roca_14: 7535430614130836033
+      Plataforma flotante de hierba y roca_140: -4053712273007651330
+      Plataforma flotante de hierba y roca_141: -8108374482714256167
+      Plataforma flotante de hierba y roca_142: 4417914318940439915
+      Plataforma flotante de hierba y roca_143: 79184255658286960
+      Plataforma flotante de hierba y roca_144: 2519508213293492465
+      Plataforma flotante de hierba y roca_145: 5477581564364657143
+      Plataforma flotante de hierba y roca_146: 3772873002385356321
+      Plataforma flotante de hierba y roca_147: 135378376754348052
+      Plataforma flotante de hierba y roca_148: 9178349569837539317
+      Plataforma flotante de hierba y roca_149: 5969231822871710994
+      Plataforma flotante de hierba y roca_15: 5291830655202757925
+      Plataforma flotante de hierba y roca_150: 2679007805356582418
+      Plataforma flotante de hierba y roca_151: -4670938397748285674
+      Plataforma flotante de hierba y roca_152: -1958615656971314408
+      Plataforma flotante de hierba y roca_153: -5344032161278890852
+      Plataforma flotante de hierba y roca_154: 8049301451406689123
+      Plataforma flotante de hierba y roca_155: 8142049797108248417
+      Plataforma flotante de hierba y roca_156: 3902558752669460533
+      Plataforma flotante de hierba y roca_157: 7806009921365828999
+      Plataforma flotante de hierba y roca_158: -3514459721080264718
+      Plataforma flotante de hierba y roca_159: 9200502178113573210
+      Plataforma flotante de hierba y roca_16: -6065723280587195982
+      Plataforma flotante de hierba y roca_160: -5266484238449327378
+      Plataforma flotante de hierba y roca_161: 3495063096756645967
+      Plataforma flotante de hierba y roca_162: 95798800893817792
+      Plataforma flotante de hierba y roca_163: 4462686685187890690
+      Plataforma flotante de hierba y roca_164: 4899212697890652178
+      Plataforma flotante de hierba y roca_165: -2186070697846614768
+      Plataforma flotante de hierba y roca_166: 7329654488335635232
+      Plataforma flotante de hierba y roca_17: -7977612166286957495
+      Plataforma flotante de hierba y roca_18: -3155932592448312714
+      Plataforma flotante de hierba y roca_19: -8351169927422113963
+      Plataforma flotante de hierba y roca_2: -4254308611415033294
+      Plataforma flotante de hierba y roca_20: 4401389353169238179
+      Plataforma flotante de hierba y roca_21: 6370249354014510961
+      Plataforma flotante de hierba y roca_22: -1959953845626432769
+      Plataforma flotante de hierba y roca_23: -8567104272208659605
+      Plataforma flotante de hierba y roca_24: -8613930204847970272
+      Plataforma flotante de hierba y roca_25: -571909784611144492
+      Plataforma flotante de hierba y roca_26: 789225129040734062
+      Plataforma flotante de hierba y roca_27: 6182062927057660892
+      Plataforma flotante de hierba y roca_28: 2282854045698155424
+      Plataforma flotante de hierba y roca_29: -7730907501799196855
+      Plataforma flotante de hierba y roca_3: -7599871654703428843
+      Plataforma flotante de hierba y roca_30: -161603226280831121
+      Plataforma flotante de hierba y roca_31: 8005526221945096182
+      Plataforma flotante de hierba y roca_32: -5477979965959653713
+      Plataforma flotante de hierba y roca_33: 3172915705090634108
+      Plataforma flotante de hierba y roca_34: 6788755198396861544
+      Plataforma flotante de hierba y roca_35: -4008927708933855101
+      Plataforma flotante de hierba y roca_36: -5421704583747555243
+      Plataforma flotante de hierba y roca_37: 2246322289057931200
+      Plataforma flotante de hierba y roca_38: 3725377462675857916
+      Plataforma flotante de hierba y roca_39: -5853075640537681170
+      Plataforma flotante de hierba y roca_4: 6654656063751785925
+      Plataforma flotante de hierba y roca_40: 8155981306167739287
+      Plataforma flotante de hierba y roca_41: -6864473826004002097
+      Plataforma flotante de hierba y roca_42: -3883985605184708692
+      Plataforma flotante de hierba y roca_43: 6052022075552500345
+      Plataforma flotante de hierba y roca_44: 2157034024802077812
+      Plataforma flotante de hierba y roca_45: 7537854188424468665
+      Plataforma flotante de hierba y roca_46: -2293627125648025014
+      Plataforma flotante de hierba y roca_47: 4241093374760298526
+      Plataforma flotante de hierba y roca_48: 4494596222817749291
+      Plataforma flotante de hierba y roca_49: 2507137555924583959
+      Plataforma flotante de hierba y roca_5: 5743095503774057336
+      Plataforma flotante de hierba y roca_50: -307730047256478058
+      Plataforma flotante de hierba y roca_51: -2657477324651254469
+      Plataforma flotante de hierba y roca_52: -2217304302372961221
+      Plataforma flotante de hierba y roca_53: -4061358996507294781
+      Plataforma flotante de hierba y roca_54: -6969481592629166562
+      Plataforma flotante de hierba y roca_55: -5967950903781818158
+      Plataforma flotante de hierba y roca_56: 8342627895927864183
+      Plataforma flotante de hierba y roca_57: -2605645525150563136
+      Plataforma flotante de hierba y roca_58: 8780079949153561249
+      Plataforma flotante de hierba y roca_59: -94655368745044901
+      Plataforma flotante de hierba y roca_6: 3301535955673011925
+      Plataforma flotante de hierba y roca_60: -7088573363528905412
+      Plataforma flotante de hierba y roca_61: -585866028150598945
+      Plataforma flotante de hierba y roca_62: -7896279879188726841
+      Plataforma flotante de hierba y roca_63: -2391858907882027616
+      Plataforma flotante de hierba y roca_64: 2323372321834116277
+      Plataforma flotante de hierba y roca_65: 8958953193262600304
+      Plataforma flotante de hierba y roca_66: 5911499606676872570
+      Plataforma flotante de hierba y roca_67: -5872062859117596582
+      Plataforma flotante de hierba y roca_68: 2801328386032360637
+      Plataforma flotante de hierba y roca_69: -594608344823571033
+      Plataforma flotante de hierba y roca_7: -4303375924663275659
+      Plataforma flotante de hierba y roca_70: -2652405222437379172
+      Plataforma flotante de hierba y roca_71: -4457107874662623953
+      Plataforma flotante de hierba y roca_72: -9075987617801701546
+      Plataforma flotante de hierba y roca_73: -6119361891610786859
+      Plataforma flotante de hierba y roca_74: -8426113920810552620
+      Plataforma flotante de hierba y roca_75: 7136453690591541638
+      Plataforma flotante de hierba y roca_76: -8129624528903507088
+      Plataforma flotante de hierba y roca_77: 2075447151956917022
+      Plataforma flotante de hierba y roca_78: -4098158812241118862
+      Plataforma flotante de hierba y roca_79: 3694818547080024906
+      Plataforma flotante de hierba y roca_8: 1050145554072705838
+      Plataforma flotante de hierba y roca_80: 7218535967811454496
+      Plataforma flotante de hierba y roca_81: 200633652368079112
+      Plataforma flotante de hierba y roca_82: 8364897771551016073
+      Plataforma flotante de hierba y roca_83: -5995658091490384860
+      Plataforma flotante de hierba y roca_84: -3371909311151521901
+      Plataforma flotante de hierba y roca_85: 7374457280574368479
+      Plataforma flotante de hierba y roca_86: -2940590083512742359
+      Plataforma flotante de hierba y roca_87: 7835213199514509100
+      Plataforma flotante de hierba y roca_88: -7647538165279842411
+      Plataforma flotante de hierba y roca_89: -8201042785793674191
+      Plataforma flotante de hierba y roca_9: -7345143698210101931
+      Plataforma flotante de hierba y roca_90: 6828511372398273217
+      Plataforma flotante de hierba y roca_91: -2725269105617374405
+      Plataforma flotante de hierba y roca_92: -4347419285926266414
+      Plataforma flotante de hierba y roca_93: 7960861408717643246
+      Plataforma flotante de hierba y roca_94: -5756903910247182866
+      Plataforma flotante de hierba y roca_95: 4446789144275142305
+      Plataforma flotante de hierba y roca_96: 175612612934499714
+      Plataforma flotante de hierba y roca_97: -8847245210068681567
+      Plataforma flotante de hierba y roca_98: -4666125407251461921
+      Plataforma flotante de hierba y roca_99: -3868458009228653690
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
