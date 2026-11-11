@@ -20,6 +20,10 @@ public class CamaraSeguimiento : MonoBehaviour
     private Vector3 velocidad;
     private float posicionZ;
     private float alturaInicial;
+    private Vector3 posicionSeguimiento;
+    private float tiempoTemblor;
+    private float duracionTemblor;
+    private float intensidadTemblor;
 
     private void Awake()
     {
@@ -33,23 +37,85 @@ public class CamaraSeguimiento : MonoBehaviour
 
         if (jugador != null)
             transform.position = Limitar(ObtenerDestino());
+
+        posicionSeguimiento = transform.position;
     }
 
     private void LateUpdate()
     {
-        if (jugador == null)
+        if (jugador == null || Time.deltaTime <= 0f)
             return;
 
         Vector3 destino = Limitar(ObtenerDestino());
 
-        Vector3 posicion = Vector3.SmoothDamp(
-            transform.position,
+        posicionSeguimiento = Vector3.SmoothDamp(
+            posicionSeguimiento,
             destino,
             ref velocidad,
             Mathf.Max(0.01f, tiempoSuavizado)
         );
 
-        transform.position = Limitar(posicion);
+        posicionSeguimiento = Limitar(posicionSeguimiento);
+
+        Vector3 sacudida = Vector3.zero;
+
+        if (tiempoTemblor > 0f)
+        {
+            tiempoTemblor = Mathf.Max(
+                0f, tiempoTemblor - Time.deltaTime
+            );
+
+            float fuerza = intensidadTemblor
+                * (tiempoTemblor / duracionTemblor);
+
+            Vector2 desplazamientoAleatorio =
+                Random.insideUnitCircle * fuerza;
+
+            sacudida = new Vector3(
+                desplazamientoAleatorio.x,
+                desplazamientoAleatorio.y,
+                0f
+            );
+        }
+
+        transform.position = Limitar(
+            posicionSeguimiento + sacudida
+        );
+    }
+
+    public void Sacudir(float duracion, float intensidad)
+    {
+        if (duracion <= 0f || intensidad <= 0f)
+            return;
+
+        duracionTemblor = duracion;
+        tiempoTemblor = duracion;
+        intensidadTemblor = intensidad;
+    }
+
+    public void RecolocarEnJugador()
+    {
+        if (jugador == null)
+            return;
+
+        velocidad = Vector3.zero;
+        tiempoTemblor = 0f;
+
+        if (!seguirVerticalmente)
+            alturaInicial = jugador.position.y + desplazamiento.y;
+
+        posicionSeguimiento = Limitar(ObtenerDestino());
+        transform.position = posicionSeguimiento;
+    }
+
+    public void CambiarLimites(
+    Transform nuevoInferior,
+    Transform nuevoSuperior)
+    {
+        limiteCamaraInferior = nuevoInferior;
+        limiteCamaraSuperior = nuevoSuperior;
+
+        RecolocarEnJugador();
     }
 
     private Vector3 ObtenerDestino()

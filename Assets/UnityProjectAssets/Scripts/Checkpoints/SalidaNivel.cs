@@ -37,7 +37,6 @@ public class SalidaNivel : MonoBehaviour
 
         if (fundido != null)
         {
-            fundido.alpha = 0f;
             fundido.interactable = false;
             fundido.blocksRaycasts = false;
         }
@@ -174,14 +173,17 @@ public class SalidaNivel : MonoBehaviour
         {
             tiempo += Time.unscaledDeltaTime;
 
-            fundido.alpha = Mathf.Clamp01(
-                tiempo / duracionFundido
+            fundido.alpha = Mathf.SmoothStep(
+                0f,
+                1f,
+                Mathf.Clamp01(tiempo / duracionFundido)
             );
 
             yield return null;
         }
 
         fundido.alpha = 1f;
+        yield return null;
 
         GuardadoPartida.GuardarInicioNivel(siguienteNivel);
 

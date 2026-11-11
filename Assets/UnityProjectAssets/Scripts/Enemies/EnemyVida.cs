@@ -21,6 +21,7 @@ public class EnemyVida : MonoBehaviour
 
     public int VidaActual { get; private set; }
     public bool EstaMuerto { get; private set; }
+    public event System.Action AlMorir;
 
     private Animator animator;
     private Rigidbody2D rb;
@@ -144,6 +145,7 @@ public class EnemyVida : MonoBehaviour
             animator.SetBool("recibeDanio", false);
 
         animator.SetBool("muerto", true);
+        AlMorir?.Invoke();
     }
 
     public void FinalizarMuerte()

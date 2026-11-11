@@ -1,0 +1,389 @@
+fileFormatVersion: 2
+guid: 9f3a01342074e1846acb2d9fb15efca1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3090138566810429225
+    second: bat_aviso_0
+  - first:
+      213: -8496059690418213986
+    second: bat_aviso_1
+  - first:
+      213: -3785182200534859403
+    second: bat_aviso_2
+  - first:
+      213: -5819021816710375699
+    second: bat_aviso_3
+  - first:
+      213: 5318218479885607774
+    second: bat_aviso_4
+  - first:
+      213: -4439167985398802525
+    second: bat_aviso_5
+  - first:
+      213: -960773970889224268
+    second: bat_aviso_6
+  - first:
+      213: 4864624784791263081
+    second: bat_aviso_7
+  - first:
+      213: 561407974968258898
+    second: bat_aviso_8
+  - first:
+      213: -6951671058558176391
+    second: bat_aviso_9
+  - first:
+      213: 6477904478977270109
+    second: bat_aviso_10
+  - first:
+      213: 3115097846824584289
+    second: bat_aviso_11
+  - first:
+      213: -7560585869794563535
+    second: bat_aviso_12
+  - first:
+      213: -7354035670764566943
+    second: bat_aviso_13
+  - first:
+      213: -5370465087858150783
+    second: bat_aviso_14
+  - first:
+      213: 500865024386678030
+    second: bat_aviso_15
+  - first:
+      213: 4762843266355813873
+    second: bat_aviso_16
+  - first:
+      213: -553220353243964985
+    second: bat_aviso_17
+  - first:
+      213: -6957812392891939570
+    second: bat_aviso_18
+  - first:
+      213: 4546622923280827837
+    second: bat_aviso_19
+  - first:
+      213: 9184910877159369510
+    second: bat_aviso_20
+  - first:
+      213: -7063248611048288078
+    second: bat_aviso_21
+  - first:
+      213: 4091169995192530914
+    second: bat_aviso_22
+  - first:
+      213: 3022751495583022581
+    second: bat_aviso_23
+  - first:
+      213: -7960832731917442465
+    second: bat_aviso_24
+  - first:
+      213: -2612396006918065746
+    second: bat_aviso_25
+  - first:
+      213: -7289733178066714354
+    second: bat_aviso_26
+  - first:
+      213: -142858063239508368
+    second: bat_aviso_27
+  - first:
+      213: 6027842699730406361
+    second: bat_aviso_28
+  - first:
+      213: -8798841441988581003
+    second: bat_aviso_29
+  - first:
+      213: 3106592664280175172
+    second: bat_aviso_30
+  - first:
+      213: -5579647722782201848
+    second: bat_aviso_31
+  - first:
+      213: -1019181860089687396
+    second: bat_aviso_32
+  - first:
+      213: 1112271582254850244
+    second: bat_aviso_33
+  - first:
+      213: -2321398641279062344
+    second: bat_aviso_34
+  - first:
+      213: 8821713906482524499
+    second: bat_aviso_35
+  - first:
+      213: -7813178266067707798
+    second: bat_aviso_36
+  - first:
+      213: 5112726274520907674
+    second: bat_aviso_37
+  - first:
+      213: 3920954137998766972
+    second: bat_aviso_38
+  - first:
+      213: -5717880825416515859
+    second: bat_aviso_39
+  - first:
+      213: 4308951932526665867
+    second: bat_aviso_40
+  - first:
+      213: 1399641758078198189
+    second: bat_aviso_41
+  - first:
+      213: -1526796043588154421
+    second: bat_aviso_42
+  - first:
+      213: -4650955415017207368
+    second: bat_aviso_43
+  - first:
+      213: -1514058890670556155
+    second: bat_aviso_44
+  - first:
+      213: -5044496114416087284
+    second: bat_aviso_45
+  - first:
+      213: 5625217184293918775
+    second: bat_aviso_46
+  - first:
+      213: 5889535724100956836
+    second: bat_aviso_47
+  - first:
+      213: 2482327568682057162
+    second: bat_aviso_48
+  - first:
+      213: -905298986222150370
+    second: bat_aviso_49
+  - first:
+      213: 6704846902311452284
+    second: bat_aviso_50
+  - first:
+      213: -2423480290847274575
+    second: bat_aviso_51
+  - first:
+      213: -3627370962596502228
+    second: bat_aviso_52
+  - first:
+      213: 3101628529211931
+    second: bat_aviso_53
+  - first:
+      213: -7483901773535116695
+    second: bat_aviso_54
+  - first:
+      213: -1987118978144761205
+    second: bat_aviso_55
+  - first:
+      213: 2138494220698694745
+    second: bat_aviso_56
+  - first:
+      213: -3312593238366683713
+    second: bat_aviso_57
+  - first:
+      213: -4494174680412609052
+    second: bat_aviso_58
+  - first:
+      213: 1159228095519662694
+    second: bat_aviso_59
+  - first:
+      213: 4667816573165958050
+    second: bat_aviso_60
+  - first:
+      213: -287031717694763261
+    second: bat_aviso_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bat_aviso_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 724
+        height: 724
+      alignment: 9
+      pivot: {x: 0.6773797, y: 0.35247645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927687d77a062ea20800000000000000
+      internalID: 3090138566810429225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_aviso_1
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 0
+        width: 724
+        height: 724
+      alignment: 9
+      pivot: {x: 0.6773797, y: 0.3524764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b6b12c9bee71a80800000000000000
+      internalID: -8496059690418213986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_aviso_2
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 0
+        width: 724
+        height: 724
+      alignment: 9
+      pivot: {x: 0.6773797, y: 0.3524764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5710df6e7d4587bc0800000000000000
+      internalID: -3785182200534859403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5b528de893b72eb48aecc11329187291
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":1.0},"gridSpriteSize":{"x":724.0,"y":724.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      bat_aviso_0: 3090138566810429225
+      bat_aviso_1: -8496059690418213986
+      bat_aviso_2: -3785182200534859403
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

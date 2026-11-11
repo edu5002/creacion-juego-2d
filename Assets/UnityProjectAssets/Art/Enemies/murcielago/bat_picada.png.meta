@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: 4940bd54e38cfcd4682f5ae1bb5bf733
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3789492147189969466
+    second: bat_picada_0
+  - first:
+      213: -6912731845927005859
+    second: bat_picada_1
+  - first:
+      213: -7228793725595392103
+    second: bat_picada_2
+  - first:
+      213: 5120564694260353915
+    second: bat_picada_3
+  - first:
+      213: -6086232567458629626
+    second: bat_picada_4
+  - first:
+      213: 7184286484462299492
+    second: bat_picada_5
+  - first:
+      213: 1737926388291508342
+    second: bat_picada_6
+  - first:
+      213: -3007164189135256471
+    second: bat_picada_7
+  - first:
+      213: 7455401406304806043
+    second: bat_picada_8
+  - first:
+      213: 5034304630120619901
+    second: bat_picada_9
+  - first:
+      213: -8024371250701699457
+    second: bat_picada_10
+  - first:
+      213: 8208951199248655847
+    second: bat_picada_11
+  - first:
+      213: -7883230673244741375
+    second: bat_picada_12
+  - first:
+      213: -4947387182803611405
+    second: bat_picada_13
+  - first:
+      213: 7864903006863099071
+    second: bat_picada_14
+  - first:
+      213: 835194110537695744
+    second: bat_picada_15
+  - first:
+      213: 4081447078834083055
+    second: bat_picada_16
+  - first:
+      213: -6659733167385667128
+    second: bat_picada_17
+  - first:
+      213: -9106135173344429953
+    second: bat_picada_18
+  - first:
+      213: -7241920935123916818
+    second: bat_picada_19
+  - first:
+      213: 1973450264665805845
+    second: bat_picada_20
+  - first:
+      213: -8772089902052641425
+    second: bat_picada_21
+  - first:
+      213: 4697439276922293520
+    second: bat_picada_22
+  - first:
+      213: 3168016994196074503
+    second: bat_picada_23
+  - first:
+      213: -3416669857397792104
+    second: bat_picada_24
+  - first:
+      213: -6536059784209095484
+    second: bat_picada_25
+  - first:
+      213: 2405390137381924617
+    second: bat_picada_26
+  - first:
+      213: 723027672893495601
+    second: bat_picada_27
+  - first:
+      213: 6309055170919976417
+    second: bat_picada_28
+  - first:
+      213: 1100751021578331401
+    second: bat_picada_29
+  - first:
+      213: -5220236565522572219
+    second: bat_picada_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bat_picada_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 887
+        height: 887
+      alignment: 9
+      pivot: {x: 0.5455777, y: 0.32261634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd0c9f38f4096bc0800000000000000
+      internalID: -3789492147189969466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_picada_1
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 0
+        width: 887
+        height: 887
+      alignment: 9
+      pivot: {x: 0.5455777, y: 0.3226163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d519df7e20b0110a0800000000000000
+      internalID: -6912731845927005859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5cda092b6e84e274aa7d613d922dcbd4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":2.0,"y":1.0},"gridSpriteSize":{"x":887.0,"y":887.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      bat_picada_0: -3789492147189969466
+      bat_picada_1: -6912731845927005859
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

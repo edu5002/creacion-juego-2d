@@ -1,8 +1,10 @@
 using UnityEngine;
+using UnityEngine.Events;
 
 public class EnemyContactDamage : MonoBehaviour
 {
     public int danio = 1;
+    [SerializeField] private UnityEvent alAplicarDanio = new UnityEvent();
 
     [Header("Solo para enemigos con embestida")]
     public bool soloDuranteEmbestida = false;
@@ -50,6 +52,10 @@ public class EnemyContactDamage : MonoBehaviour
             seguidor.RegistrarImpacto();
         }
 
+        int vidaAnterior = jugador.VidaActual;
         jugador.RecibirDanio(danio, transform.position);
+
+        if (jugador.VidaActual < vidaAnterior)
+            alAplicarDanio.Invoke();
     }
 }

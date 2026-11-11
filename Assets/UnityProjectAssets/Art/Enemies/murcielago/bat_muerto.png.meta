@@ -1,0 +1,352 @@
+fileFormatVersion: 2
+guid: 7ca847bb6e47b244a8775afefcc15acd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3226957868406804539
+    second: bat_muerto_0
+  - first:
+      213: -8558306723280341656
+    second: bat_muerto_1
+  - first:
+      213: -3863834047466755258
+    second: bat_muerto_2
+  - first:
+      213: 1550543310307845880
+    second: bat_muerto_3
+  - first:
+      213: -1583506431039260447
+    second: bat_muerto_4
+  - first:
+      213: 4210522558355417364
+    second: bat_muerto_5
+  - first:
+      213: -6760044347823278126
+    second: bat_muerto_6
+  - first:
+      213: -7549783250327882945
+    second: bat_muerto_7
+  - first:
+      213: 7173773558531609085
+    second: bat_muerto_8
+  - first:
+      213: -6837239132559243333
+    second: bat_muerto_9
+  - first:
+      213: 4578204347277131102
+    second: bat_muerto_10
+  - first:
+      213: 6701154156808126434
+    second: bat_muerto_11
+  - first:
+      213: -8627786330979757953
+    second: bat_muerto_12
+  - first:
+      213: -960035001029855779
+    second: bat_muerto_13
+  - first:
+      213: -8564899263083202107
+    second: bat_muerto_14
+  - first:
+      213: 7193131252206241917
+    second: bat_muerto_15
+  - first:
+      213: 6804378700896054257
+    second: bat_muerto_16
+  - first:
+      213: -3461712281467284378
+    second: bat_muerto_17
+  - first:
+      213: -694903885789380872
+    second: bat_muerto_18
+  - first:
+      213: -7098914073698499526
+    second: bat_muerto_19
+  - first:
+      213: -210164689172680324
+    second: bat_muerto_20
+  - first:
+      213: 634789386305816533
+    second: bat_muerto_21
+  - first:
+      213: 3281427988332653548
+    second: bat_muerto_22
+  - first:
+      213: 5720651799239368059
+    second: bat_muerto_23
+  - first:
+      213: -5222732804836433474
+    second: bat_muerto_24
+  - first:
+      213: -6701569264152149637
+    second: bat_muerto_25
+  - first:
+      213: -2860737841395783911
+    second: bat_muerto_26
+  - first:
+      213: 6834275995485376403
+    second: bat_muerto_27
+  - first:
+      213: 5126825759401509151
+    second: bat_muerto_28
+  - first:
+      213: -7045323856264967810
+    second: bat_muerto_29
+  - first:
+      213: 4084524710275646810
+    second: bat_muerto_30
+  - first:
+      213: 3659738907730936935
+    second: bat_muerto_31
+  - first:
+      213: 3573733588198171703
+    second: bat_muerto_32
+  - first:
+      213: -5510506867213159124
+    second: bat_muerto_33
+  - first:
+      213: 4684246268056815310
+    second: bat_muerto_34
+  - first:
+      213: -1374831570274850537
+    second: bat_muerto_35
+  - first:
+      213: 128091317275540460
+    second: bat_muerto_36
+  - first:
+      213: 6148995855418516992
+    second: bat_muerto_37
+  - first:
+      213: 5125605937267490463
+    second: bat_muerto_38
+  - first:
+      213: -8214133570716964996
+    second: bat_muerto_39
+  - first:
+      213: 6326680251660920246
+    second: bat_muerto_40
+  - first:
+      213: -1914754549001968055
+    second: bat_muerto_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 480
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bat_muerto_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 543
+        height: 724
+      alignment: 9
+      pivot: {x: 0.6709402, y: 0.4350194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b301a8b851578cc20800000000000000
+      internalID: 3226957868406804539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_muerto_1
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 543
+        height: 724
+      alignment: 9
+      pivot: {x: 0.593666, y: 0.4332632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865b9080169ca3980800000000000000
+      internalID: -8558306723280341656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_muerto_2
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 543
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b2fa1c767e06ac0800000000000000
+      internalID: -3863834047466755258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat_muerto_3
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 0
+        width: 543
+        height: 724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6e1c3fce2a48510800000000000000
+      internalID: 1550543310307845880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0e7a1a6544c670d4bab403e52c56f531
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":1.0},"gridSpriteSize":{"x":543.0,"y":724.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      bat_muerto_0: 3226957868406804539
+      bat_muerto_1: -8558306723280341656
+      bat_muerto_2: -3863834047466755258
+      bat_muerto_3: 1550543310307845880
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -16,11 +16,13 @@ public class PalancaInteractiva : MonoBehaviour
 
     private Animator animador;
     private bool activada;
+    private AudioSource fuenteAudio;
 
     private void Awake()
     {
         animador = GetComponent<Animator>();
         MostrarAviso(false);
+        fuenteAudio = GetComponent<AudioSource>();
     }
 
     private void Update()
@@ -45,6 +47,8 @@ public class PalancaInteractiva : MonoBehaviour
             MostrarAviso(false);
 
             animador.SetTrigger("Activar");
+            if (fuenteAudio !=null && fuenteAudio.clip != null)
+                fuenteAudio.Play();
             alActivar.Invoke();
         }
     }
